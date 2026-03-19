@@ -1,4 +1,4 @@
-# Moving and Resting Together: *A Shared Practice for How We Care for Our Bodies*
+# Moving and Sleeping Together: *A Shared Practice for How We Care for Our Bodies*
 
 ---
 

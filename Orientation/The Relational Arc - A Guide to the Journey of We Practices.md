@@ -170,7 +170,7 @@ How the food system works and what it does to us. The parallel between ultra-pro
 *A Shared Practice for What We Use to Change How We Feel*
 How chemical state-modification affects the relational field. The "taking the edge off" pattern as premature discharge — the same mechanism that runs through reflexive apology and reflexive gratitude, applied to the nervous system directly. Shared agreements about substance use, grounded in honesty about why people use substances and what the relational costs are over time.
 
-**Moving and Resting Together**
+**Moving and Sleeping Together**
 *A Shared Practice for How We Care for Our Bodies*
 Physical movement and sleep as relational substrates. How sedentary patterns reduce co-regulatory capacity and how sleep deprivation degrades the neurological prerequisites for all other practices. Shared physical activity as connection. Sleep hygiene as relational practice.
 

@@ -8,7 +8,7 @@ The practice-level answer to the Adversary, the Great Divergence, the Great Deco
 
 1. Nourishing Ourselves
 2. Relating to Substances
-3. Moving and Resting
+3. Moving and Sleeping
 
 ## Tending Our Shared Spaces
 

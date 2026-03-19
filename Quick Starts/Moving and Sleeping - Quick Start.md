@@ -1,4 +1,4 @@
-# Moving and Resting: *A Quick Start*
+# Moving and Sleeping: *A Quick Start*
 
 ---
 
@@ -36,7 +36,7 @@ One question. Honest answers. Decisions that honor what the body is actually abl
 
 ## If this resonates
 
-The full guide, *Moving and Resting Together*, holds practices for tending the physical substrate: protecting each other's sleep, sharing physical activity, honest conversation about how your bodies actually are, and navigating the systemic forces that erode both movement and rest. It names the real costs without blaming individuals and treats the body as the ground on which relational capacity stands.
+The full guide, *Moving and Sleeping Together*, holds practices for tending the physical substrate: protecting each other's sleep, sharing physical activity, honest conversation about how your bodies actually are, and navigating the systemic forces that erode both movement and rest. It names the real costs without blaming individuals and treats the body as the ground on which relational capacity stands.
 
 The body is the ground. Let us tend that ground together.
 
