@@ -1,4 +1,4 @@
-# Sharing Perspectives: *A Quick Start*
+﻿# Sharing Perspectives: *A Quick Start*
 
 ---
 
@@ -11,8 +11,6 @@ In the other conversation, you say what you see and it bounces off. They counter
 Most of us default to the second version. Not because we don't care what the other person sees, but because holding two views at once is genuinely hard. Our nervous systems register difference as threat. We collapse into defense or accommodation before we even realize we've stopped listening.
 
 Sharing perspectives is the practice of offering what we see without imposing it, and receiving what the other sees without losing our own ground. It's how partial beings come to know more than their partiality allows.
-
-~Matthew and Naomi Danielle Morningstar
 
 ---
 
@@ -43,5 +41,7 @@ The full guide, *Sharing Perspectives Together*, holds eight practices for devel
 When we can genuinely hold two views at once, something larger becomes visible. Not compromise. Not agreement. Something closer to the whole. That spaciousness is available every time we choose curiosity over certainty.
 
 ---
+
+**Related practices:** Processing Emotions, Sense-Making, Different Capacities
 
 *A quick start from We Practices — The Experience of We*

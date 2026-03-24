@@ -1,4 +1,4 @@
-# The Awareness Spiral: *A Quick Start*
+﻿# The Awareness Spiral: *A Quick Start*
 
 ---
 
@@ -9,8 +9,6 @@ Now multiply that by every moment you spend together. Noticing, making sense, re
 When the spiral moves well, things open. You notice more. Your interpretations get more generous, more flexible. Your responses feel creative instead of automatic. You feel more connected. But when the spiral tightens, it goes the other way. You notice less. Your interpretations narrow. Your responses become reactive. And every turn makes the next turn worse. You've felt both. You know the difference in your body before you could explain it.
 
 The awareness spiral is the practice of learning to see this process as it moves through you. Not to control it. Just to participate. And it starts with something you can do the next time things get charged.
-
-~Matthew and Naomi Danielle Morningstar
 
 ---
 
@@ -41,5 +39,7 @@ The full guide, *The Awareness Spiral Together*, maps the three phases of the sp
 Seeing the spiral does not mean controlling it. It means finding the choice points inside something that used to feel automatic. If slowing things down for one round gave you even a moment of spaciousness, there is a whole practice waiting.
 
 ---
+
+**Related practices:** Fluid Awareness, Meta-Awareness, Catalyst Spiral
 
 *A quick start from We Practices — The Experience of We*

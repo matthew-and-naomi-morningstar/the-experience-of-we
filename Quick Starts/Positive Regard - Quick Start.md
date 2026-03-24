@@ -1,4 +1,4 @@
-# Positive Regard: *A Quick Start*
+﻿# Positive Regard: *A Quick Start*
 
 ---
 
@@ -11,8 +11,6 @@ Now think about the opposite. Someone whose regard for you depended on your perf
 Positive regard is the difference between these two experiences. It's the orientation of holding someone as fundamentally worthy, not because they've earned it, but because they exist. It doesn't mean approving of everything. It means separating who someone is from what they do, and never putting their essential worthiness on trial.
 
 When positive regard is present, vulnerability becomes possible. Feedback becomes bearable. Growth has room to happen. When it's absent, everything feels like a test.
-
-~Matthew and Naomi Danielle Morningstar
 
 ---
 
@@ -41,5 +39,7 @@ The full guide, *Assuming and Embodying Positive Regard Together*, holds seven p
 Positive regard is the foundation everything else is built on. If that one moment of assuming good intent changed the texture of the interaction, imagine what sustained practice makes possible.
 
 ---
+
+**Related practices:** Trust, Acknowledging and Affirming, Practicing Love
 
 *A quick start from We Practices — The Experience of We*

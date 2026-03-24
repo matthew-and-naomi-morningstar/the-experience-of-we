@@ -1,4 +1,4 @@
-# Beginner's Mind: *A Quick Start*
+﻿# Beginner's Mind: *A Quick Start*
 
 ---
 
@@ -11,8 +11,6 @@ Something shifted. At some point, without noticing, you stopped discovering and 
 But here's the thing. You don't know. The person you built that model of has been changing every day. They've had thoughts they haven't shared, shifts they haven't named, growth you haven't noticed. The model is outdated. And the living person is right there, waiting to be seen again.
 
 Beginner's mind is the practice of setting aside what we think we know and looking fresh. In the beginner's mind, there are many possibilities. In the expert's mind, there are few.
-
-~Matthew and Naomi Danielle Morningstar
 
 ---
 
@@ -41,5 +39,7 @@ The full guide, *Embracing Beginner's Mind Together*, holds seven practices for 
 The person we've been with for years is not the same person we met. Neither are we. Beginner's mind lets us meet again. If that one question revealed something you didn't expect, there is so much more to discover.
 
 ---
+
+**Related practices:** Curiosity, Playing, Awareness
 
 *A quick start from We Practices — The Experience of We*

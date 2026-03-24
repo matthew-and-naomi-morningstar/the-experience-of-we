@@ -1,4 +1,4 @@
-# Consent: *A Quick Start*
+﻿# Consent: *A Quick Start*
 
 ---
 
@@ -9,8 +9,6 @@ You also know the other kind. The yes that comes out because the cost of saying 
 Most of us carry both of these experiences. We know what it feels like to have our choices genuinely honored, and we know what it feels like to go along with something we never really agreed to. The difference isn't subtle. We feel it in the body: the openness and ease of real consent versus the constriction and heaviness of compliance.
 
 Consent isn't a gate we pass through once. It's a living quality we tend continuously. It applies to everything: how we spend our time, how decisions get made, what we share with others, what we ask of each other. Every day, in countless small ways, we are either honoring each other's choice or overriding it.
-
-~Matthew and Naomi Danielle Morningstar
 
 ---
 
@@ -39,5 +37,7 @@ The full guide, *Negotiating and Renegotiating Consent Together*, holds ten prac
 When consent is alive between us, everything else has ground to stand on. If naming that one implicit agreement shifted something, there is a whole practice waiting for you.
 
 ---
+
+**Related practices:** Boundaries, Accountability, Safety
 
 *A quick start from We Practices — The Experience of We*

@@ -1,4 +1,4 @@
-# Sharing Reflections: *A Quick Start*
+﻿# Sharing Reflections: *A Quick Start*
 
 ---
 
@@ -9,8 +9,6 @@ Someone says something. We hear it, process it through our own filters, and proc
 Reflection is the practice of closing that gap. When we reflect, we offer back what we heard in our own words, so the other person can confirm or correct. It sounds simple. It is simple. And it changes everything, because it replaces assumed understanding with verified understanding. "What I'm hearing is..." followed by a pause for them to say "yes, that's it" or "not quite."
 
 That small loop of checking transforms communication. It slows things down just enough for real understanding to form. And it says something important: *I care enough about what you're telling me to make sure I've actually received it.*
-
-~Matthew and Naomi Danielle Morningstar
 
 ---
 
@@ -41,5 +39,7 @@ The full guide, *Sharing Reflections Together*, holds seven practices for develo
 What was meant and what was heard. Let us make sure they meet.
 
 ---
+
+**Related practices:** Deep Listening, Processing Emotions, Sense-Making
 
 *A quick start from We Practices — The Experience of We*

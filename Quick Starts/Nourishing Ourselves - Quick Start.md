@@ -1,4 +1,4 @@
-# Nourishing Ourselves: *A Quick Start*
+﻿# Nourishing Ourselves: *A Quick Start*
 
 ---
 
@@ -9,8 +9,6 @@ Not in some distant, abstract way. Right now. Today. The food we consume becomes
 The modern food environment doesn't make this easy. Ultra-processed foods are engineered to override the body's own intelligence, delivering pleasure signals while bypassing satisfaction. The result is a population that is overfed and undernourished. Not from lack of willpower, but because the system is designed to keep us reaching for more while receiving less.
 
 This isn't a diet guide. We have no interest in prescribing what anyone should eat. What we're interested in is shared awareness: noticing together how what we consume affects our bodies, our energy, our relational capacity. And shared agency: making deliberate choices in a food environment that profits from our unconsciousness.
-
-~Matthew and Naomi Danielle Morningstar
 
 ---
 
@@ -39,5 +37,7 @@ The full guide, *Nourishing Ourselves Together*, holds practices for developing 
 What we put into our bodies becomes the material from which our shared life is built. Let us tend that material together.
 
 ---
+
+**Related practices:** Moving and Sleeping, Co-Regulation, Resting
 
 *A quick start from We Practices — The Experience of We*

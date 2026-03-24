@@ -1,4 +1,4 @@
-# Recognizing Dissonance: *A Quick Start*
+﻿# Recognizing Dissonance: *A Quick Start*
 
 ---
 
@@ -11,8 +11,6 @@ This is dissonance. The felt sense of being out of sync.
 Dissonance is not bad. It is information. Like physical pain that alerts us to injury, dissonance alerts us to misalignment. Something in the relational field needs attention. Ignoring it doesn't make it go away. It lets the misalignment persist or deepen, silently, until the distance between us becomes hard to close.
 
 Recognizing dissonance is the first step. We can't work with what we don't see. And the earlier we notice it, the smaller it tends to be.
-
-~Matthew and Naomi Danielle Morningstar
 
 ---
 
@@ -43,5 +41,7 @@ The full guide, *Recognizing Dissonance Together*, holds practices for developin
 Dissonance is information. Let us learn to hear it together.
 
 ---
+
+**Related practices:** Pause and Reflect, Working with Dissonance, Emotional Climate
 
 *A quick start from We Practices — The Experience of We*

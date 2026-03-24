@@ -1,4 +1,4 @@
-# Authenticity: *A Quick Start*
+﻿# Authenticity: *A Quick Start*
 
 ---
 
@@ -9,8 +9,6 @@ When what we express doesn't match what's true inside us, the relational field r
 We learned to mask for good reasons. Contexts that punished truth. Connections that felt conditional. The fear that being ourselves would mean losing the people we needed. These adaptations were intelligent. But in a relationship that wants to become alive, they become the very thing preventing the intimacy we long for.
 
 Authenticity is the ongoing practice of alignment. Letting what we communicate reflect what's actually true. Not unfiltered discharge of every thought. Something more careful than that. The commitment to being real, even when it's uncomfortable, so that the person receiving us can trust what they see.
-
-~Matthew and Naomi Danielle Morningstar
 
 ---
 
@@ -39,5 +37,7 @@ The full guide, *Practicing Authenticity Together*, holds practices for developi
 A living relationship needs real information. Let us practice being real together.
 
 ---
+
+**Related practices:** Vulnerability, Exploring Shadows, Becoming Ourselves
 
 *A quick start from We Practices — The Experience of We*

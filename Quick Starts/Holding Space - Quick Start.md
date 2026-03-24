@@ -1,4 +1,4 @@
-# Holding Space: *A Quick Start*
+﻿# Holding Space: *A Quick Start*
 
 ---
 
@@ -9,8 +9,6 @@ To have someone present with us while we experience what we're experiencing. Wit
 This is holding space. Pure presence without agenda. And it's harder than it sounds, because when someone we love is in pain, everything in us wants to fix it. We offer advice, solutions, reassurance. We try to talk them out of their feelings. All of this comes from care. But it can also communicate something unintended: that their experience is too much, that it needs to change, that we can't simply be with them in it.
 
 Holding space says something different. *I am here. You can feel whatever you're feeling. I won't try to change you. I trust your process. I will stay.*
-
-~Matthew and Naomi Danielle Morningstar
 
 ---
 
@@ -41,5 +39,7 @@ The full guide, *Holding Space for Each Other*, holds practices for developing t
 To be witnessed without interference is to be trusted. Let us trust each other's process.
 
 ---
+
+**Related practices:** Vulnerability, Processing Emotions, Navigating Trauma
 
 *A quick start from We Practices — The Experience of We*

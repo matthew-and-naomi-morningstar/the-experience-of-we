@@ -1,4 +1,4 @@
-# Attuning: *A Quick Start*
+﻿# Attuning: *A Quick Start*
 
 ---
 
@@ -9,8 +9,6 @@ Not when they guess correctly about what we're feeling. Not when they assume or 
 This is attunement: the experience of being accurately perceived by each other. It isn't mind-reading. We will never know everything about each other's inner worlds. But we can develop enough sensitivity to perceive the general shape of what each other is experiencing. Enough to respond well. Enough to be with each other where we actually are, rather than where we assume we are.
 
 Attunement is not a gift some people have and others lack. It is a capacity we build together through intentional practice. Whatever our starting point, our ability to sense each other can grow.
-
-~Matthew and Naomi Danielle Morningstar
 
 ---
 
@@ -41,5 +39,7 @@ The full guide, *Attuning Together*, holds practices for developing shared attun
 We don't have to be perfect at sensing each other. We just have to keep trying. That willingness is itself a form of love.
 
 ---
+
+**Related practices:** Co-Regulation, Non-Verbal Cues, Practicing Love
 
 *A quick start from We Practices — The Experience of We*

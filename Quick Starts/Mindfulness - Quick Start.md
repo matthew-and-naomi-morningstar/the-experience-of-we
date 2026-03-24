@@ -1,4 +1,4 @@
-# Mindfulness: *A Quick Start*
+﻿# Mindfulness: *A Quick Start*
 
 ---
 
@@ -9,8 +9,6 @@ When anger arises, we can become the anger. Acting from it, identified so comple
 This is mindfulness: the capacity to observe what's happening without being swallowed by it. A thought arises, and we can see it as a thought. A feeling moves through, and we can hold it without becoming it. An impulse appears, and we can notice it without obeying it.
 
 In relationship, this changes everything. When we're fused with our reactions, we project them. "You made me angry." When we can observe our reactions, we own them. "Anger is arising in me." That shift creates space for both of us. Space to respond instead of react. Space to be with each other rather than at each other.
-
-~Matthew and Naomi Danielle Morningstar
 
 ---
 
@@ -41,5 +39,7 @@ The full guide, *Developing Mindfulness Together*, holds practices for building 
 When we can observe our experience, we create space. Let us practice that spaciousness together.
 
 ---
+
+**Related practices:** Awareness, Pause and Reflect, Fluid Awareness
 
 *A quick start from We Practices — The Experience of We*

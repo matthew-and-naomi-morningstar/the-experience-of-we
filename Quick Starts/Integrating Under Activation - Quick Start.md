@@ -1,4 +1,4 @@
-# Integrating Under Activation: *A Quick Start*
+﻿# Integrating Under Activation: *A Quick Start*
 
 ---
 
@@ -9,8 +9,6 @@ We've been practicing something different. Maybe we've learned to pause before r
 Then something triggers us. And in a flash, the new pattern is gone. We're back in the old one before we even notice. The shame that follows can be worse than the activation itself. We thought we were past this.
 
 But this isn't failure. It's physiology. The nervous system reaches for its deepest wiring under pressure, the patterns practiced longest. Integration under activation is how we teach the nervous system to trust the new pattern too. Not by avoiding stress, but by gradually building the new pattern's capacity to hold when the ground shakes.
-
-~Matthew and Naomi Danielle Morningstar
 
 ---
 
@@ -41,5 +39,7 @@ The full guide, *Integrating Under Activation Together*, holds practices for str
 New patterns haven't been truly integrated until they can hold under pressure. Let us build that capacity together.
 
 ---
+
+**Related practices:** Navigating Triggers, Processing Emotions, Pause and Reflect
 
 *A quick start from We Practices — The Experience of We*

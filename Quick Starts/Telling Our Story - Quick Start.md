@@ -1,4 +1,4 @@
-# Telling Our Story: *A Quick Start*
+﻿# Telling Our Story: *A Quick Start*
 
 ---
 
@@ -9,8 +9,6 @@ We narrate our days. We build explanations for why things happen. We tell oursel
 These stories aren't decorations laid over a deeper reality. They are the lens through which we experience it. When our stories are in sync, communication flows. We feel understood. We have common ground. When our stories fall out of sync, we talk past each other. We feel unseen. We're baffled by reactions that don't make sense from within our own narrative.
 
 The practice is telling our stories to each other. Examining them together. Keeping them flexible and current as we grow and change. When we align our stories, we align our worlds.
-
-~Matthew and Naomi Danielle Morningstar
 
 ---
 
@@ -41,5 +39,7 @@ The full guide, *Telling Our Story Together*, holds practices for shared narrati
 When we align our stories, we align our worlds. Let us tell our stories together.
 
 ---
+
+**Related practices:** Co-Metabolizing, Meaning-Making, Creating
 
 *A quick start from We Practices — The Experience of We*

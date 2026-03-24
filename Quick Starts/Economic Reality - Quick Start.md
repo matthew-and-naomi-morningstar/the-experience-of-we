@@ -1,4 +1,4 @@
-# Navigating Economic Reality: *A Quick Start*
+﻿# Navigating Economic Reality: *A Quick Start*
 
 ---
 
@@ -9,8 +9,6 @@ Not because we don't think about it. We think about it constantly. We worry abou
 Economic forces don't just create stress. They determine how much time we have for each other, how much energy is left for connection, how many of our decisions are genuinely free and how many are made under duress. Different economic positions create radically different constraints. Some of us are choosing between organic and conventional. Others are choosing between rent and food. Economic stress is not a personal failing. It is a systemic condition.
 
 What we share, across every position, is that money shapes our relational field in ways we rarely name. Naming it together is the beginning.
-
-~Matthew and Naomi Danielle Morningstar
 
 ---
 
@@ -41,5 +39,7 @@ The full guide, *Navigating Economic Reality Together*, holds practices for seei
 Money shapes the field between us. Let us look at it honestly, together.
 
 ---
+
+**Related practices:** Social World, Creating Our Spaces, Shared Values
 
 *A quick start from We Practices — The Experience of We*

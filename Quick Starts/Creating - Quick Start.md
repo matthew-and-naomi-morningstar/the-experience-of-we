@@ -1,4 +1,4 @@
-# Creating: *A Quick Start*
+﻿# Creating: *A Quick Start*
 
 ---
 
@@ -9,8 +9,6 @@ A meal cooked together. A garden planted. A room rearranged. A project built. Th
 In creating together, we discover how we work with each other. Our rhythms, our conflicts, our complementarities. We learn to negotiate vision and execution, to hold the tension between my idea and yours, to yield and assert and blend. The process is relationship in action.
 
 What we create also creates us. We're shaped by our collaborations, marked by what we've made together. Shared creations become part of our story. *This is what emerged from us.*
-
-~Matthew and Naomi Danielle Morningstar
 
 ---
 
@@ -41,5 +39,7 @@ The full guide, *Creating Together*, holds practices for developing shared gener
 What we create together becomes part of who we are. Let us create.
 
 ---
+
+**Related practices:** Playing, Becoming Ourselves, Co-Metabolizing
 
 *A quick start from We Practices — The Experience of We*

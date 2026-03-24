@@ -1,4 +1,4 @@
-# Seeking Resonance: *A Quick Start*
+﻿# Seeking Resonance: *A Quick Start*
 
 ---
 
@@ -7,8 +7,6 @@ We know the feeling. A conversation where we're genuinely tracking the same thre
 In these moments, something between us hums. We're not working at connection. We're experiencing it. There is ease, flow, a sense that we are moving together rather than merely alongside each other. The usual effort of translating ourselves across the gap relaxes. We are, for a moment, in sync.
 
 This is resonance. And it doesn't happen only by accident. We can learn to notice when it's present, create conditions that invite it, and return to it when it fades.
-
-~Matthew and Naomi Danielle Morningstar
 
 ---
 
@@ -39,5 +37,7 @@ The full guide, *Seeking Resonance Together*, holds practices for cultivating al
 When resonance is present, something between us comes alive. Let us learn to find it together.
 
 ---
+
+**Related practices:** Working with Dissonance, Shared Values, Co-Metabolizing
 
 *A quick start from We Practices — The Experience of We*

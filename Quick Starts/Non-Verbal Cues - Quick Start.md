@@ -1,4 +1,4 @@
-# Non-Verbal Cues: *A Quick Start*
+﻿# Non-Verbal Cues: *A Quick Start*
 
 ---
 
@@ -9,8 +9,6 @@ A sigh that carries the weight of an entire day. A jaw that tightens when a cert
 When we learn to read these signals, we gain access to a richer, more honest stream of information. Bodies don't lie the way words can. Someone may say "I'm fine" while their shoulders carry something heavy. Someone may insist nothing's wrong while their voice goes flat and their gaze drops. When we notice these signals, we can respond to what's actually happening, not just what's being said.
 
 This isn't mind-reading. It's paying attention. And like any skill, it develops with practice.
-
-~Matthew and Naomi Danielle Morningstar
 
 ---
 
@@ -41,5 +39,7 @@ The full guide, *Learning to Recognize Non-Verbal Cues Together*, holds seven pr
 The body is always speaking. Let us listen together.
 
 ---
+
+**Related practices:** Interoception, Attuning, Shared Embodiment
 
 *A quick start from We Practices — The Experience of We*

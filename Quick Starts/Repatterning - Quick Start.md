@@ -1,4 +1,4 @@
-# Repatterning: *A Quick Start*
+﻿# Repatterning: *A Quick Start*
 
 ---
 
@@ -9,8 +9,6 @@ The repeated ways we organize attention, energy, and response between us. The wa
 Some patterns serve us well. Others don't. Patterns aren't good or bad in themselves. They're how living systems organize. But patterns can outlive their usefulness. What once protected us may now constrain us. What we developed under old conditions may not serve our current life.
 
 Repatterning is the conscious work of changing how the relationship organizes itself. Not just changing a behavior here or there, but reshaping the deeper structures that generate behavior.
-
-~Matthew and Naomi Danielle Morningstar
 
 ---
 
@@ -41,5 +39,7 @@ The full guide, *Repatterning Together*, holds practices for conscious pattern c
 Patterns that no longer serve us can be changed. Let us change them together.
 
 ---
+
+**Related practices:** Integrating, Thought Patterns, Recognizing Regression
 
 *A quick start from We Practices — The Experience of We*

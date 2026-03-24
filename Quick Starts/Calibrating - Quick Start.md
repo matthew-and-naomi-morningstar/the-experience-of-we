@@ -1,4 +1,4 @@
-# Calibrating: *A Quick Start*
+﻿# Calibrating: *A Quick Start*
 
 ---
 
@@ -7,8 +7,6 @@ There's a particular frustration most relationships know well. We talk, we under
 The same patterns repeat. The same frustrations resurface. The conversations we had seem to evaporate into daily life. This is the gap between understanding and action. We know what needs to shift. We've even agreed on it. But the knowing doesn't make it to the doing.
 
 Calibration bridges that gap. It's the concrete work of adjusting our behavior, our systems, our patterns to align with what we now understand. Without it, insight stays theoretical. With it, understanding becomes how we actually live together.
-
-~Matthew and Naomi Danielle Morningstar
 
 ---
 
@@ -39,5 +37,7 @@ The full guide, *Calibrating Together*, holds practices for aligning action with
 Understanding that doesn't reach action stays theoretical. Let us build the bridge together.
 
 ---
+
+**Related practices:** Pause and Reflect, Repairing, Recognizing Regression
 
 *A quick start from We Practices — The Experience of We*

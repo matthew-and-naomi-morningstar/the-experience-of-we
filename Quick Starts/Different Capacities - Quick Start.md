@@ -1,4 +1,4 @@
-# Different Capacities: *A Quick Start*
+﻿# Different Capacities: *A Quick Start*
 
 ---
 
@@ -9,8 +9,6 @@ One of us might have more physical energy. One might process emotions faster. On
 Most relational frameworks quietly assume symmetry. Two people with roughly equal capacities meeting in the middle. But that isn't how it works. Every relationship involves asymmetry. In stamina, in emotional range, in sensory tolerance, in what our bodies can sustain. The silence around these differences does real harm. The partner with less capacity carries shame they shouldn't have to carry alone. The partner with more carries weight they don't always know how to name.
 
 This practice offers language. Not to fix the asymmetry, but to navigate it honestly, together.
-
-~Matthew and Naomi Danielle Morningstar
 
 ---
 
@@ -41,5 +39,7 @@ The full guide, *Navigating Different Capacities Together*, holds practices for 
 Every relationship involves asymmetry. Let us navigate ours honestly, together.
 
 ---
+
+**Related practices:** Sharing Perspectives, Consent, Acknowledging and Affirming
 
 *A quick start from We Practices — The Experience of We*

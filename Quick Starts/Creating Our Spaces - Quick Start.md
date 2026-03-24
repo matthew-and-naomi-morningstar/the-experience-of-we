@@ -1,4 +1,4 @@
-# Creating Our Spaces: *A Quick Start*
+﻿# Creating Our Spaces: *A Quick Start*
 
 ---
 
@@ -9,8 +9,6 @@ The light. The sounds. The temperature. The degree of order or disorder. Whether
 In relationships, we share environments. The spaces we inhabit together become the physical containers for everything we're trying to build: co-regulation, honesty, intimacy, rest, repair. When those spaces are chronically dysregulating, they erode our relational capacity regardless of how skilled our practices are. We can be doing everything right between us and still be undermined by where we're doing it.
 
 This isn't interior design advice. It's relational practice. Tending our shared environments is itself a co-regulatory act.
-
-~Matthew and Naomi Danielle Morningstar
 
 ---
 
@@ -41,5 +39,7 @@ The full guide, *Creating Our Spaces Together*, holds practices for tending shar
 The space we share shapes the relationship. Let us tend that space together.
 
 ---
+
+**Related practices:** Social World, Presence, Shared Embodiment
 
 *A quick start from We Practices — The Experience of We*

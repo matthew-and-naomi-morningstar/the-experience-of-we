@@ -1,4 +1,4 @@
-# Acknowledging and Returning: *A Quick Start*
+﻿# Acknowledging and Returning: *A Quick Start*
 
 ---
 
@@ -9,8 +9,6 @@ But something didn't pass. The giver offered something from genuine care, and wh
 This guide is about completing that circuit. Replacing reflexive "thank you" with something more honest: genuine acknowledgment of what was received, and a return that lets the giver know they were seen. Not just in what they gave, but in the care and attention behind it.
 
 And when what was given didn't land, it's about having the courage to say so with warmth rather than performing gratitude we don't feel.
-
-~Matthew and Naomi Danielle Morningstar
 
 ---
 
@@ -41,5 +39,7 @@ The full guide, *Acknowledging and Returning Together*, holds practices for deve
 The circuit of giving and receiving only completes when the giver feels seen. Let us practice seeing each other.
 
 ---
+
+**Related practices:** Presence, Acknowledging and Affirming, Celebrating and Reassessing
 
 *A quick start from We Practices — The Experience of We*

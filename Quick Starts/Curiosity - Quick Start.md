@@ -1,4 +1,4 @@
-# Curiosity: *A Quick Start*
+﻿# Curiosity: *A Quick Start*
 
 ---
 
@@ -9,8 +9,6 @@ Not the polite kind, where we ask "how was your day?" and half-listen to the ans
 When curiosity is present, the relationship stays in motion. There is always more to discover, because the person we love is always changing. When curiosity fades, something calcifies. We stop asking. We start assuming. We think we already know. And slowly, the person in front of us becomes a fixed idea rather than a living mystery.
 
 The difference between a relationship that stays alive over years and one that goes flat is often this simple: did we keep being curious about each other? Or did we decide, at some point, that we already knew everything there was to know?
-
-~Matthew and Naomi Danielle Morningstar
 
 ---
 
@@ -39,5 +37,7 @@ The full guide, *Exploring Curiosity Together*, holds seven practices for cultiv
 The person beside us is always more than we've yet discovered. Let us keep exploring.
 
 ---
+
+**Related practices:** Beginner's Mind, Exploring Shadows, Sense-Making
 
 *A quick start from We Practices — The Experience of We*

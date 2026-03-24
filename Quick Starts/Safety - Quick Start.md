@@ -1,4 +1,4 @@
-# Safety: *A Quick Start*
+﻿# Safety: *A Quick Start*
 
 ---
 
@@ -9,8 +9,6 @@ We feel it in the body. When safety is present, something loosens. The jaw uncle
 When safety is absent, everything is harder. We stay in some version of defense. Hypervigilant, withdrawn, or swinging between the two. The creative, curious, intimate parts of us, the ones that make relationship rich, can't come online. They need safety to function. Without it, we're managing the relationship rather than living it.
 
 Safety isn't something we achieve once. It's something we keep creating, through consistent small interactions where our words and actions align, where vulnerability is met with care, where the person beside us becomes someone our body can trust.
-
-~Matthew and Naomi Danielle Morningstar
 
 ---
 
@@ -41,5 +39,7 @@ The full guide, *Creating Safety Together*, holds practices for building ground 
 Safety isn't a destination. It's something we keep building. Let us become the ground each other can trust.
 
 ---
+
+**Related practices:** Boundaries, Trust, Co-Regulation
 
 *A quick start from We Practices — The Experience of We*

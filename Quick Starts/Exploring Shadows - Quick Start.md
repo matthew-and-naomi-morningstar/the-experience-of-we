@@ -1,4 +1,4 @@
-# Exploring Shadows: *A Quick Start*
+﻿# Exploring Shadows: *A Quick Start*
 
 ---
 
@@ -9,8 +9,6 @@ The flash of rage that seems to come from nowhere. The shame that floods us befo
 These are our shadows. The parts of us that were separated from conscious awareness because, at some point, they weren't safe to hold. Emotions we weren't allowed to feel. Needs we learned to deny. Truths about ourselves that the people around us couldn't tolerate. So we put them away. Not gone, just hidden. Out of sight, still running.
 
 Relationships bring shadows to the surface. Intimacy creates the exact conditions where what we've hidden can no longer stay hidden. This is uncomfortable. And it's one of the most important things a relationship can do for us.
-
-~Matthew and Naomi Danielle Morningstar
 
 ---
 
@@ -41,5 +39,7 @@ The full guide, *Exploring Our Shadows Together*, holds practices for meeting wh
 What we can't see still runs us. Let us learn to look, together.
 
 ---
+
+**Related practices:** Authenticity, Curiosity, Navigating Triggers
 
 *A quick start from We Practices — The Experience of We*

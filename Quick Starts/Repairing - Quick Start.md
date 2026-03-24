@@ -1,4 +1,4 @@
-# Repairing: *A Quick Start*
+﻿# Repairing: *A Quick Start*
 
 ---
 
@@ -9,8 +9,6 @@ Not intentionally. Not maliciously. But hurt each other nonetheless. Misundersta
 The question is not whether rupture will happen. It will. The question is what happens after. Some relationships rupture and never heal. The wound festers. Distance grows. Others rupture and repair. The wound is tended together. Connection is restored. And something stronger emerges from the healing.
 
 The difference is not luck. It is practice. Repair is something we learn to do together. And it gets better the more we do it.
-
-~Matthew and Naomi Danielle Morningstar
 
 ---
 
@@ -39,5 +37,7 @@ The full guide, *Repairing Together*, holds practices for the full arc of repair
 We will break things between us. What matters is whether we come back to mend them. Let us learn to repair together.
 
 ---
+
+**Related practices:** Accountability, Releasing and Forgiving, Calibrating
 
 *A quick start from We Practices — The Experience of We*

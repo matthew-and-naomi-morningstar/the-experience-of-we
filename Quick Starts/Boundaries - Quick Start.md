@@ -1,4 +1,4 @@
-# Boundaries: *A Quick Start*
+﻿# Boundaries: *A Quick Start*
 
 ---
 
@@ -9,8 +9,6 @@ Most of us have a complicated relationship with our own limits. We override them
 And then the resentment arrives. Not all at once, but slowly. The residue of every time we said yes when our body was saying no. Every time we gave past our capacity. Every time a limit went unnamed because it felt safer to swallow it.
 
 Here's the paradox. Boundaries aren't the opposite of closeness. They are what make closeness sustainable. When we know where we each end, it becomes safe to let each other in. Knowing we can say no makes our yes real.
-
-~Matthew and Naomi Danielle Morningstar
 
 ---
 
@@ -39,5 +37,7 @@ The full guide, *Sensing, Naming, and Negotiating Boundaries Together*, holds el
 Our edges are not obstacles to love. They are the shape of the selves that love. If naming that one boundary in advance brought relief, there is a whole practice of honoring limits waiting for you.
 
 ---
+
+**Related practices:** Consent, Safety, Navigating Triggers
 
 *A quick start from We Practices — The Experience of We*

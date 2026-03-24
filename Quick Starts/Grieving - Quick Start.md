@@ -1,4 +1,4 @@
-# Grieving: *A Quick Start*
+﻿# Grieving: *A Quick Start*
 
 ---
 
@@ -7,8 +7,6 @@ Loss is part of life. And grief is how we metabolize it.
 People die. Relationships end. Dreams don't happen. Chapters close. The self we once were gives way to someone new. These losses accumulate across a life. They need somewhere to go. They need to be felt, honored, and slowly released.
 
 Grief is often lonely. We withdraw. We feel that our sorrow is too much for others. We smile and say we're fine while the weight presses on our chest. But grief was never meant to be carried alone. Humans have always grieved in community. When we grieve together, the loss doesn't become smaller. But we become larger. We discover we can hold what we could not hold alone.
-
-~Matthew and Naomi Danielle Morningstar
 
 ---
 
@@ -39,5 +37,7 @@ The full guide, *Grieving Together*, holds practices for holding loss as a share
 Grief was never meant to be carried alone. Let us carry it together.
 
 ---
+
+**Related practices:** Releasing and Forgiving, Holding Space, Navigating Trauma
 
 *A quick start from We Practices — The Experience of We*

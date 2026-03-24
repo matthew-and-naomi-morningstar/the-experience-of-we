@@ -1,4 +1,4 @@
-# Working with Dissonance: *A Quick Start*
+﻿# Working with Dissonance: *A Quick Start*
 
 ---
 
@@ -9,8 +9,6 @@ Our usual responses are to make it go away. We suppress it, pretending everythin
 But dissonance doesn't want to go away. It wants to be heard. Because dissonance is not a problem. It is information. It is the field between us telling us something that needs our attention.
 
 Working with dissonance means learning to metabolize the friction rather than fight it. Receiving it, inquiring into it, extracting what it has to teach us, and letting what we learn change something real between us. This is how relationships grow. Not by avoiding difficulty, but by letting difficulty do its work.
-
-~Matthew and Naomi Danielle Morningstar
 
 ---
 
@@ -41,5 +39,7 @@ The full guide, *Working with Dissonance Together*, holds practices for metaboli
 Dissonance isn't the enemy. It's the curriculum. Let us learn from it together.
 
 ---
+
+**Related practices:** Recognizing Dissonance, Seeking Resonance, Repairing
 
 *A quick start from We Practices — The Experience of We*

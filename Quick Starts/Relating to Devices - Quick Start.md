@@ -1,4 +1,4 @@
-# Relating to Our Devices: *A Quick Start*
+﻿# Relating to Our Devices: *A Quick Start*
 
 ---
 
@@ -9,8 +9,6 @@ Every notification, every infinite scroll, every algorithmic recommendation is e
 We all know the feeling. One of us reaches for a phone mid-conversation. Both of us scroll side by side in silence that neither of us chose. A notification fractures a moment of connection. None of this means we're weak. It means we're living inside a system designed to do exactly this.
 
 The question isn't whether our devices will compete with our relationship. They already do. The question is whether we'll face that competition together, with shared awareness and shared agreements.
-
-~Matthew and Naomi Danielle Morningstar
 
 ---
 
@@ -41,5 +39,7 @@ The full guide, *Relating to Our Devices Together*, holds practices for developi
 The most precious resource a relationship has is shared attention. Let us protect it together.
 
 ---
+
+**Related practices:** Navigating Information, Creating Our Spaces, Presence
 
 *A quick start from We Practices — The Experience of We*

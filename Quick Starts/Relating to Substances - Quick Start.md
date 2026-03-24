@@ -1,4 +1,4 @@
-# Relating to Substances: *A Quick Start*
+﻿# Relating to Substances: *A Quick Start*
 
 ---
 
@@ -9,8 +9,6 @@ A drink at the end of a hard day shifts the state. Quickly, reliably, without as
 The question isn't whether substances change how we feel. Of course they do. The question is what happens in the relational field when we reach for a chemical to do what our nervous systems were designed to do together. The slight dimming of presence. The softening of edges that also softens contact. The warmth that's chemical rather than relational. These shifts are real, and they reshape the field between us whether we discuss them or not.
 
 This isn't a lecture about sobriety. It's about seeing together, honestly, how the things we use to change how we feel shape what happens between us. Alcohol, caffeine, cannabis, nicotine, sugar. Not because they're evil. Because they're powerful. And power that operates outside of shared awareness has a cost.
-
-~Matthew and Naomi Danielle Morningstar
 
 ---
 
@@ -41,5 +39,7 @@ The full guide, *Relating to Substances Together*, holds practices for deepening
 Shared awareness. That's what we're after. Together, without pretending.
 
 ---
+
+**Related practices:** Thought Patterns, Emotional Climate, Navigating Triggers
 
 *A quick start from We Practices — The Experience of We*

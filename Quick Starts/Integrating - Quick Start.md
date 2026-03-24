@@ -1,4 +1,4 @@
-# Integrating: *A Quick Start*
+﻿# Integrating: *A Quick Start*
 
 ---
 
@@ -7,8 +7,6 @@ We've done the work. We developed awareness. We navigated difficulty. We committ
 Integration is the bridge between knowing what to do differently and actually doing it differently. Not once, but consistently. Until the new way becomes natural. This is where most change efforts fail. We have the insight. We've made the commitment. We even try the new behavior. But then the old patterns reassert themselves. The new way requires too much effort. Gradually, we drift back.
 
 Integration is the antidote to that drift. The deliberate, sustained practice of new patterns until they stabilize. Until they become who we are together, not just what we're trying to be.
-
-~Matthew and Naomi Danielle Morningstar
 
 ---
 
@@ -39,5 +37,7 @@ The full guide, *Integrating Together*, holds practices for embodying new patter
 The work isn't done when we understand. It's done when we've become what we've understood. Let us practice becoming together.
 
 ---
+
+**Related practices:** Repatterning, Completing Micro-Cycles, Meaning-Making
 
 *A quick start from We Practices — The Experience of We*

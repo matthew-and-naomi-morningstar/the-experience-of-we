@@ -1,4 +1,4 @@
-# Acknowledging and Affirming: *A Quick Start*
+﻿# Acknowledging and Affirming: *A Quick Start*
 
 ---
 
@@ -9,8 +9,6 @@ We learned it the way we learned "please" and "thank you." A social formula. A w
 But something doesn't pass. There's a residue. A subtle sense that what happened wasn't quite met. The apology landed somewhere near the injury, not on it. The other person heard the words but didn't feel seen.
 
 This guide is about the gap between reflexive apology and genuine acknowledgment. What happens when we trade "I'm sorry" for something more precise: specific perception of what actually happened, and honest naming of where we're heading together. It costs more. It takes longer. And it changes what repair can do.
-
-~Matthew and Naomi Danielle Morningstar
 
 ---
 
@@ -41,5 +39,7 @@ The full guide, *Acknowledging and Affirming Together*, holds practices for deve
 The difference between "I'm sorry" and "I see what I did" is the difference between formula and repair. Let us practice the real thing.
 
 ---
+
+**Related practices:** Positive Regard, Repairing, Celebrating and Reassessing
 
 *A quick start from We Practices — The Experience of We*

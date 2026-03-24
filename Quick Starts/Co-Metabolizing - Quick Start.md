@@ -1,4 +1,4 @@
-# Co-Metabolizing: *A Quick Start*
+﻿# Co-Metabolizing: *A Quick Start*
 
 ---
 
@@ -9,8 +9,6 @@ Grief that fills every room. Uncertainty that has no clear path through. Complex
 But something different becomes possible when we metabolize together. The relational field itself becomes capable of digesting what would overwhelm either person alone. Emotions can be held without collapse. Uncertainty can be tolerated without rushing to false resolution. Meaning can emerge from the collaboration of perspectives.
 
 This isn't just talking about our feelings. It's not just emotional support. It's a qualitatively different process. A distributed metabolism where reality is digested by the relationship as a whole.
-
-~Matthew and Naomi Danielle Morningstar
 
 ---
 
@@ -41,5 +39,7 @@ The full guide, *Co-Metabolizing Together*, holds practices for developing share
 Some things can only be digested together. Let us build that capacity.
 
 ---
+
+**Related practices:** Seeking Resonance, Shared Embodiment, Telling Our Story
 
 *A quick start from We Practices — The Experience of We*

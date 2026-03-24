@@ -1,4 +1,4 @@
-# Tending Our Social World: *A Quick Start*
+﻿# Tending Our Social World: *A Quick Start*
 
 ---
 
@@ -9,8 +9,6 @@ Family, friends, colleagues, neighbors, communities. The patterns that run throu
 If the relational fields around us are organized around gossip, avoidance, or contempt, we carry those patterns into our own space. Not because we endorse them. Because they've become familiar. And familiar patterns are what the nervous system defaults to under stress.
 
 This isn't about cutting people off or building a fortress around the relationship. It's about tending the ecology. Becoming aware of which relationships nourish the space between us and which quietly erode it. Together, because this is too nuanced for one person to navigate alone.
-
-~Matthew and Naomi Danielle Morningstar
 
 ---
 
@@ -41,5 +39,7 @@ The full guide, *Tending Our Social World Together*, holds practices for develop
 We don't exist in isolation. Let us tend the ecology together.
 
 ---
+
+**Related practices:** Economic Reality, Boundaries, Telling Our Story
 
 *A quick start from We Practices — The Experience of We*

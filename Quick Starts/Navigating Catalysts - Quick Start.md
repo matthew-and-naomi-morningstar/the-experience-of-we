@@ -1,4 +1,4 @@
-# Navigating Catalysts: *A Quick Start*
+﻿# Navigating Catalysts: *A Quick Start*
 
 ---
 
@@ -9,8 +9,6 @@ Something is at stake. The relationship could shift, for better or for worse, de
 These are catalyst moments. Crossroads where enough energy has accumulated that change becomes possible. The moment demands something of us. How we respond will shape what follows.
 
 What makes them catalysts isn't their content but their charge. The sense that *this moment matters.* That what happens here will ripple forward.
-
-~Matthew and Naomi Danielle Morningstar
 
 ---
 
@@ -41,5 +39,7 @@ The full guide, *Navigating Catalysts Together*, holds practices for recognizing
 Some moments carry the potential to change everything. Let us learn to meet them well.
 
 ---
+
+**Related practices:** Catalyst Spiral, Navigating Triggers, Working with Dissonance
 
 *A quick start from We Practices — The Experience of We*

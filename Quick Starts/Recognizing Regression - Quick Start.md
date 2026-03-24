@@ -1,4 +1,4 @@
-# Recognizing Regression: *A Quick Start*
+﻿# Recognizing Regression: *A Quick Start*
 
 ---
 
@@ -7,8 +7,6 @@ We've done the work. We've integrated new patterns. We've felt the shift. And th
 The same reaction. The same tension. The same script we thought we'd rewritten. The instinct is to treat this as failure. It isn't. Regression is a normal feature of how nervous systems reorganize. Old patterns don't disappear when new ones form. They remain available. Under certain conditions, they reassert themselves.
 
 The question isn't whether regression will happen. It will. The question is whether we catch it early enough to prevent it from quietly becoming the default again. Early recognition keeps it from settling in. And the act of seeing it together, without shame, is itself a practice of the new pattern.
-
-~Matthew and Naomi Danielle Morningstar
 
 ---
 
@@ -39,5 +37,7 @@ The full guide, *Recognizing Regression Together*, holds practices for catching 
 Old patterns will return. What matters is how quickly we see them. Let us keep watching together.
 
 ---
+
+**Related practices:** Repatterning, Calibrating, Meta-Awareness
 
 *A quick start from We Practices — The Experience of We*

@@ -1,4 +1,4 @@
-# Co-Regulation: *A Quick Start*
+﻿# Co-Regulation: *A Quick Start*
 
 ---
 
@@ -9,8 +9,6 @@ This isn't something children outgrow. This is how human nervous systems work.
 We were built to settle together. Our biology expects it. When we're stressed or overwhelmed, our nervous systems reach for other nervous systems, looking for the steady presence that signals safety, looking for the calm that helps us find our own.
 
 Somewhere along the way, many of us learned that regulation is something we're supposed to do alone. Manage your emotions. Self-soothe. Keep it together. But the truth is, our nervous systems were never designed for solo operation. They are built to be in contact with each other, calming each other, sharing the load.
-
-~Matthew and Naomi Danielle Morningstar
 
 ---
 
@@ -43,5 +41,7 @@ The full guide, *Co-Regulating Together*, holds nine practices for developing sh
 We were never meant to regulate alone. If breathing together for three minutes shifted something in your body, there is a whole practice of shared settling waiting for you.
 
 ---
+
+**Related practices:** Shared Embodiment, Attuning, Resting
 
 *A quick start from We Practices — The Experience of We*

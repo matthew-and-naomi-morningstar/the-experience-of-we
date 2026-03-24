@@ -1,4 +1,4 @@
-# Navigating Information: *A Quick Start*
+﻿# Navigating Information: *A Quick Start*
 
 ---
 
@@ -9,8 +9,6 @@ Something about what we just consumed felt like understanding, but it didn't lan
 This matters for relationships because different information streams can pull two people toward different realities. When we consume different media and absorb different narratives, we begin to inhabit different worlds while sharing the same home. The ground of shared reality erodes quietly.
 
 This practice is about developing shared discernment. Not by declaring what's true. By building shared awareness of how the information ecology works and what it does to us.
-
-~Matthew and Naomi Danielle Morningstar
 
 ---
 
@@ -41,5 +39,7 @@ The full guide, *Navigating Information Together*, holds practices for developin
 Shared discernment. That's what we're building. Together.
 
 ---
+
+**Related practices:** Sense-Making, Thought Patterns, Relating to Devices
 
 *A quick start from We Practices — The Experience of We*

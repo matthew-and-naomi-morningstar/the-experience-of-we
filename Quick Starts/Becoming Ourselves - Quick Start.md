@@ -1,4 +1,4 @@
-# Becoming Ourselves: *A Quick Start*
+﻿# Becoming Ourselves: *A Quick Start*
 
 ---
 
@@ -9,8 +9,6 @@ We come together because of who we are. Our particular qualities, our specific a
 And underneath, a quiet fear: *If you change, will I still recognize you? If you grow in a direction I can't follow, will we still be us? If I become more fully myself, will there still be room for me here?*
 
 This practice is about learning to live inside that paradox. Supporting each other's individual becoming while staying connected at the root. Distinction without separation. Two people, growing. Together.
-
-~Matthew and Naomi Danielle Morningstar
 
 ---
 
@@ -41,5 +39,7 @@ The full guide, *Becoming Ourselves Together*, holds practices for supporting in
 Distinction without separation. That's the living practice. Let us become ourselves, together.
 
 ---
+
+**Related practices:** Authenticity, Shared Values, Celebrating and Reassessing
 
 *A quick start from We Practices — The Experience of We*

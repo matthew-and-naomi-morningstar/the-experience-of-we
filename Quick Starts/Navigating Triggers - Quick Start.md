@@ -1,4 +1,4 @@
-# Navigating Triggers: *A Quick Start*
+﻿# Navigating Triggers: *A Quick Start*
 
 ---
 
@@ -9,8 +9,6 @@ The eyes change. The body tightens or goes still. The response that comes is too
 This is what it means to be triggered. The nervous system recognizes a pattern that once meant danger and responds as if the danger is happening now. It doesn't matter that the present moment is safe. The body doesn't know the difference. Everyone carries triggers. They aren't weakness. They're the nervous system's memory of what once overwhelmed it.
 
 The question isn't whether triggers will surface between us. They will. The question is whether we can learn to navigate them together.
-
-~Matthew and Naomi Danielle Morningstar
 
 ---
 
@@ -41,5 +39,7 @@ The full guide, *Navigating Triggers Together*, holds practices for building sha
 We all carry places where the past lives close to the surface. Let us learn to meet those places together.
 
 ---
+
+**Related practices:** Pause and Reflect, Exploring Shadows, Navigating Trauma
 
 *A quick start from We Practices — The Experience of We*

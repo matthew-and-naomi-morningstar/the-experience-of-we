@@ -1,4 +1,4 @@
-# Interoception: *A Quick Start*
+﻿# Interoception: *A Quick Start*
 
 ---
 
@@ -9,8 +9,6 @@ Interoception is the body's inner sensing. The tightness in the chest that arriv
 This matters for relationship because we can only share what we can perceive. "How are you feeling?" becomes a genuinely hard question when we don't have access to what the body is telling us. We default to "fine" or "I don't know," not because we're hiding, but because we genuinely can't sense what's there.
 
 Developing interoception is like adjusting a dial. The signal was always broadcasting. We're learning to tune in. And when two people can sense their own inner worlds with clarity, they have something real to share with each other.
-
-~Matthew and Naomi Danielle Morningstar
 
 ---
 
@@ -41,5 +39,7 @@ The full guide, *Developing Interoception Together*, holds seven practices for b
 The body is always speaking. We're learning to listen.
 
 ---
+
+**Related practices:** Awareness, Non-Verbal Cues, Shared Embodiment
 
 *A quick start from We Practices — The Experience of We*

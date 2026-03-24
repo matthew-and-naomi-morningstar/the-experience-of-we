@@ -1,4 +1,4 @@
-# Thought Patterns: *A Quick Start*
+﻿# Thought Patterns: *A Quick Start*
 
 ---
 
@@ -9,8 +9,6 @@ The hour of rumination before the conversation. The catastrophic story we've bee
 This isn't a character flaw. Rumination, catastrophizing, chronic worry, cynicism, self-criticism. These are adaptive responses. Minds that rehearse threat are minds that survived threatening environments. But what we rehearse, we strengthen. What we strengthen, we become. And what we become, we bring to each other.
 
 This practice isn't about positive thinking or thought suppression. It's about noticing what our minds rehearse, understanding why, and choosing, together, what we want to strengthen through repetition.
-
-~Matthew and Naomi Danielle Morningstar
 
 ---
 
@@ -41,5 +39,7 @@ The full guide, *Tending Our Thought Patterns Together*, holds practices for dev
 What we rehearse, we strengthen. Let us choose what we practice together.
 
 ---
+
+**Related practices:** Emotional Climate, Repatterning, Meta-Awareness
 
 *A quick start from We Practices — The Experience of We*

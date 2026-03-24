@@ -1,4 +1,4 @@
-# Resting: *A Quick Start*
+﻿# Resting: *A Quick Start*
 
 ---
 
@@ -9,8 +9,6 @@ We live in a world that celebrates doing. We bond over activities. We connect th
 Resting together is presence without performance. Being in the same space, not talking, not doing. Just existing alongside each other. The companionable silence that needs no filling. Stillness shared.
 
 There's a particular intimacy in being able to rest with someone. It means we don't have to entertain them. We don't have to be interesting or productive. We can simply be, and they can simply be, and that's enough. This acceptance of each other's bare existence is a form of love.
-
-~Matthew and Naomi Danielle Morningstar
 
 ---
 
@@ -41,5 +39,7 @@ The full guide, *Resting Together*, holds practices for developing shared stilln
 Sometimes the deepest connection is no connection at all. Just being here. Together. Let that be enough.
 
 ---
+
+**Related practices:** Moving and Sleeping, Co-Regulation, Completing Micro-Cycles
 
 *A quick start from We Practices — The Experience of We*

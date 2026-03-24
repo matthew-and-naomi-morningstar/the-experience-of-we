@@ -1,4 +1,4 @@
-# Celebrating and Reassessing: *A Quick Start*
+﻿# Celebrating and Reassessing: *A Quick Start*
 
 ---
 
@@ -9,8 +9,6 @@ Not in passing. Not as a quick compliment on the way to the next thing. A real p
 Most of us skip this. We work through something hard, we grow, we shift a pattern that used to run us, and then we move on. Straight to the next problem. The next thing that needs fixing. We are so focused on what is still broken that we never register what is whole. And something important is lost. The nervous system never gets the signal that the effort paid off. The relationship never gets the moment of shared pride. The new pattern never gets reinforced by the warmth of recognition.
 
 Celebrating is not a luxury. It is how growth sticks. And reassessing, its companion, is how you see clearly where you actually stand so you can choose your next direction with honesty. Together, they complete one cycle and open the door to the next.
-
-~Matthew and Naomi Danielle Morningstar
 
 ---
 
@@ -41,5 +39,7 @@ The full guide, *Celebrating and Reassessing Together*, holds nine practices for
 What we do not celebrate, we do not encode as significant. What we do not reassess, we cannot navigate intentionally. If pausing to see your growth together gave you something, even a quiet warmth, there is a whole practice for making that a regular part of how you grow.
 
 ---
+
+**Related practices:** Acknowledging and Affirming, Completing Micro-Cycles, Becoming Ourselves
 
 *A quick start from We Practices — The Experience of We*

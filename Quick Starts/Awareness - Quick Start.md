@@ -1,4 +1,4 @@
-# Awareness: *A Quick Start*
+﻿# Awareness: *A Quick Start*
 
 ---
 
@@ -9,8 +9,6 @@ We notice the big things. A fight. A moment of deep warmth. A cold shoulder. But
 Awareness is the practice of noticing what's actually happening in the space between us. Not analyzing it, not trying to fix it. Just sensing. The way you walk into a room and feel the temperature before you think about it. The relational field has a temperature too. It's warm or cool, open or closed, flowing or stuck. We can learn to feel it.
 
 This is where the deeper relational work begins. Before we can work with anything between us, we have to be able to sense it. And that sensing is a capacity we develop, like any skill. Some days it's sharp. Some days it's cloudy. The practice continues.
-
-~Matthew and Naomi Danielle Morningstar
 
 ---
 
@@ -41,5 +39,7 @@ The full guide, *Developing Awareness Together*, holds eight practices for build
 The field between us is always communicating. Let us learn to listen together.
 
 ---
+
+**Related practices:** Interoception, Meta-Awareness, Fluid Awareness
 
 *A quick start from We Practices — The Experience of We*

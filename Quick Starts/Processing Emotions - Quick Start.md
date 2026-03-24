@@ -1,4 +1,4 @@
-# Processing Emotions: *A Quick Start*
+﻿# Processing Emotions: *A Quick Start*
 
 ---
 
@@ -9,8 +9,6 @@ And none of it moves anything.
 Because narrating a feeling and *feeling* a feeling are different acts. One happens in the mind. The other happens in the body. And somewhere along the way, most of us learned to do the first instead of the second. We learned to explain our emotions rather than inhabit them. We learned to process alone, in our heads, because we didn't trust that anyone could be with us in the raw, unnarrated truth of what we feel.
 
 But something changes when we actually feel in the presence of someone who can stay. The emotion moves. What was frozen begins to thaw. What was stuck begins to flow. Not because the other person fixes it, but because being truly accompanied in what we feel changes the feeling itself. Grief expressed in someone's arms moves differently than grief cried into a pillow. Our emotional systems evolved in the context of others. Being accompanied in feeling is the original condition.
-
-~Matthew and Naomi Danielle Morningstar
 
 ---
 
@@ -41,5 +39,7 @@ The full guide, *Processing Our Emotions Together*, holds ten practices for deve
 When we can reliably feel together, the entire relational field transforms. Conflict becomes less frightening. Vulnerability deepens. The relationship gains access to a whole dimension of experience that was previously off limits. Every emotion becomes a teacher, not a problem to solve.
 
 ---
+
+**Related practices:** Holding Space, Emotional Climate, Integrating Under Activation
 
 *A quick start from We Practices — The Experience of We*

@@ -1,4 +1,4 @@
-# Moving and Sleeping: *A Quick Start*
+﻿# Moving and Sleeping: *A Quick Start*
 
 ---
 
@@ -11,8 +11,6 @@ Sleep deprivation degrades emotional processing, impulse control, and relational
 Movement is the other substrate. Our bodies evolved for physical activity. Sedentary patterns don't just affect health in the abstract. They reduce our co-regulatory capacity. They flatten our emotional range. They leave our nervous systems in a low-grade state of stagnation that makes everything, including showing up for each other, harder than it needs to be.
 
 This isn't a fitness guide. It's about tending the physical ground our relationship stands on. Together.
-
-~Matthew and Naomi Danielle Morningstar
 
 ---
 
@@ -41,5 +39,7 @@ The full guide, *Moving and Sleeping Together*, holds practices for tending the 
 The body is the ground. Let us tend that ground together.
 
 ---
+
+**Related practices:** Nourishing Ourselves, Interoception, Resting
 
 *A quick start from We Practices — The Experience of We*

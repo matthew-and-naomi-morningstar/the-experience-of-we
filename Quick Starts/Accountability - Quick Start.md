@@ -1,4 +1,4 @@
-# Accountability: *A Quick Start*
+﻿# Accountability: *A Quick Start*
 
 ---
 
@@ -13,8 +13,6 @@ Something in your body released when they said it. The hurt didn't vanish, but i
 Now think of the opposite. Something happened, and the other person couldn't own it. They explained. They minimized. They turned it back on you. And the original hurt became something worse, because now you were carrying both the injury and the loneliness of not being believed. That's what happens when accountability is absent. The harm doubles.
 
 Accountability isn't punishment. It isn't shame. It's the recognition that our actions have weight and we're willing to own that weight rather than evade it.
-
-~Matthew and Naomi Danielle Morningstar
 
 ---
 
@@ -45,5 +43,7 @@ The full guide, *Practicing Accountability Together*, holds ten practices for bu
 Accountability is not a burden. It is the ground on which trust is built. If that one act of clean ownership shifted something between you, imagine what a sustained practice of taking responsibility makes possible.
 
 ---
+
+**Related practices:** Repairing, Exploring Shadows, Recognizing Dissonance
 
 *A quick start from We Practices — The Experience of We*

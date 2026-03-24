@@ -1,4 +1,4 @@
-# Playing: *A Quick Start*
+﻿# Playing: *A Quick Start*
 
 ---
 
@@ -9,8 +9,6 @@ We spend so much of our relational energy on the serious work. Processing, repai
 Play is what we do for no reason except that it's enjoyable. Silliness without purpose. Laughter that doesn't need to accomplish anything. Games, jokes, spontaneity, fun. The lightness that balances the weight.
 
 When we play together, something shifts. We're not working on the relationship. We're enjoying it. We're not building toward something. We're being together in the present moment for its own sake. This is not a break from relationship. It is relationship at its most alive. And without it, relationships become heavy, dutiful, depleted. Play is not a luxury. It is oxygen.
-
-~Matthew and Naomi Danielle Morningstar
 
 ---
 
@@ -41,5 +39,7 @@ The full guide, *Playing Together*, holds practices for reclaiming play in relat
 Not everything needs to be deep. Sometimes what we need most is to laugh together.
 
 ---
+
+**Related practices:** Beginner's Mind, Creating, Shared Embodiment
 
 *A quick start from We Practices — The Experience of We*

@@ -1,4 +1,4 @@
-# The Catalyst Spiral: *A Quick Start*
+﻿# The Catalyst Spiral: *A Quick Start*
 
 ---
 
@@ -9,8 +9,6 @@ You know these moments. Something surfaces between you that cannot be smoothed o
 Most of us have two speeds for these moments. We either crash through them, reacting on adrenaline, saying things we will regret. Or we avoid them entirely, pulling back, going quiet, letting the charge dissipate without ever meeting it. Both feel like survival. Neither leads to growth.
 
 But there is a third possibility. These charged moments have a shape. They follow a recognizable path: sensing what is happening, recognizing the friction, meeting the intensity, pausing before reacting, reconnecting, adjusting, practicing the new thing, and honoring what you have been through. When you can see the shape, you can navigate it. Not perfectly. But consciously. And that changes everything.
-
-~Matthew and Naomi Danielle Morningstar
 
 ---
 
@@ -37,5 +35,7 @@ The full guide, *The Catalyst Spiral Together*, maps eight stages of relational 
 Relationships grow through crisis. Not because crisis is good, but because it concentrates the energy needed for real change. If naming where you are gave you even a moment of clarity in a charged situation, this is a practice worth continuing.
 
 ---
+
+**Related practices:** Navigating Catalysts, Awareness Spiral, Repatterning
 
 *A quick start from We Practices — The Experience of We*

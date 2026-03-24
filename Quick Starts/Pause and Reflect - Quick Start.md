@@ -1,4 +1,4 @@
-# Pause and Reflect: *A Quick Start*
+﻿# Pause and Reflect: *A Quick Start*
 
 ---
 
@@ -9,8 +9,6 @@ In that space lies our freedom. The chance to choose rather than react. The chan
 The pause is the intervention. Not suppression. Not avoidance. The deliberate interruption of the automatic sequence. The moment where we stop the momentum long enough to choose.
 
 It's simple to describe and challenging to do. It requires going against the momentum of an activated nervous system. But those few seconds change everything about what follows. Because what we say from reactivity and what we say from choice are almost never the same thing.
-
-~Matthew and Naomi Danielle Morningstar
 
 ---
 
@@ -41,5 +39,7 @@ The full guide, *Pause and Reflect Together*, holds practices for building the c
 Between what happens and how we respond, there is a space. Let us practice finding it together.
 
 ---
+
+**Related practices:** Recognizing Dissonance, Mindfulness, Calibrating
 
 *A quick start from We Practices — The Experience of We*

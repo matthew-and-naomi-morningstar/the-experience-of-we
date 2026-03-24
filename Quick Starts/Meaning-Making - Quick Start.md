@@ -1,4 +1,4 @@
-# Meaning-Making: *A Quick Start*
+﻿# Meaning-Making: *A Quick Start*
 
 ---
 
@@ -9,8 +9,6 @@ The facts are clear. The situation makes sense. You can describe it accurately. 
 We make meaning constantly, but mostly we do it alone. Each of us constructs our own interpretation of what things signify. We walk away from the same experience with entirely different understandings of its importance. And because we rarely bring those interpretations into the space between us, we end up isolated in our sense of what matters. Unsure whether our reading of things is real. Unable to access the interpretation that might only become visible when two perspectives meet.
 
 Meaning-making together is not about arriving at a single correct answer. It is about refusing to carry significance alone. It is about bringing our interpretations to each other, seeing what resonates and what diverges, and sometimes building something together that neither of us could have reached in isolation. Meaning made together has relational ground. It can hold weight that meaning made alone cannot.
-
-~Matthew and Naomi Danielle Morningstar
 
 ---
 
@@ -41,5 +39,7 @@ The full guide, *Meaning-Making Together*, holds eight practices for developing 
 When we can make meaning together, events stop being things that merely happen to us. They become part of a story we're telling together. Significance gains relational ground. And even difficult experiences become weavable into a shared life that makes sense.
 
 ---
+
+**Related practices:** Sense-Making, Shared Values, Telling Our Story
 
 *A quick start from We Practices — The Experience of We*

@@ -1,4 +1,4 @@
-# Fluid Awareness: *A Quick Start*
+﻿# Fluid Awareness: *A Quick Start*
 
 ---
 
@@ -9,8 +9,6 @@ This is what it feels like when awareness gets swept along. It flows like water 
 But here is what changes things: awareness can also be redirected. Not forced. Not suppressed. Redirected. The way you might guide water into a new channel, gently and consistently, until the new path becomes the easier one. This is fluid awareness. Not the absence of reactivity, but the growing capacity to notice where your awareness is going and participate in its direction.
 
 This is the culmination of a developmental sequence: presence, interoception, awareness, mindfulness, meta-awareness, and finally this. Trajectory control. The moment where "I can see what is happening" becomes "I can participate in where this goes next." And practicing it together means you do not have to do it alone.
-
-~Matthew and Naomi Danielle Morningstar
 
 ---
 
@@ -41,5 +39,7 @@ The full guide, *Developing Fluid Awareness Together*, maps the awareness spiral
 Every time you consciously redirect awareness, you carve a new channel. Over time, the new channels become the easier paths. If catching reactivity together gave you even one moment of choice where there used to be compulsion, that is the practice working.
 
 ---
+
+**Related practices:** Awareness Spiral, Mindfulness, Meta-Awareness
 
 *A quick start from We Practices — The Experience of We*

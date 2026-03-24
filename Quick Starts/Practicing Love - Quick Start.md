@@ -1,4 +1,4 @@
-# Practicing Love: *A Quick Start*
+﻿# Practicing Love: *A Quick Start*
 
 ---
 
@@ -9,8 +9,6 @@ Love is something larger. An emergent, self-reinforcing relational process in wh
 Love is the orientation that takes this living field as the primary unit of care. Not "what do I get from this?" but "what does the field between us need?" This understanding of love builds on everything that comes before: the trust, the safety, the repair, the presence, the honest seeing.
 
 Love is what emerges when these processes stabilize. And it is something we practice, not just something we feel.
-
-~Matthew and Naomi Danielle Morningstar
 
 ---
 
@@ -41,5 +39,7 @@ The full guide, *Practicing Love Together*, holds practices for tending the livi
 Love is a living thing. Let us tend it together.
 
 ---
+
+**Related practices:** Positive Regard, Attuning, Becoming Ourselves
 
 *A quick start from We Practices — The Experience of We*

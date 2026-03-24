@@ -1,4 +1,4 @@
-# Shared Values: *A Quick Start*
+﻿# Shared Values: *A Quick Start*
 
 ---
 
@@ -9,8 +9,6 @@ Not this exact one, but this shape. You both listened. You both shared honestly.
 Most relationships operate on assumed shared values. We never discuss them. We just believe we agree. And then a real choice arrives and we discover the gap. For one of us, honesty means full disclosure. For the other, it means not lying, but some things are private. For one, loyalty means the relationship comes first. For the other, loyalty means telling the truth even when it's uncomfortable. We assumed alignment. We never checked.
 
 Shared values are not something we discover ready-made. They are something we build. Through honest conversation about what each of us holds dear. Where those commitments align. Where they genuinely diverge. And what we choose, together, to place at the center. Not a rule book. A compass.
-
-~Matthew and Naomi Danielle Morningstar
 
 ---
 
@@ -41,5 +39,7 @@ The full guide, *Developing Shared Values Together*, holds nine practices for bu
 A relationship that knows what it stands for can stand through anything. The compass doesn't make hard moments easy. But it gives both of you a reference point that neither of you has to argue for, because you built it together.
 
 ---
+
+**Related practices:** Meaning-Making, Accountability, Becoming Ourselves
 
 *A quick start from We Practices — The Experience of We*

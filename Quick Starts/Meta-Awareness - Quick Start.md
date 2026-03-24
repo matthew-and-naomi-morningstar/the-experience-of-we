@@ -1,4 +1,4 @@
-# Meta-Awareness: *A Quick Start*
+﻿# Meta-Awareness: *A Quick Start*
 
 ---
 
@@ -9,8 +9,6 @@ That moment of catching yourself? That's meta-awareness.
 Not the listening. Not the drifting. The *noticing* that you drifted. The awareness that turns back on itself and sees what it's doing. It's the difference between looking through a window and suddenly noticing that you're looking through a window. The view doesn't change, but something fundamental shifts. You can see the glass now. And because you can see it, you can choose to clean it, open it, or look through a different one.
 
 Most of the time, we are lost in the process of experiencing without ever seeing the process itself. We pay attention without noticing how we're paying attention. We listen without seeing the quality of our listening. We have patterns of awareness that shape everything we perceive, and we can't see them because we're inside them. Meta-awareness is what makes those patterns visible. And what we can see, we can work with.
-
-~Matthew and Naomi Danielle Morningstar
 
 ---
 
@@ -41,5 +39,7 @@ The full guide, *Developing Meta-Awareness Together*, holds seven practices for 
 Meta-awareness is the doorway to everything that follows. When we can see how our awareness is functioning, we can take responsibility for our consciousness itself. We stop being subject to patterns we can't see. And we begin to show up in our relationships not just with good intentions, but with genuine clarity about how we're actually being present.
 
 ---
+
+**Related practices:** Awareness, Sense-Making, Fluid Awareness
 
 *A quick start from We Practices — The Experience of We*

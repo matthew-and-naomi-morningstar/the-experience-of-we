@@ -1,4 +1,4 @@
-# Completing Micro-Cycles: *A Quick Start*
+﻿# Completing Micro-Cycles: *A Quick Start*
 
 ---
 
@@ -9,8 +9,6 @@ A pattern shifts. A new way of responding takes hold. A wound that used to activ
 When small transformations aren't sealed, they remain open loops. The energy they required stays allocated. The shift isn't quite real, because no one stopped to say: *this is different now.* We grow, but the growth isn't witnessed. We change, but the change doesn't feel real because it was never completed.
 
 Micro-completion is the practice of pausing to acknowledge what has shifted. It closes the loop. It tells the nervous system: this piece of work is done. You can release the energy you've been holding around it.
-
-~Matthew and Naomi Danielle Morningstar
 
 ---
 
@@ -41,5 +39,7 @@ The full guide, *Completing Micro-Cycles Together*, holds practices for sealing 
 Growth that isn't witnessed doesn't quite feel real. Let us witness each other's growth.
 
 ---
+
+**Related practices:** Releasing and Forgiving, Integrating, Celebrating and Reassessing
 
 *A quick start from We Practices — The Experience of We*

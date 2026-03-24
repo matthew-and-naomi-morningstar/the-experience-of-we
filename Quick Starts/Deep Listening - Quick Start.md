@@ -1,4 +1,4 @@
-# Deep Listening: *A Quick Start*
+﻿# Deep Listening: *A Quick Start*
 
 ---
 
@@ -9,8 +9,6 @@ Being heard means the words landed somewhere. Being listened to means *you* land
 Most of the time, we don't listen like this. We listen while preparing our response. We listen through the filter of our own experience. We hear the first sentence and start composing what we'll say back. This isn't malice. It's habit. And it means that most of the time, we're talking to each other without ever quite meeting.
 
 Deep listening is the practice of full receptive presence. Attending to the other person with our whole being. Receiving before responding. Understanding before reacting. It is one of the simplest things we can do for each other, and one of the most rare.
-
-~Matthew and Naomi Danielle Morningstar
 
 ---
 
@@ -41,5 +39,7 @@ The full guide, *Practicing Deep Listening Together*, holds seven practices for 
 Deep listening is not a technique. It is an act of love. And every time we choose to truly receive each other, we are saying without words: *you matter enough for my full attention.*
 
 ---
+
+**Related practices:** Presence, Non-Verbal Cues, Sharing Reflections
 
 *A quick start from We Practices — The Experience of We*

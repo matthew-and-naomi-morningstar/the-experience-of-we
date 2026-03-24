@@ -1,4 +1,4 @@
-# Trust: *A Quick Start*
+﻿# Trust: *A Quick Start*
 
 ---
 
@@ -9,8 +9,6 @@ We tend to think of trust as a decision. "I trust you" or "I don't." But trust l
 When the answer has been consistently "something good," the body softens. We open. We can rest in each other's presence. When the answer has been inconsistent, we stay braced. We hold back. We protect.
 
 Trust isn't something we declare. It's something we build. One reliable moment at a time. And it can always be rebuilt, as long as we're willing to do the work.
-
-~Matthew and Naomi Danielle Morningstar
 
 ---
 
@@ -41,5 +39,7 @@ The full guide, *Co-creating Trust Together*, holds practices for building, main
 Trust is the body's accumulated answer. Let us give each other good answers, one moment at a time.
 
 ---
+
+**Related practices:** Positive Regard, Safety, Vulnerability
 
 *A quick start from We Practices — The Experience of We*

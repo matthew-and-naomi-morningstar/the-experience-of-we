@@ -1,4 +1,4 @@
-# Emotional Climate: *A Quick Start*
+﻿# Emotional Climate: *A Quick Start*
 
 ---
 
@@ -9,8 +9,6 @@ Not the storms. Those are specific events. We're talking about the atmosphere. T
 This atmosphere isn't metaphorical. Our nervous systems are in constant dialogue, transmitting emotional states through channels older than language. We don't just observe each other's feelings. We absorb them. Chronic anxiety becomes the low hum a partner navigates every day. Unprocessed irritability becomes the air they breathe. Quiet despair settles over the relationship like fog.
 
 This isn't about suppressing what we feel. It's about becoming aware of what we're circulating. Learning to distinguish what's ours from what we've absorbed from elsewhere. And tending the emotional atmosphere between us with the same care we'd give to the air in a room where someone we love is trying to breathe.
-
-~Matthew and Naomi Danielle Morningstar
 
 ---
 
@@ -41,5 +39,7 @@ The full guide, *Tending Our Emotional Climate Together*, holds practices for de
 The weather between us matters. Let us tend it together.
 
 ---
+
+**Related practices:** Thought Patterns, Processing Emotions, Recognizing Dissonance
 
 *A quick start from We Practices — The Experience of We*

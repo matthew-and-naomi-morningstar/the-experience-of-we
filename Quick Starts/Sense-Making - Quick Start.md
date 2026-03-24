@@ -1,4 +1,4 @@
-# Sense-Making: *A Quick Start*
+﻿# Sense-Making: *A Quick Start*
 
 ---
 
@@ -9,8 +9,6 @@ You can both feel it. There's a tension at dinner that wasn't there last week. C
 This is one of the most common experiences in relationship. We sense that something has changed, but we skip the step of actually understanding it together. Instead, we jump straight to interpretation ("you're pulling away"), or straight to solutions ("we should spend more time together"), or straight to blame ("you've been on your phone too much"). We respond to a situation we haven't actually understood. And that usually makes things worse.
 
 Sense-making is the practice of pausing before all of that and asking a simpler question: *What is actually happening here?* Not what it means. Not whose fault it is. Not what we should do. Just: what is going on? And because each of us sees different things from different positions, we need each other's observations to get the full picture.
-
-~Matthew and Naomi Danielle Morningstar
 
 ---
 
@@ -41,5 +39,7 @@ The full guide, *Sense-Making Together*, holds eight practices for developing th
 When sense-making works between you, everything else becomes easier. Decisions have ground to stand on. Conflicts become navigable. You stop responding to situations you haven't actually understood. And the ongoing practice of orienting to reality together keeps you current with your lives, rather than navigating by outdated maps.
 
 ---
+
+**Related practices:** Sharing Perspectives, Meaning-Making, Meta-Awareness
 
 *A quick start from We Practices — The Experience of We*

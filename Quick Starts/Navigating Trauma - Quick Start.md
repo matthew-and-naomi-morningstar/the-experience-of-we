@@ -1,4 +1,4 @@
-# Navigating Trauma: *A Quick Start*
+﻿# Navigating Trauma: *A Quick Start*
 
 ---
 
@@ -9,8 +9,6 @@ Some of it is quiet. Developmental. Woven into the fabric of how we learned to b
 Trauma isn't always a single event. Sometimes it's a climate. And it shapes everything: how we attach, how we defend, how we interpret silence, how we respond to vulnerability, how we read the space between us. When two people enter a relationship, their trauma histories enter with them. Pretending otherwise doesn't protect the relationship. It just means trauma operates without being named.
 
 This guide doesn't ask us to heal each other. That's clinical work. What it asks is something different: how do we be honest about what we carry, and how do we navigate its effects together?
-
-~Matthew and Naomi Danielle Morningstar
 
 ---
 
@@ -41,5 +39,7 @@ The full guide, *Navigating Trauma Together*, holds practices for being honest a
 We can't fix each other. But we can stop pretending the room isn't full of what we carry.
 
 ---
+
+**Related practices:** Holding Space, Safety, Integrating Under Activation
 
 *A quick start from We Practices — The Experience of We*

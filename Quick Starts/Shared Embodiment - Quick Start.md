@@ -1,4 +1,4 @@
-# Shared Embodiment: *A Quick Start*
+﻿# Shared Embodiment: *A Quick Start*
 
 ---
 
@@ -9,8 +9,6 @@ Our bodies breathe in the same room. They sense each other's presence without wo
 Many of us live from the neck up, relating primarily through language and thought. But our bodies never stopped relating. They've been in conversation all along. When we bring conscious attention to this dimension, something awakens. We discover that our bodies already know each other in ways our minds are only beginning to understand.
 
 Shared embodiment is the practice of consciously inhabiting our bodies together. Attending to the physical dimension of our connection.
-
-~Matthew and Naomi Danielle Morningstar
 
 ---
 
@@ -41,5 +39,7 @@ The full guide, *Exploring Shared Embodiment Together*, holds practices for cons
 Our bodies already know each other. Let us start listening.
 
 ---
+
+**Related practices:** Co-Regulation, Interoception, Playing
 
 *A quick start from We Practices — The Experience of We*

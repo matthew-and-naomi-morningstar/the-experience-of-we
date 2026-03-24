@@ -1,4 +1,4 @@
-# Presence: *A Quick Start*
+﻿# Presence: *A Quick Start*
 
 ---
 
@@ -11,8 +11,6 @@ And then there's the other thing. Someone is in the room with you, maybe even ta
 Most of us spend more time in the second than the first. Not because we don't care, but because no one taught us how to arrive. We move from one thing to the next without ever landing. We sit across from the people we love most and miss each other completely.
 
 Presence is the practice of actually being here. With each other, in the same moment, available to what's happening between us. It's the foundation everything else is built on. And it starts with something small enough to do tonight.
-
-~Matthew and Naomi Danielle Morningstar
 
 ---
 
@@ -43,5 +41,7 @@ The full guide, *Coming into Presence Together*, holds eleven practices for buil
 Presence is not something we master once. It's something we keep choosing. And every return is the practice, not a failure. If those ten seconds of pausing together felt like something, there's much more to explore.
 
 ---
+
+**Related practices:** Deep Listening, Attuning, Shared Embodiment
 
 *A quick start from We Practices — The Experience of We*
