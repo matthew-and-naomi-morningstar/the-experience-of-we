@@ -2,10 +2,11 @@
 
 *Meta-practices that synthesize the whole journey.*
 
-Three practices.
+Four practices.
 
 1. Awareness Spiral
 2. Catalyst Spiral
 3. Fluid Awareness
+4. Exploring Spirituality
 
-*3 practices total*
+*4 practices total*

@@ -248,6 +248,10 @@ We learn to meet feelings as they arise: distinguishing emotion from narrative, 
 *A Shared Practice for Understanding What Is Happening*
 We learn to collaboratively understand the situations we find ourselves in: what's actually happening, what factors are at play, what the situation asks of us.
 
+**Developing Empathy Together**
+*A Shared Practice for Feeling Into Each Other's Experience*
+The bridge that makes every other relational capacity possible. Empathy is the felt-sense capacity to cross the gap into another person's inner world — not just hearing what they say, but feeling what they feel. How it works neurobiologically, what blocks it, and how two people can deliberately cultivate the shared capacity to feel into each other with accuracy, sensitivity, and care.
+
 ### Building a Shared World
 
 Understanding deepens into meaning. This sub-threshold develops the capacity to interpret what matters, discover what we hold in common, and observe our own process of knowing.
@@ -374,6 +378,10 @@ Regression isn't failure. It's a normal feature of how nervous systems reorganiz
 *A Shared Practice for Sealing Small Transformations*
 Transformation happens in small cycles as well as large ones. We learn to notice, name, and seal the quiet shifts that make up genuine relational growth, closing the open loops that accumulate when change goes unacknowledged.
 
+**Developing Toughness Together**
+*A Shared Practice for Enduring What Is Hard and Staying Whole*
+The capacity to stay present, feeling, integrated, and together when difficulty persists — not as armor but as fiber. Not the brittle hardness that suppresses and eventually shatters, but the flexible strength that bends, feels, hurts, and holds. Built through difficulty met, felt, survived, and integrated. Toughness as softness's companion, not its replacement — the capacity to endure sustained pressure while keeping the tender parts alive.
+
 ---
 
 ## Threshold 7: Emergence
@@ -407,6 +415,10 @@ Bringing something new into being through our combined presence and effort. What
 **Exploring Awe and Wonder Together**
 *A Shared Practice for Opening to What Is Larger Than Us*
 What happens when reality exceeds our maps and the nervous system opens rather than defends. Awe as a rare blending of arousal and safety that softens the self, synchronizes two nervous systems, and makes the relational field directly perceptible. Shared encounters with vastness — nature, beauty, birth, death, the relational field itself — as one of the oldest and most powerful forms of human bonding. The practice of seeking, stopping for, and metabolizing what is larger than us.
+
+**Developing Compassion Together**
+*A Shared Practice for Meeting Suffering with Care*
+What happens when empathy meets willingness — when feeling into another person's suffering doesn't collapse us or send us running, but moves us toward care. Compassion as the mature capacity to hold pain without being consumed by it, to be present with suffering without fixing it, and to sustain warmth across the long seasons when difficulty doesn't resolve. The relational field as a container for shared compassionate holding that exceeds what either person can hold alone.
 
 ### Being Alive Together
 
@@ -451,6 +463,10 @@ Working with catalytic moments as they unfold across time: recognizing that some
 **Developing Fluid Awareness Together**
 *A Shared Practice for Navigating the Flow of Experience*
 The capstone of the awareness developmental line. Fluid awareness is the capacity to shift attention between self, other, and field with ease and precision. It requires everything that comes before it in the awareness developmental line — from presence through interoception, awareness, mindfulness, and meta-awareness — as well as the attunement that deepens throughout the journey. It sits here because it can only develop after the full range of awareness capacities has been built.
+
+**Exploring Spirituality Together**
+*A Shared Practice for Relating to What Is Larger Than Us*
+The orienting layer that gives meaning and direction to all other practices. Spirituality as one underlying experience with many voices — embodied, emotional, neurobiological, social, relational — not what we believe about the sacred, but how we relate to what is larger than us. The shift from doctrine to relationship, from certainty to honest encounter with mystery. What happens when spiritual experience is held between two people rather than inside one: co-regulated exploration, shared meaning-making, and interpretive pluralism that prevents both isolation and dogma. This practice deepens most safely when the foundational relational practices are already alive between us.
 
 ---
 
