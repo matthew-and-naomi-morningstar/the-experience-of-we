@@ -8,29 +8,36 @@ Biology shapes what is likely. Culture shapes what is permitted. Relationship sh
 
 We are learning to see all three at once — not to reduce one to another, but to understand how they move together.
 
-Two sub-thresholds, eight practices. A third sub-threshold (Sexuality Series) is in development.
+Three sub-thresholds, ten practices. Additional sub-thresholds (Shared Field, Sexuality Series) are in development.
 
-## Body Knowledge
+## The Body Between Us
 
-1. Exploring the Male Body
-2. Exploring the Female Body
-3. Exploring the Virility Cycle
-4. Exploring the Fertility Cycle
-5. Exploring Gender Expression
+1. Tending Our Body Together
+2. Exploring the Male Body Together
+3. Exploring the Female Body Together
+4. Exploring the Virility Cycle Together
+5. Exploring the Fertility Cycle Together
+6. Exploring Gender Expression Together
 
-## Touch Spectrum
+## The Touch Between Us
 
-6. Exploring Affectionate Touch
-7. Exploring Sensual Touch
-8. Exploring Intimate Touch
+7. Exploring Affectionate Touch Together
+8. Exploring Sensual Touch Together
+9. Exploring Intimate Touch Together
 
-## Sexuality Series (in development)
+## The Emotions Between Us
 
-9. Exploring Sexual Selfhood
-10. Exploring Desire
-11. Exploring Sexual Communication
-12. Exploring Sexual Embodiment
-13. Exploring Sexual Repair
-14. Exploring Sexual Evolution
+10. Tending Our Emotions Together
 
-*8 practices complete, 6 in development — 14 total*
+## In Development
+
+- Tending Our Mind Together
+- Tending the Sacred Between Us
+- Exploring Sexual Selfhood Together
+- Exploring Desire Together
+- Exploring Sexual Communication Together
+- Exploring Sexual Embodiment Together
+- Exploring Sexual Repair Together
+- Exploring Sexual Evolution Together
+
+*10 practices complete, 8 in development*

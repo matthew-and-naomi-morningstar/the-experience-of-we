@@ -6,29 +6,29 @@ The practice-level answer to the Adversary, the Great Divergence, the Great Deco
 
 ## Nourishing Our Bodies
 
-1. Nourishing Ourselves
-2. Relating to Substances
-3. Moving and Sleeping
+1. Nourishing Ourselves Together
+2. Relating to Substances Together
+3. Moving and Sleeping Together
 
 ## Tending Our Shared Spaces
 
-4. Creating Our Spaces
+4. Creating Our Spaces Together
 
 ## Tending Our Inner Ecology
 
-5. Tending Our Thought Patterns
-6. Tending Our Emotional Climate
+5. Tending Our Thought Patterns Together
+6. Tending Our Emotional Climate Together
 
 ## Navigating Our Information Ecology
 
-7. Navigating Information
-8. Relating to Our Devices
+7. Navigating Information Together
+8. Relating to Our Devices Together
 
 ## Tending Our Wider Ecology
 
-9. Tending Our Social World
-10. Navigating Economic Reality
-11. Communing with the Natural World
-12. Energy Auditing and Budgeting
+9. Tending Our Social World Together
+10. Navigating Economic Reality Together
+11. Communing with the Natural World Together
+12. Energy Auditing and Budgeting Together
 
 *12 practices total*

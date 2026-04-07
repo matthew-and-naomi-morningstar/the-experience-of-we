@@ -4,11 +4,11 @@
 
 Six practices.
 
-1. Integrating
-2. Repatterning
-3. Integrating Under Activation
-4. Recognizing Regression
-5. Completing Micro-Cycles
-6. Developing Toughness
+1. Integrating Together
+2. Repatterning Together
+3. Integrating Under Activation Together
+4. Recognizing Regression Together
+5. Completing Micro-Cycles Together
+6. Developing Toughness Together
 
 *6 practices total*

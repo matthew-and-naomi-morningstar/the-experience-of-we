@@ -4,7 +4,7 @@
 
 One practice.
 
-1. Celebrating and Reassessing
+1. Celebrating and Reassessing Together
 
 *1 practice total*
 

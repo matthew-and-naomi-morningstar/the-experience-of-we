@@ -6,15 +6,15 @@ Two sub-thresholds, seven practices.
 
 ## Sharing Our Worlds
 
-1. Sharing Perspectives
-2. Processing Emotions
-3. Sense-Making
-4. Developing Empathy
+1. Sharing Perspectives Together
+2. Processing Our Emotions Together
+3. Sense-Making Together
+4. Developing Empathy Together
 
 ## Building a Shared World
 
-5. Meaning-Making
-6. Shared Values
-7. Meta-Awareness
+5. Meaning-Making Together
+6. Developing Shared Values Together
+7. Developing Meta-Awareness Together
 
 *7 practices total*
