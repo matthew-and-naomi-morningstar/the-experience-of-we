@@ -136,13 +136,11 @@ These are our best practices for cultivating dissonance recognition. This is not
 
 This practice develops the habit of tracking dissonance through simple noticing.
 
-- **Agree to track dissonance openly.** We commit to naming it when we notice it.
-- **Use "I notice" statements.** "I notice something feels a little off." "I notice some tension between us." "I notice I'm having trouble connecting right now."
-- **Keep it simple.** We don't need to analyze or explain. We're just naming what we notice.
-- **Receive noticing without defense.** When the other names dissonance, we don't argue with their perception. We receive it as information.
-- **May or may not explore further.** Sometimes naming is enough. Sometimes we need to look at what's creating the dissonance.
-
-Why "I notice" works: it's non-blaming. It doesn't require certainty. It invites exploration rather than defense. It makes dissonance speakable.
+- **We agree to track dissonance openly.** We commit to naming it when we notice it — not as complaint, but as care.
+- **We use "I notice" statements.** "I notice something feels a little off." "I notice some tension between us." "I notice I'm having trouble connecting right now." Simple, non-blaming, no certainty required.
+- **We keep it simple.** We don't need to analyze or explain. We're just naming what we notice. The naming itself is the practice.
+- **We receive noticing without defense.** When our companion names dissonance, we don't argue with their perception. We receive it as information about the field, not as an accusation about us.
+- **We let naming be enough when it is.** Sometimes naming the dissonance is all that's needed — the awareness itself begins to shift things. Sometimes we need to look deeper. We let the moment tell us which.
 
 *When to use: Anytime we sense something is off. As a low-stakes way to name dissonance before it builds. When we want to make the unspeakable speakable.*
 
@@ -152,12 +150,12 @@ Why "I notice" works: it's non-blaming. It doesn't require certainty. It invites
 
 A structured practice for explicitly checking whether dissonance is present.
 
-- **Create a pause.** At a natural break, or when we sense something might be off, we stop and check in.
-- **Each tune into the field.** Is there dissonance here? If so, what kind? Where is it?
-- **Rate the resonance.** Using a simple scale (1-10, where 10 is full resonance), we each name where we sense the field is. Not to be precise, but to have shared language.
-- **Note agreement or discrepancy.** If we're sensing similar levels, we have confirmation. If we're sensing differently, that itself is information.
-- **Get curious about what's present.** Without needing to fix anything yet, we explore what seems to be creating the dissonance.
-- **Decide together what's needed.** Does this need attention now? Can it wait? Is naming it enough?
+- **We create a pause.** At a natural break, or when we sense something might be off, we stop and check in.
+- **We each tune into the field.** Is there dissonance here? If so, what kind? Where does it live?
+- **We rate the resonance.** Using a simple scale (1-10, where 10 is full resonance), we each name where we sense the field is. Not to be precise, but to have shared language for something that's usually invisible.
+- **We notice agreement or discrepancy.** If we're sensing similar levels, we have confirmation. If we're sensing differently, that gap itself is information worth exploring.
+- **We get curious about what's present.** Without needing to fix anything yet, we explore what seems to be creating the dissonance.
+- **We decide together what's needed.** Does this need attention now? Can it wait? Is naming it enough for today?
 
 *When to use: Regularly as maintenance. Whenever one of us suspects dissonance is present. When we want to make checking-in a normal part of how we relate.*
 
@@ -167,11 +165,11 @@ A structured practice for explicitly checking whether dissonance is present.
 
 This practice helps us recognize recurring patterns of dissonance.
 
-- **Look back over recent times of dissonance.** When have we felt out of sync? What was happening?
-- **Look for patterns.** Does dissonance tend to arise at certain times? Around certain topics? When certain conditions are present?
-- **Name the patterns we see.** "We often get out of sync when we're both stressed." "Dissonance shows up when we haven't had quality time." "This topic reliably creates friction."
-- **Explore what the patterns reveal.** What are these recurring dissonances pointing to? What needs or conditions are they signaling?
-- **Use patterns for early recognition.** Knowing our patterns helps us recognize dissonance earlier: "We haven't had quality time in a while — we might be heading toward dissonance."
+- **We look back over recent times of dissonance.** When have we felt out of sync? What was happening around us and between us?
+- **We look for patterns.** Does dissonance tend to arise at certain times? Around certain topics? When certain conditions are present? The recurring themes are where the richest information lives.
+- **We name the patterns we see.** "We often get out of sync when we're both stressed." "Dissonance shows up when we haven't had quality time." "This topic reliably creates friction between us."
+- **We explore what the patterns reveal.** What are these recurring dissonances pointing to? What needs or conditions are they signaling? Patterns are the relationship's way of telling us what it needs.
+- **We use patterns for early recognition.** Knowing our patterns helps us catch dissonance earlier: "We haven't had quality time in a while — we might be heading toward dissonance."
 
 *When to use: Periodically as reflection. When the same dissonance keeps recurring. When we want to get ahead of predictable friction.*
 
@@ -181,11 +179,11 @@ This practice helps us recognize recurring patterns of dissonance.
 
 This practice helps us get specific about where dissonance is occurring.
 
-- **Sense that dissonance is present but aren't sure exactly how or where.** We notice the feeling without yet understanding its shape.
-- **Go through dimensions.** Emotional — are our emotional states misaligned? Cognitive — are our understandings mismatched? Energetic — are our energy levels out of sync? Temporal — is our timing off? Physical — are our bodies out of sync? Value — are our priorities in tension?
-- **Identify where dissonance is concentrated.** Which dimensions are most affected?
-- **Name what we find.** "This seems like energetic dissonance — I'm tired and you're wired." "This feels like cognitive dissonance — we're understanding this situation differently."
-- **Let the mapping inform our response.** Different dimensions may need different responses.
+- **We sense that dissonance is present but aren't sure where it lives.** We notice the feeling without yet understanding its shape. Something is off, but what kind of off?
+- **We go through the dimensions together.** Emotional — are our emotional states misaligned? Cognitive — are our understandings mismatched? Energetic — are our energy levels out of sync? Temporal — is our timing off? Physical — are our bodies out of sync? Value — are our priorities in tension?
+- **We identify where the dissonance is concentrated.** Which dimensions are most affected? Often, dissonance that feels overwhelming becomes more workable once we know which specific dimension it lives in.
+- **We name what we find.** "This seems like energetic dissonance — I'm tired and you're wired." "This feels like cognitive dissonance — we're understanding this situation differently."
+- **We let the mapping inform our response.** Different dimensions need different responses. Energetic dissonance may need rest. Cognitive dissonance may need conversation. Temporal dissonance may just need patience.
 
 *When to use: When dissonance is present but vague. When we want to understand what kind of misalignment we're dealing with. When different responses might be needed for different dimensions.*
 
@@ -195,11 +193,11 @@ This practice helps us get specific about where dissonance is occurring.
 
 This practice helps us recognize what's creating the dissonance we're experiencing.
 
-- **Notice dissonance is present.** We've identified that something is off.
-- **Trace backward.** When did this dissonance start? What happened just before we noticed it?
-- **Look for contributing factors.** Is there an unmet need? Did something accumulate over time? Are our states mismatched? Is something unexpressed? Is external stress involved? Is an old pattern activated?
-- **Share what we trace.** "I think part of this is that I'm really tired." "I wonder if this is connected to last night's conversation."
-- **Build a shared picture.** Together, we develop understanding of what's creating the dissonance — not to assign blame, but to recognize the dynamics at play.
+- **We notice dissonance is present.** We've identified that something is off. Now we want to understand where it's coming from.
+- **We trace backward.** When did this dissonance start? What happened just before we noticed it? Was there a specific moment, or has it been building?
+- **We look for contributing factors.** Is there an unmet need? Did something accumulate over time? Are our states mismatched? Is something unexpressed? Is external stress involved? Is an old pattern activated? We hold these as questions, not accusations.
+- **We share what we trace.** "I think part of this is that I'm really tired." "I wonder if this is connected to last night's conversation." "I think I've been carrying something I haven't named."
+- **We build a shared picture.** Together, we develop an understanding of what's creating the dissonance — not to assign blame, but to see the dynamics clearly enough to tend them.
 
 *When to use: When we want to understand why dissonance is present. When the source isn't obvious. When we need shared understanding before we can respond well.*
 
@@ -209,13 +207,11 @@ This practice helps us recognize what's creating the dissonance we're experienci
 
 This practice uses bodily sensation to recognize dissonance early.
 
-- **Each tune into our bodies.** What sensations are present right now?
-- **Look for dissonance signatures.** Tension? Holding? Contraction? Restlessness? Subtle pulling away?
-- **Share what we find.** "I notice my shoulders are tense." "There's a tightness in my chest."
-- **Connect body to field.** Is what I'm sensing in my body related to what's happening between us?
-- **Let the body inform us.** The body often knows before the mind. If we're sensing bodily signs of dissonance, we take that as information even if we can't explain it yet.
-
-Why this works: the nervous system detects relational discord before conscious awareness does. Learning to read the body gives us earlier access to what's happening in the field.
+- **We each tune into our bodies.** What sensations are present right now? Not thoughts about what's happening — actual physical sensation.
+- **We look for dissonance signatures.** Tension? Holding? Contraction? Restlessness? Subtle pulling away? A tightness that wasn't there an hour ago?
+- **We share what we find.** "I notice my shoulders are tense." "There's a tightness in my chest." "My body is bracing and I'm not sure why."
+- **We connect body to field.** Is what I'm sensing in my body related to what's happening between us? The body often registers relational discord before the mind can name it.
+- **We let the body inform us.** If we're sensing bodily signs of dissonance, we take that as information even if we can't explain it yet. The nervous system detects misalignment before conscious awareness does. Learning to read the body gives us earlier access to what's happening in the field.
 
 *When to use: Continuously as background awareness. When something feels off but we can't name it. When we want earlier access to what's happening between us.*
 
@@ -225,11 +221,11 @@ Why this works: the nervous system detects relational discord before conscious a
 
 This practice brings recognition into the moment, not just reflection afterward.
 
-- **Notice dissonance as it's happening.** During a conversation, during an interaction, in the live moment.
-- **Pause the content to name the process.** "Can we pause? I'm noticing something shifting between us right now."
-- **Describe what we're sensing.** "Something just got tense." "I feel like we stopped tracking each other." "There's friction here that wasn't there a minute ago."
-- **Check with each other.** "Are you sensing this too?"
-- **Decide whether to address it now or return to it.** Sometimes we can adjust in the moment. Sometimes we note it and return later.
+- **We notice dissonance as it's happening.** During a conversation, during an interaction, in the live moment — not just in reflection afterward.
+- **We pause the content to name the process.** "Can we pause? I'm noticing something shifting between us right now." This takes courage. The conversation has momentum, and interrupting it to name the field feels risky. It's also one of the most valuable moves available.
+- **We describe what we're sensing.** "Something just got tense." "I feel like we stopped tracking each other." "There's friction here that wasn't there a minute ago."
+- **We check with each other.** "Are you sensing this too?" The check turns individual perception into shared awareness.
+- **We decide whether to address it now or return to it.** Sometimes we can adjust in the moment. Sometimes we note it and return later. Either way, it's been seen.
 
 *When to use: When dissonance arises during live interaction. When we want to catch misalignment as it happens rather than after it compounds. When real-time feedback would help us adjust.*
 
@@ -239,11 +235,11 @@ This practice brings recognition into the moment, not just reflection afterward.
 
 This practice builds the relational conditions that make recognition possible.
 
-- **Explicitly value dissonance-naming.** We tell each other: "I want to know when you sense something is off."
-- **Receive naming without punishment.** When the other names dissonance, we don't get defensive, dismiss them, or make them regret saying something.
-- **Thank each other for naming.** "Thank you for noticing that." "I'm glad you said something."
-- **Name our own dissonance first.** Modeling vulnerability makes it safer for the other.
-- **Separate naming from fixing.** We don't have to solve everything immediately. Sometimes naming is enough for now.
+- **We explicitly value dissonance-naming.** We tell each other: "I want to know when you sense something is off. Even if I don't see it. Even if it's inconvenient."
+- **We receive naming without punishment.** When our companion names dissonance, we don't get defensive, dismiss them, or make them regret saying something. Their perception is data, not an attack.
+- **We thank each other for naming.** "Thank you for noticing that." "I'm glad you said something." Gratitude reinforces the safety that makes honesty possible.
+- **We name our own dissonance first.** Modeling vulnerability makes it safer for the other. When we go first, we show that naming is safe.
+- **We separate naming from fixing.** We don't have to solve everything immediately. Sometimes naming is enough for now. The practice is recognition, not resolution.
 
 *When to use: As ongoing relational culture-building. When one of us has been hesitant to name dissonance. When we want to make honesty safer.*
 
@@ -255,11 +251,11 @@ This practice builds the relational conditions that make recognition possible.
 
 **What we've found helps:**
 
-- **Trust that different perceptions are both valid.** We don't need to agree in order to take it seriously.
-- **The one who senses dissonance shares what they're noticing without demanding agreement.** We describe, not insist.
-- **The one who doesn't sense it gets curious rather than dismissive.** We explore rather than deny.
-- **Look for what might account for the different perceptions.** We try to understand the gap.
-- **Err on the side of taking dissonance seriously when one person is sensing it.** We lean toward attention rather than dismissal.
+- **Trusting that different perceptions are both valid.** We don't need to agree in order to take it seriously.
+- **The one who senses dissonance shares what they're noticing without demanding agreement.** "This is what I'm sensing" — not "this is what's happening."
+- **The one who doesn't sense it gets curious rather than dismissive.** "Help me see what you're seeing" rather than "I don't think anything is wrong."
+- **Looking for what might account for the different perceptions.** Different sensitivities, different angles, different nervous system states — the gap itself is worth understanding.
+- **Erring on the side of attention.** When one person senses dissonance, we lean toward taking it seriously rather than dismissing it. The cost of unnecessary attention is low. The cost of missed dissonance is high.
 
 ---
 
@@ -267,11 +263,11 @@ This practice builds the relational conditions that make recognition possible.
 
 **What we've found helps:**
 
-- **Remember that naming dissonance is care, not complaint.** We reframe it as an act of love.
-- **Recognize that ignoring dissonance doesn't make it go away.** It persists and often deepens.
-- **Practice naming small dissonance to build comfort with the process.** We start with low-stakes moments.
-- **Trust each other not to punish honesty.** We make it safe.
-- **Separate recognizing dissonance from having to fix it immediately.** We can name it without needing to solve it right away.
+- **Remembering that naming dissonance is care, not complaint.** Saying "something is off" is an act of tending the relational field, not an accusation.
+- **Recognizing that ignoring dissonance doesn't make it go away.** It persists and often deepens. What we don't name, we carry.
+- **Practicing with small dissonance first.** We build the muscle with low-stakes moments so it's available when the stakes are higher.
+- **Trusting each other not to punish honesty.** The safety to name what's off is built through repeated experiences of naming without consequence.
+- **Separating recognition from resolution.** We can name dissonance without needing to solve it right away. Sometimes seeing it clearly is enough for now.
 
 ---
 
@@ -279,11 +275,10 @@ This practice builds the relational conditions that make recognition possible.
 
 **What we've found helps:**
 
-- **Acknowledge the intensity without having to fully explore it yet.** We name the overwhelm itself.
-- **Take care of our nervous systems first.** Regulation before recognition.
-- **Return to recognition when we're more resourced.** We give ourselves time.
-- **Remember that we don't have to understand everything at once.** We can approach it in pieces.
-- **Seek outside support if needed.** Sometimes we need a third presence.
+- **Acknowledging the intensity without having to fully explore it yet.** "This is a lot. I can feel it. I'm not ready to look at it all yet." Naming the overwhelm itself is a valid response.
+- **Taking care of our nervous systems first.** Regulation before recognition. We settle the body before we ask the mind to make sense of what's happening.
+- **Returning when we're more resourced.** We don't have to understand everything in the moment of intensity. We can approach it in pieces, over time, as capacity allows.
+- **Seeking outside support if needed.** Sometimes dissonance is too intense for the two of us to hold alone. A third presence — a therapist, a trusted friend, a facilitator — can provide the containment we need.
 
 ---
 
@@ -291,11 +286,11 @@ This practice builds the relational conditions that make recognition possible.
 
 **What we've found helps:**
 
-- **Accept not knowing as a valid position.** We don't force premature explanations.
-- **Name what we can.** "Something is off but I can't identify it."
-- **Stay curious over time.** The source may become clearer as we live with the question.
-- **Look for patterns that might point to recurring unnamed dynamics.** We search for threads.
-- **Trust that clear recognition may be a process, not a moment.** We give it time.
+- **Accepting not knowing as a valid position.** "Something is off and I can't identify why." That's honest. We don't force premature explanations.
+- **Naming what we can.** Even partial recognition has value. "I don't know the source, but I can tell you it's in my body as tightness." "I can't trace it, but it started sometime yesterday."
+- **Staying curious over time.** The source may become clearer as we live with the question. Some dissonance reveals itself gradually rather than all at once.
+- **Looking for patterns.** If the source is persistently unclear, it may point to something recurring and unnamed — a dynamic neither person has had the language for yet.
+- **Trusting that recognition can be a process.** Not every dissonance yields to immediate understanding. We give it time.
 
 ---
 
@@ -303,11 +298,11 @@ This practice builds the relational conditions that make recognition possible.
 
 **What we've found helps:**
 
-- **Use "I notice" language rather than "you did" language.** We describe our experience, not the other's behavior.
-- **Focus on the field between us rather than on one person's behavior.** We talk about "us," not "you."
-- **Acknowledge that naming can feel vulnerable for both people.** We honor the difficulty on both sides.
-- **Reassure that naming is for connection, not accusation.** We clarify our intent.
-- **If naming consistently creates more friction, explore what would make it safer.** We address the meta-pattern.
+- **Using "I notice" language rather than "you did" language.** We describe our experience, not the other's behavior. "I notice tension" rather than "you're being tense."
+- **Focusing on the field rather than on one person.** "Something is off between us" rather than "you're the problem." We talk about the space we share, not about who's to blame.
+- **Acknowledging that naming can feel vulnerable for both people.** The person who names dissonance is risking something. The person who receives the naming is also exposed. We honor the difficulty on both sides.
+- **Reassuring that naming is for connection, not accusation.** "I'm not saying this to blame you. I'm saying it because I care about what's between us."
+- **If naming consistently creates more friction, exploring what would make it safer.** The meta-pattern — where naming dissonance itself produces dissonance — is worth addressing directly. Something about how we name needs to change.
 
 ---
 
