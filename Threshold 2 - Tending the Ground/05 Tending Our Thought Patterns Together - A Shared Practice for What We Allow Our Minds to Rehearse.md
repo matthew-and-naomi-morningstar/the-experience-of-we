@@ -16,6 +16,12 @@ This guide is about developing awareness of what we practice mentally. Not thoug
 
 ---
 
+### If we remember nothing else
+
+*Our minds rehearse patterns. What we rehearse, we strengthen. Awareness creates a little space around the pattern — not control, just space. We don't need to fix anything. We notice, and we gently return when we drift. That's the whole practice, even when we forget everything else in this guide.*
+
+---
+
 ## How we use this guide
 
 We created this guide to be read and practiced together — by partners, friends, family members, or anyone who wants to develop their shared capacity to notice what they allow their minds to rehearse and to tend those patterns with care.
@@ -150,6 +156,8 @@ Honesty about the difficulty matters:
 
 These are our best practices for tending what we allow our minds to rehearse. This is not an exhaustive list; we encourage you to adjust these and add your own.
 
+*A note before we begin.* This practice is not about monitoring our thoughts constantly. It's about noticing occasionally, naming what we find with honesty, and gently returning when we drift. If we turn this into another form of self-surveillance, we've misunderstood it. Gentleness isn't the reward for doing the practice well. Gentleness is the practice.
+
 ### We practice noticing what we're rehearsing
 
 The foundation of all this work: developing awareness of what our minds are actually doing.
@@ -159,6 +167,7 @@ The foundation of all this work: developing awareness of what our minds are actu
 - **We name what we find.** "I've been rehearsing that conversation for the last hour." "I've been running worst-case scenarios since I woke up." "I've been criticizing you in my head all afternoon." Naming is the first act of awareness.
 - **We notice the body.** Thought patterns live in the body before we notice them in the mind. The tight jaw, the shallow breath, the hunched shoulders, the clenched stomach; we learn to read these as signals that a pattern is running.
 - **We share without performing.** "My mind has been busy today. It's been running the worry loop." We bring this to each other as information, not as confession or apology. Just honest reporting of inner weather.
+- **We share at the level the trust between us can currently hold.** Honesty isn't obligation. It's care calibrated to the field we've built. What we disclose about our inner rehearsal is itself a discernment; we don't dump everything we've thought just because we noticed it. We share what serves the relationship.
 
 *When to use: As an ongoing awareness practice. Throughout the day, as a gentle check-in with ourselves. Before entering the relational space — "What am I bringing right now?"*
 
@@ -222,7 +231,7 @@ Understanding where our habitual thought patterns come from, not to excuse them,
 
 ### We practice choosing what we rehearse
 
-The active work of directing attention toward what we want to strengthen, not through suppression but through deliberate cultivation.
+The active work of directing attention toward what we want to strengthen, not through suppression but through deliberate cultivation. Choosing here doesn't mean willpower. It means noticing the small moment, available maybe one time in ten, when something different is possible — and taking it when we can.
 
 - **We notice the choice point.** Between the arising of a thought pattern and the following of it, there is sometimes — not always, but sometimes — a moment of choice. We practice noticing that moment. It may be very brief. It may only appear after we've already been caught for a while. But each time we find it, we're building the muscle of awareness.
 - **We ask: what do I want to practice?** When we catch ourselves at a choice point, we can ask: if I follow this pattern, what am I strengthening? And is that what I want to strengthen? This isn't about being positive; it's about being intentional.
