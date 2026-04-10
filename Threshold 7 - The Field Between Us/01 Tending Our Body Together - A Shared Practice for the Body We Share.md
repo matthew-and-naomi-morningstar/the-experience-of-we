@@ -223,6 +223,46 @@ Recognizing that the collective body moves through phases that ask different thi
 
 ---
 
+### We notice who is carrying more — and redistribute
+
+Developing awareness of physical load imbalance and the practice of consciously shifting weight between us.
+
+- **We track the physical load honestly.** Who is doing more of the manual labor, the caregiving, the errands, the cooking, the cleaning, the physical tasks that keep the shared life running? Not as scorekeeping — as awareness. The imbalance often becomes invisible because the person carrying more stops naming it and the person carrying less stops noticing.
+- **We name the imbalance without shame.** "You've been carrying the physical load for weeks. I can see what it's costing your body." "I've been doing most of the heavy lifting and I need help." Naming is the first step toward redistribution. Without naming, the imbalance compounds silently.
+- **We redistribute before crisis.** The time to shift weight is when the imbalance is visible, not when the overloaded person collapses. "I can take the grocery runs this week." "Let me handle bedtime so you can rest." "Your body has been carrying more — what can I absorb?" Proactive redistribution is a form of tending. Reactive redistribution after breakdown is damage control.
+- **We accept that redistribution is rarely equal.** In any given season, one person will carry more. That's not failure — it's the We-body organizing around current capacity. The practice is ensuring the pattern rotates over time rather than calcifying, so that neither body is permanently the load-bearer.
+
+*When to use: When one body is visibly depleted and the other isn't. When physical tasks have been distributed unevenly for too long. When we want to prevent the slow erosion that comes from one person silently carrying more than their share.*
+
+---
+
+### We accompany each other through physical transitions
+
+Tending the We-body through the structural changes that alter what it can do — not as crisis response, but as ongoing accompaniment.
+
+- **We name the transition together.** Aging. Injury recovery. Pregnancy and postpartum. The onset of a chronic condition. A change in physical capacity. A shift in what the body can and can't do. We name it as a We-body event, not just an individual one: "Your body is changing, and that means our body is changing. Let's navigate this together."
+- **We renegotiate what the We-body can hold.** Every physical transition changes the We-body's capacity. What we could do before, we may not be able to do now. Activities, expectations, physical routines, division of labor — all may need recalibrating. We approach this as redesign, not as loss.
+- **We grieve what changes without getting stuck in grief.** If the We-body used to be able to hike for hours, and now it can't — that's a real loss. We let the grief exist. We don't rush past it. And we also don't let it become the only story. The We-body that has changed is still a We-body. It still has capacity. We discover what that capacity is now.
+- **We learn the new body together.** After a transition, the We-body is genuinely different. We explore it with the same curiosity we'd bring to any new territory — not comparing it to what was, but discovering what is. "What can our body do now? What does it need now? What becomes possible that wasn't possible before?"
+- **We seek support when the transition exceeds our capacity.** Physical therapy, medical care, community support, practical help — when a transition is too large for the dyad to absorb alone, seeking outside support is the We-body being intelligent about its limits.
+
+*When to use: When a significant physical change is underway or has occurred. When the We-body's capacity has shifted and the old arrangements no longer fit. When we need to rebuild our relationship to the shared body after it has changed.*
+
+---
+
+### We rest the We-body
+
+Practicing shared rest as deliberate maintenance — not in response to depletion, but as an ongoing investment in the collective body's health.
+
+- **We rest together.** Not just in the same room while separately scrolling. Actually resting — together. Lying down. Sitting in stillness. Being in the same space with no agenda, no task, no conversation required. Shared rest is co-regulation at its simplest: two bodies settling together, reminding each other's nervous systems that not every moment needs to be productive.
+- **We create regular rest without earning it.** The We-body doesn't need to be depleted before it deserves rest. We build rest into the shared rhythm — a slow morning, an unhurried evening, a day with nothing planned — as maintenance, not as recovery from crisis. If rest only happens after collapse, the We-body is running a deficit cycle.
+- **We protect rest from invasion.** The culture will try to fill every restful moment with productivity, entertainment, or obligation. We protect the We-body's rest the way we'd protect sleep: as a non-negotiable condition for health. "We're resting tonight" is a complete sentence.
+- **We let rest be genuinely unproductive.** Not "active rest" or "restorative activities" — just rest. The We-body doing nothing. Both bodies present, at ease, with no output expected. The discomfort many people feel with genuine unproductivity is itself a sign of how deeply the override pattern runs. We practice tolerating stillness together.
+
+*When to use: Regularly — not only when depleted. When the We-body has been running at high output for too long. When rest has become something we do only after collapse rather than as a ongoing practice. When we want to invest in the We-body's resilience before it's tested.*
+
+---
+
 ## Working with challenges
 
 **When naming the We-body triggers defensiveness about autonomy.** "My body is my business" feels threatened by the claim that the body is also shared.
@@ -293,7 +333,7 @@ Tending the We-body is not self-improvement with a relational vocabulary. It is 
 
 By reading this guide together, we've made a commitment: to recognize the body we share and to tend it — not perfectly, but intentionally.
 
-We will name the We-body. We will tend the shared metabolism. We will track energy as a shared resource. We will care for each body as part of our body. We will make physical choices with shared awareness. We will honor the We-body's seasons.
+We will name the We-body. We will tend the shared metabolism. We will track energy as a shared resource. We will care for each body as part of our body. We will make physical choices with shared awareness. We will honor the We-body's seasons. We will notice who is carrying more and redistribute. We will accompany each other through physical transitions. We will rest the We-body — deliberately, regularly, without needing to earn it.
 
 We will not always do this well. We will sometimes neglect our own bodies and feel the ripple in the We. We will sometimes make choices that cost the collective without thinking. We will sometimes fall into the old frame — my body, my business — and forget that the consequences are shared. This is human.
 

@@ -42,7 +42,7 @@ The practices are organized into ten thresholds:
 | 4 | **Navigating Challenge** | 9 | Working with friction, shadows, triggers, trauma, and different capacities |
 | 5 | **Repairing** | 4 | Healing ruptures, taking responsibility, releasing what was done |
 | 6 | **Transforming** | 6 | Embodying new patterns until they become natural |
-| 7 | **The Body Between Us** | 8+ | Knowing the body, honoring its rhythms, understanding its expression, and the full spectrum of conscious physical contact |
+| 7 | **The Field Between Us** | 12+ | The relational field as a living system with multiple dimensions: body, expression, touch, emotions, mind, and the felt sense of the sacred |
 | 8 | **Emergence** | 12 | What becomes possible when the foundation is solid — creativity, play, grief, love, rest |
 | 9 | **The Larger Pattern** | 4 | Meta-practices that synthesize the whole journey |
 | 10 | **Beginning Again** | 1 | Honoring the cycle and starting the next turn |

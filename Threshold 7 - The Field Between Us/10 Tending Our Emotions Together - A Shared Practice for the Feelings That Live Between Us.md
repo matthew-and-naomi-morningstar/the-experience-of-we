@@ -16,6 +16,8 @@ He told his friends that Naomi was having a powerful trigger and he needed to be
 
 Afterward, when they tracked what had happened, they realized something: the trigger was hers — rooted in her body, her history, her trauma. But the emotional event was *theirs*. It entered the field between them the moment it occurred. His body felt it. The atmosphere in the room changed. The quality of the evening shifted. The co-regulation that brought them back was a shared act — not one person fixing the other, but two nervous systems working as one system to metabolize what had happened.
 
+And something became unmistakably clear.
+
 This is the emotional field between us. And it is as real as the bodies that generate it.
 
 We tend to think of emotions as private — mine to feel, yours to feel, each of us responsible for our own inner weather. And that's partly true. But it's radically incomplete. Because when two people share life closely, their emotional systems become coupled. Her trigger entered his body. His steadiness entered hers. The distress didn't stay inside the person who generated it. It entered the field — and the field shaped everyone in it.
@@ -97,9 +99,9 @@ The practice of this guide is learning to sense, name, and tend the field itself
 
 ### How individual emotions become a shared field
 
-The emotional field forms through specific, observable mechanisms:
+The emotional field forms wherever our lives overlap — in shared space, shared time, and shared attention. It forms through specific, observable mechanisms:
 
-**Emotional contagion.** Emotions are literally contagious between people in close contact. This happens through mirror neuron activation, facial expression mimicry, vocal tone matching, and autonomic nervous system coupling. When one person is anxious, the other person's nervous system begins to register anxiety — not because they've decided to feel anxious, but because the body is wired to absorb the emotional states of nearby bodies. This is the most basic mechanism of the shared field: your feelings enter my body, and mine enter yours.
+**Emotional contagion.** For many people, emotions are highly contagious between people in close contact. This happens through mirror neuron activation, facial expression mimicry, vocal tone matching, and autonomic nervous system coupling. When one person is anxious, the other person's nervous system begins to register anxiety — not because they've decided to feel anxious, but because the body is wired to absorb the emotional states of nearby bodies. This is the most basic mechanism of the shared field: your feelings enter my body, and mine enter yours.
 
 **Co-regulation and co-dysregulation.** When both nervous systems are settled, they settle each other further — a positive feedback loop that creates the quality of warmth and ease that characterizes a nourished field. When one or both systems are activated, the activation amplifies through the same loop — anxiety breeds anxiety, reactivity triggers reactivity. The field can spiral in either direction: toward greater settling or greater activation.
 
@@ -123,7 +125,7 @@ Like the body's rhythms, the emotional field has patterns that can be tracked:
 
 This is essential to understand: the field shapes the individuals as much as the individuals shape the field.
 
-A person who is generally calm can become anxious in a chronically anxious field. A person who is generally warm can become cold in a field that punishes warmth. A person who is generally available can become withdrawn in a field that is too demanding. The field has its own gravity — it pulls the people in it toward its prevailing state.
+A person who is generally calm can become anxious in a chronically anxious field. A person who is generally warm can become cold in a field that punishes warmth. A person who is generally available can become withdrawn in a field that is too demanding. The field has its own gravity — it tends to pull the people in it toward its prevailing state.
 
 This means that tending the field is not just about managing individual emotions. It's about changing the conditions that produce those emotions in the first place. A person struggling with anxiety in a tense field doesn't just need individual emotional support. They need the field to change.
 
@@ -152,7 +154,7 @@ These are our best practices for tending the emotional life we share. This is no
 Developing the capacity to feel the emotional atmosphere as a shared reality, not just as individual feelings.
 
 - **We check the field, not just ourselves.** Instead of only asking "How am I feeling?" we add: "What's the quality of the space between us right now?" The field has a felt quality — warm, tense, flat, alive, heavy, spacious — that can be sensed directly when we learn to attend to it.
-- **We name the field out loud.** "The field feels heavy tonight." "There's a warmth between us right now." "Something is tense in our space and I don't think it belongs to either of us specifically." Naming the field makes the shared emotional reality speakable — and once it's speakable, it can be tended.
+- **We name the field out loud.** "The field feels heavy tonight." "There's a warmth between us right now." "Something is tense in our space and I don't think it belongs to either of us specifically." Naming the field makes the shared emotional reality speakable — and once it's speakable, it can be tended. This may feel unusual at first. With practice, it becomes natural.
 - **We distinguish field weather from individual weather.** "I'm feeling anxious — but I think the field is actually okay. This one is mine." Or: "I was fine until I walked in and now I feel tense — I think this is in the field, not in me." The distinction isn't always clean, but practicing it builds the capacity to sense what's shared and what's personal.
 - **We develop a shared vocabulary.** Over time, we build language for the field's states: "Sunday evening tension." "Post-fight chill." "Morning generosity." "The heavy week before the anniversary." This vocabulary is itself a form of tending — it makes the field's patterns recognizable and nameable.
 
@@ -225,6 +227,48 @@ Actively investing in the emotional atmosphere's health and vitality.
 
 ---
 
+### We notice when one person's emotions dominate the field
+
+Developing awareness of whose emotional state is setting the shared weather — and making room for the full field.
+
+- **We track whose emotions become the atmosphere.** Over a day, a week, a season — whose moods tend to become the field's moods? Whose anxiety becomes the shared anxiety? Whose joy lifts the whole room? Whose withdrawal chills the space? This isn't about blame. It's about noticing which emotional signal the field amplifies and which it suppresses.
+- **We name the pattern.** "I notice your emotional state tends to fill the field, and mine goes underground." "I notice I've been setting the weather all week — I haven't been leaving room for what you're feeling." Naming the imbalance is the first step in rebalancing it.
+- **The louder person practices holding their state without broadcasting it.** Not suppressing — holding. "I'm feeling a lot right now. I'm going to contain it for a moment so there's space in the field for both of us." This is the emotional equivalent of the dominant narrator making room in Our Mind.
+- **The quieter person practices expressing into the field.** "I've been carrying something too, and I want to bring it into the space." Emotional volume is partly temperament and partly habit. The quieter person's emotional experience matters to the field's health — and suppressing it to make room for the louder person's state is its own form of imbalance.
+- **We check the balance regularly.** "Whose emotions have been shaping the field this week?" Regular checking prevents the imbalance from becoming the field's permanent character.
+
+*When to use: When one person's emotional state consistently dominates the shared atmosphere. When the quieter person's experience is going unfelt in the field. When we want both people's emotional lives to be present in the shared space.*
+
+---
+
+### We tend the field's memory
+
+Working with the accumulated emotional history that shapes the field's baseline character.
+
+- **We recognize that the field remembers.** Every unresolved fight, every held grief, every joyful season, every tender moment — the field carries all of it as emotional sediment. This sediment creates the field's baseline: warm or cool, safe or guarded, open or constricted. Understanding the baseline means understanding the field's memory.
+- **We periodically audit the sediment.** "What is the emotional residue we've been carrying? Is there unresolved hurt still shaping the field's character? Is there unexpressed gratitude that could warm it? Is there unprocessed grief weighing it down?" The audit isn't excavation — it's maintenance. We check what's accumulated the way we'd check what's accumulated in a shared space we live in.
+- **We process what needs processing.** Some sediment needs to be felt, not just identified. "I think there's still hurt from last year living in the field between us. Can we sit with it?" Processing the field's memory isn't reopening old conflicts — it's tending the emotional residue those conflicts left behind, which is a different and often gentler task.
+- **We honor the positive sediment too.** The field's memory isn't only pain. Shared joy, shared survival, shared tenderness — these also accumulate, and they form the warm bedrock that carries the relationship through hard seasons. We name the good sediment deliberately: "The warmth between us right now was built by everything we've been through together."
+- **We let the field update its baseline.** When significant processing or repair has occurred, the field's baseline character can shift — from guarded to more open, from tense to more settled. We notice these shifts and name them: "Something has changed between us. The field feels lighter." Naming the shift helps the field stabilize at its new baseline rather than reverting to the old one.
+
+*When to use: When the field's baseline character seems disproportionate to what's currently happening. When old emotional residue is coloring the present atmosphere. When we want to understand why the field feels the way it does at its default, and whether that default can change.*
+
+---
+
+### We protect the field's boundaries
+
+Creating and maintaining a membrane around the emotional field — deciding what enters, how it enters, and how we keep the shared space from being overwhelmed by what comes at it from outside.
+
+- **We notice what's entering the field from outside.** Work stress, family conflict, social media, world events, other people's emotional states — the field is constantly receiving input from beyond the two of us. We develop awareness of what's coming in: "I'm bringing a lot of work stress into our space tonight." "That conversation with your mother is still in the field."
+- **We create an entry buffer.** When one person is carrying external emotional material, we pause before letting it enter the field. "I need ten minutes to land before I'm present with you." "I'm carrying something heavy — can I name it at the door rather than letting it flood the space?" The buffer isn't suppression — it's conscious entry rather than unconscious contamination.
+- **We decide together what the field will hold.** Not every piece of external stress needs to enter the shared emotional space. We make conscious choices: "Do we want to process this together, or can this be something I handle on my own?" "I need to talk about work, but I don't want it to become the field's weather for the evening."
+- **We protect the field during high-stress seasons.** When external pressure is intense — financial crisis, family emergency, political turmoil — the field needs stronger boundaries, not weaker ones. Screen-free time. Evenings without discussing stressors. Physical settling before engaging with each other. The membrane must be actively maintained when the pressure is highest.
+- **We repair the membrane when it's been breached.** Sometimes external emotion floods the field before anyone can catch it — a terrible news cycle, an unexpected crisis, a conversation that lands like a bomb. When this happens, we name the breach: "Our field just absorbed something it wasn't prepared for. Let's settle together before we try to process it."
+
+*When to use: When external stress is consistently degrading the field's health. When one person regularly brings unprocessed external emotions into the shared space without awareness. When the field needs protection during a difficult season. When we want to become more deliberate about what enters the emotional space between us.*
+
+---
+
 ## Working with challenges
 
 **When one person is emotionally louder than the other.** One person's emotional presence consistently dominates the field — their moods become the weather, and the other person's emotional life gets compressed.
@@ -287,13 +331,15 @@ A relationship with a nourished emotional field can hold difficulty, navigate co
 
 Tending the emotional field is not therapy. It's not emotional management. It's the recognition that the space between us has a life of its own — warm or cold, settled or activated, spacious or cramped — and that this life is our shared responsibility. Not because either of us caused it, but because both of us live in it.
 
+The way the space between us feels matters.
+
 ---
 
 ## Our commitment to tending our emotions
 
 By reading this guide together, we've made a commitment: to recognize the emotional field between us and to tend it — not perfectly, but intentionally.
 
-We will learn to sense the field. We will track its patterns. We will tend its weather — settling what's activated, warming what's cold, clearing what's accumulated. We will take responsibility for what we bring. We will hold the field through difficulty. We will nourish it when it's healthy.
+We will learn to sense the field. We will track its patterns. We will tend its weather — settling what's activated, warming what's cold, clearing what's accumulated. We will take responsibility for what we bring. We will hold the field through difficulty. We will nourish it when it's healthy. We will notice when one person's emotions dominate the field and make room for the full range. We will tend the field's memory — honoring what has accumulated and processing what needs to move. We will protect the field's boundaries — choosing consciously what enters the shared emotional space.
 
 We will not always do this well. We will sometimes flood the field with our own emotions without noticing. We will sometimes mistake field weather for individual weather. We will sometimes try to control each other's emotions in the name of tending the shared space. This is human.
 

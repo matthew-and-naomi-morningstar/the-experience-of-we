@@ -32,7 +32,7 @@ The ten thresholds:
 4. **Navigating Challenge** — meeting what's hard, finding our way through, and navigating what goes deeper
 5. **Repairing** — making it right when things break
 6. **Transforming** — making change real and lasting
-7. **The Body Between Us** — knowing the body, honoring its rhythms, understanding its expression, and developing the full spectrum of conscious physical contact
+7. **The Field Between Us** — the relational field as a living system with multiple dimensions: body, expression, touch, emotions, mind, and the felt sense of the sacred
 8. **Emergence** — what becomes possible when the foundation is solid
 9. **The Larger Pattern** — practices that synthesize the whole journey
 10. **Beginning Again** — honoring the cycle and starting the next turn
@@ -385,15 +385,19 @@ The capacity to stay present, feeling, integrated, and together when difficulty 
 
 ---
 
-## Threshold 7: The Body Between Us
+## Threshold 7: The Field Between Us
 
-*The body is where everything we've practiced becomes physical. This threshold brings the relational capacities developed in earlier thresholds — presence, trust, repair, transformation — into the body's most intimate territories: its architecture, its rhythms, its expression, and its capacity for conscious physical contact.*
+*This threshold reveals the relational field as a living system with multiple simultaneous dimensions — body, expression, touch, emotions, mind, and the felt sense of the sacred. Each dimension can be sensed, tended, and honored as a shared reality that neither person fully owns. Together, they form a complete phenomenology of what lives in the between.*
 
-The Experience of We explores the body across multiple layers of reality at once. The body has a biological structure shaped by hormones and evolution. The body moves through time in cycles that change its experience. The body expresses itself in relationship through patterns shaped by both biology and experience. None of these layers replaces the others. They interact. Biology shapes what is likely. Culture shapes what is permitted. Relationship shapes what becomes expressed. We are learning to see all three at once — not to reduce one to another, but to understand how they move together.
+The Experience of We explores the relational field across multiple layers of reality at once. The field has a body shaped by hormones and evolution. The field expresses itself through signals and patterns. The field meets itself through touch. The field has emotions that arise between us. The field has a mind where meaning is made together. And the field carries a dimension of depth that some call sacred — a quality of meaning that arrives when conditions are right. None of these dimensions replaces the others. They interact. Biology shapes what is likely. Culture shapes what is permitted. Relationship shapes what becomes expressed. And the felt sense of the sacred arises in the space where all of this is tended together. We are learning to see all these dimensions at once — not to reduce one to another, but to understand how they move together as a single living field.
 
-### Body Knowledge
+### The Body Between Us
 
-We begin by learning what lives in the bodies we share our relational field with — their architecture, their rhythms, their expression.
+We begin by recognizing that the We has a body — a shared physical system that emerges when two or more people share life closely. From there, we learn what lives in the bodies that compose it.
+
+**Tending Our Body Together**
+*A Shared Practice for the Body We Share*
+The foundational recognition that the We has a body — a collective physical system with its own health, its own energy, its own needs. When individual choices ripple through the shared body, we learn to tend it together: nourishment, energy, load, transitions, rest.
 
 **Exploring the Male Body Together**
 *A Shared Practice for Knowing and Honoring the Body He Lives In*
@@ -411,13 +415,17 @@ The daily, seasonal, and lifetime hormonal rhythms of the male body — made vis
 *A Shared Practice for Understanding the Rhythms of the Female Body*
 The monthly and lifetime hormonal rhythms of the female body — made visible and relational so that both people can understand and work with the body's cycling energy, mood, desire, pain, and capacity.
 
+### The Expression Between Us
+
+With bodies known, we explore how they become visible to each other through the signals they send into the shared space.
+
 **Exploring Gender Expression Together**
 *A Shared Practice for How We Become Visible to Each Other*
 How the body becomes signal in the relational field — the patterns of movement, tone, posture, and presence that carry gendered meaning, how they were shaped, what range is available, and how expression creates the space between us.
 
-### Touch Spectrum
+### The Touch Between Us
 
-With the body known, we explore how bodies meet — through three distinct modes of physical contact that the culture has collapsed into one.
+With the body known and expression understood, we explore how bodies meet — through three distinct modes of physical contact that the culture has collapsed into one.
 
 **Exploring Affectionate Touch Together**
 *A Shared Practice for the Touch That Says I Am Here*
@@ -431,9 +439,33 @@ The middle ground the culture lost — touch where sensation and pleasure are th
 *A Shared Practice for the Vulnerability of Full Contact*
 The deepest layer of physical contact — where the body opens, defenses release, and two people meet in full vulnerability. Intimacy as a quality of presence and surrender, not reducible to sexual acts.
 
-### Sexuality Series (in development)
+### The Emotions Between Us
 
-Six guides exploring the sexual dimension of relational life: selfhood, desire, communication, embodiment, repair, and evolution. These guides build on the body knowledge and touch practices and will be released as they are completed.
+Beyond the physical, the field has an emotional life that belongs to neither person alone.
+
+**Tending Our Emotions Together**
+*A Shared Practice for the Feelings That Live Between Us*
+The emotional field as a shared system — the atmosphere that forms between people when their nervous systems are in regular contact. Emotional contagion, co-regulation, field memory, and the practice of tending the emotional weather we share together rather than managing each other's individual feelings.
+
+### The Mind Between Us
+
+The cognitive dimension of the field — where meaning is made, narratives are co-created, and the stories we tell together shape the world we live in.
+
+**Tending Our Mind Together**
+*A Shared Practice for the Thoughts That Shape Our World*
+The shared cognitive space where stories, assumptions, and interpretations live — not just communication, but the discovery that the We has a mind. Cognitive consent as the practice of noticing when interpretations are being invited into the shared space and choosing deliberately which ones to accept. The recognition that what we think together becomes the world we live in together.
+
+### The Sacred Between Us
+
+The dimension of depth that arises when the field is tended fully — not as doctrine or belief, but as directly felt experience.
+
+**Tending the Sacred Between Us**
+*A Shared Practice for the Depth That Lives in the Between*
+The felt sense of meaning, depth, and significance that sometimes arises in the space between people. Not religion. Not cosmology. The direct experience of what traditions have called sacred — and the recognition that after the Great Mismatch, this dimension survives in concentrated form in the relational field, where two people who tend the space between them can discover that the sacred didn't die when the Garden was lost. It moved. It lives now in the between.
+
+### The Sexuality Between Us (in development)
+
+Six guides exploring the sexual dimension of relational life: selfhood, desire, communication, embodiment, repair, and evolution. These guides build on the body knowledge, touch practices, and field dimensions already in place, and will be released as they are completed.
 
 ---
 
