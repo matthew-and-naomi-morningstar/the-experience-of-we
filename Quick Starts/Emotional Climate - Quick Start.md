@@ -40,6 +40,6 @@ The weather between us matters. Let us tend it together.
 
 ---
 
-**Related practices:** Thought Patterns, Processing Emotions, Recognizing Dissonance
+**Related practices:** Thought Patterns, Processing Emotions, Resolving Dissonance
 
 *A quick start from We Practices — The Experience of We*

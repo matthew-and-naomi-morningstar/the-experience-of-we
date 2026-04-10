@@ -279,17 +279,13 @@ We learn to observe our own awareness: noticing how we notice, seeing the patter
 
 Difficulty arrives. This sub-threshold develops the skills to recognize it, create space around it, engage it directly, and meet whatever it surfaces.
 
-**Recognizing Dissonance Together**
-*A Shared Practice for Noticing What's Out of Sync*
-Before we can work with dissonance, we must recognize it. We develop sensitivity to the signals that something is off between us.
+**Resolving Dissonance Together**
+*A Shared Practice for Sensing, Engaging, and Metabolizing Friction*
+Dissonance is information, and the energy it generates can flow into defense or into resolution. We learn to sense friction early, engage with it together, and let its energy route toward understanding rather than into walls.
 
 **Pause and Reflect Together**
 *A Shared Practice for Creating Space Before Responding*
 Between stimulus and response, there is a space. We learn to create that space deliberately, interrupting reactivity and allowing wisdom to arise.
-
-**Working with Dissonance Together**
-*A Shared Practice for Recognizing and Metabolizing Friction*
-Dissonance is information, not just a problem. We learn to metabolize friction, working with it rather than against it, extracting its teaching.
 
 **Exploring Our Shadows Together**
 *A Shared Practice for Meeting What We Disown*
@@ -611,7 +607,7 @@ Focus on Threshold 1. Re-establish the container, presence, and safety. Repair w
 Move through the thresholds cyclically. Each pass deepens the previous one. Use Celebrating and Reassessing to mark transitions and set intentions for the next cycle.
 
 ### For Specific Challenges
-Use individual practices as needed. Struggling with conflict? Work with the Dissonance practices. Need to rebuild trust? Focus on Trust and Safety. The practices work both as a developmental sequence and as standalone tools.
+Use individual practices as needed. Struggling with conflict? Work with Resolving Dissonance Together. Need to rebuild trust? Focus on Trust and Safety. The practices work both as a developmental sequence and as standalone tools.
 
 ---
 

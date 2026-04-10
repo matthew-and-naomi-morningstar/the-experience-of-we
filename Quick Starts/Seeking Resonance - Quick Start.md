@@ -38,6 +38,6 @@ When resonance is present, something between us comes alive. Let us learn to fin
 
 ---
 
-**Related practices:** Working with Dissonance, Shared Values, Co-Metabolizing
+**Related practices:** Resolving Dissonance, Shared Values, Co-Metabolizing
 
 *A quick start from We Practices — The Experience of We*

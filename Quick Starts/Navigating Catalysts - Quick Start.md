@@ -40,6 +40,6 @@ Some moments carry the potential to change everything. Let us learn to meet them
 
 ---
 
-**Related practices:** Catalyst Spiral, Navigating Triggers, Working with Dissonance
+**Related practices:** Catalyst Spiral, Navigating Triggers, Resolving Dissonance
 
 *A quick start from We Practices — The Experience of We*

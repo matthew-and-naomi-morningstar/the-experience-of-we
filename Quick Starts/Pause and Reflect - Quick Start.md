@@ -40,6 +40,6 @@ Between what happens and how we respond, there is a space. Let us practice findi
 
 ---
 
-**Related practices:** Recognizing Dissonance, Mindfulness, Calibrating
+**Related practices:** Resolving Dissonance, Mindfulness, Calibrating
 
 *A quick start from We Practices — The Experience of We*

@@ -44,6 +44,6 @@ Accountability is not a burden. It is the ground on which trust is built. If tha
 
 ---
 
-**Related practices:** Repairing, Exploring Shadows, Recognizing Dissonance
+**Related practices:** Repairing, Exploring Shadows, Resolving Dissonance
 
 *A quick start from We Practices — The Experience of We*

@@ -39,7 +39,7 @@ The practices are organized into ten thresholds:
 | 1 | **Foundation** | 20 | Presence, perception, honesty, and the agreements that make practice safe |
 | 2 | **Tending the Ground** | 12 | The physical, informational, emotional, and economic ecology around the relationship |
 | 3 | **Deepening** | 7 | Shared perception, emotional processing, meaning-making |
-| 4 | **Navigating Challenge** | 9 | Working with friction, shadows, triggers, trauma, and different capacities |
+| 4 | **Navigating Challenge** | 8 | Working with friction, shadows, triggers, trauma, and different capacities |
 | 5 | **Repairing** | 4 | Healing ruptures, taking responsibility, releasing what was done |
 | 6 | **Transforming** | 6 | Embodying new patterns until they become natural |
 | 7 | **The Field Between Us** | 12+ | The relational field as a living system with multiple dimensions: body, expression, touch, emotions, mind, and the felt sense of the sacred |
