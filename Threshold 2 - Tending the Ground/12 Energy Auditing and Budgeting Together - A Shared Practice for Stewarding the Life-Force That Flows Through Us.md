@@ -16,7 +16,15 @@ The most important thing to understand is that energy is not individual. In a sh
 
 This guide is about making those invisible flows visible. And then, together, shaping them with intention.
 
+Three orientations before we begin. First, this isn't about optimizing ourselves for more output. The words *audit* and *budget* come from the productivity world, but what we're doing here is the opposite: honest alignment between how we're actually living and what our bodies and our relationship can genuinely sustain. Not a softer version of productivity culture, but its inverse. Second, while our energy systems are intertwined, we remain distinct. We influence each other — deeply — but we are not responsible for managing each other. The practice is shared stewardship, not mutual surveillance. And third, we don't need to eliminate deficit entirely to feel relief. Even small shifts toward balance make a real difference, and this is an incremental practice that compounds over time — not a transformation we have to accomplish all at once.
+
 ~Matthew and Naomi Danielle Morningstar
+
+---
+
+### If we begin anywhere
+
+*We say out loud where our energy actually is right now — not what we think it should be, not what we wish it were, but the honest number. We listen to each other's answer without trying to fix it. And we adjust one expectation of the day to match what's actually available. That's the whole beginning. We don't need to audit or budget anything yet. Noticing honestly and adjusting by one increment is already the practice working.*
 
 ---
 
@@ -99,7 +107,7 @@ When we say "energy" in this guide, we mean something broader than physical stam
 
 **Relational energy.** The specific capacity to be present with another person — to attune, listen, respond, hold space, negotiate, repair. This draws from all the other types but is distinct in that it requires sustained, responsive, other-oriented attention. It's the most demanding form of energy expenditure we regularly engage in.
 
-**Meaning energy.** The felt sense of purpose, direction, and significance. When meaning is present, other forms of depletion are more tolerable — we can endure physical tiredness or emotional strain if it feels meaningful. When meaning drains out, everything becomes harder, even activities that aren't objectively demanding.
+**Meaning energy.** The felt sense of purpose, direction, and significance. Activities that feel meaningful often restore energy even when they require effort — caring for someone we love, working toward something we believe in, doing work that matters. When meaning is present, other forms of depletion are more tolerable; we can endure physical tiredness or emotional strain if it feels meaningful. When meaning drains out, everything becomes harder, even activities that aren't objectively demanding.
 
 These dimensions interact. Physical depletion drains emotional capacity. Cognitive overload erodes relational availability. Loss of meaning makes everything cost more. Understanding this interaction is the beginning of energy literacy.
 
