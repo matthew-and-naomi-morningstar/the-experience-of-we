@@ -116,13 +116,14 @@ Sense-making moves through phases, though not always linearly:
 - **Articulating** — How would we describe what's happening? Can we put our understanding into words?
 - **Testing** — Does this understanding hold up? What doesn't fit? What might we be missing?
 
-These phases often cycle — articulating may reveal gaps that send us back to gathering, testing may require more contextualizing.
+These phases often cycle — articulating may reveal gaps that send us back to gathering, testing may require more contextualizing. And shared understanding is often partial. Sometimes the most accurate outcome of sense-making is not a unified picture but a clearer map of where we see differently — and that clarity is itself a form of understanding.
 
 ### The conditions sense-making needs
 
 Sense-making requires certain conditions to work:
 
 - **Enough safety** — If we're too activated, sense-making collapses into defense or debate
+- **Enough regulation** — Our emotional state shapes what we can see. When we're activated — anxious, defensive, flooded — sense-making narrows to whatever confirms the threat. Regulation supports clarity. Sometimes the most important sense-making move is settling the nervous system before trying to understand
 - **Shared intention** — We both need to genuinely want to understand, not to win or be right
 - **Perspectives actually shared** — Before we can integrate observations, we need to hear each other's
 - **Epistemic humility** — We each need to hold our current understanding lightly enough to revise it
@@ -147,6 +148,8 @@ Before we move into practices, here are the qualities that make shared sense-mak
 ## Sense-making is a practice
 
 These are our best practices for developing shared sense-making capacity. This is not an exhaustive list; we encourage you to adjust these and add your own.
+
+*A note before we begin.* Sense-making is not about analyzing each other. It's about understanding what's happening between us and around us — with care, with curiosity, and without needing to get it perfectly right. Even slowing down to notice what we're each observing, without yet trying to explain it, is already sense-making. We don't need to move through all the phases below in order. We do what the moment asks for.
 
 ### We practice gathering signals together
 
@@ -258,7 +261,7 @@ Sometimes cognitive processing reaches its limit and we need to include what our
 
 - **We check in with our bodies.** As we gather signals and look for patterns, we notice what's happening somatically. What do our bodies sense about this situation?
 
-- **We include felt sense as data.** "Something about this feels unfinished" or "My gut says there's more here" are legitimate observations. The body often perceives before the mind can articulate.
+- **We include felt sense as data.** "Something about this feels unfinished" or "My gut says there's more here" are legitimate observations. The body often perceives before the mind can articulate. Sometimes it notices patterns, incongruities, or shifts in the field that cognitive processing hasn't reached yet — and including that felt sense can point us toward what we haven't yet been able to name.
 
 - **We name the felt quality.** Even when we can't explain it cognitively, we can describe what the situation feels like. Heavy? Stuck? Contracted? Unresolved? These felt qualities are information.
 
@@ -312,7 +315,7 @@ Understanding is not achieved once and then held forever. Situations evolve. New
 
 **What we've found helps:**
 
-- **We name the loop.** "I notice we keep coming back to the same place. What's keeping us stuck?"
+- **We name the loop.** "I notice we keep coming back to the same place. What's keeping us stuck?" This happens often and is not a sign of failure. Circling usually means something important hasn't been seen yet — a hidden disagreement, a missing piece of information, an emotion that needs to be felt before thinking can proceed.
 - **We try a different mode.** If talking isn't working, we try writing observations first. Or we include embodied sensing. Or we take a break.
 - **We check for hidden disagreement.** Loops often indicate unacknowledged divergence. We surface what might be unspoken.
 - **We accept partial understanding.** Sometimes we can only get so far right now. Partial clarity is better than endless circling.
