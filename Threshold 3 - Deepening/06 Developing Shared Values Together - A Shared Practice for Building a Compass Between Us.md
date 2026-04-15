@@ -14,6 +14,8 @@ That compass is our shared values: the things we've deliberately chosen to hold 
 
 This guide is about building that compass. Not finding it — building it. Because shared values aren't discovered ready-made. They're co-created through honest conversation about what each of us holds dear, where those commitments align, where they diverge, and what we choose — together — to place at the center.
 
+Shared values can be explicit or implicit, formal or organic, fully articulated or still emerging. Many relationships already have operative shared values — they've just never been named. This practice helps us notice and shape what is already alive between us. It doesn't require formalization to begin.
+
 ~Matthew and Naomi Danielle Morningstar
 
 ---
@@ -97,6 +99,8 @@ Before we can develop shared values, it helps to understand where our individual
 
 **Deliberate choice.** Some values are chosen consciously — adopted because we've thought carefully about what matters and decided to orient toward it. These tend to be the most robust because they've been examined rather than inherited.
 
+The goal of this practice isn't to arrive at the "right" values — as if there were a correct answer waiting to be found. It's to consciously choose what matters to us and live in alignment with that choice. Different relationships will orient toward different things. What makes shared values powerful is not their content but the fact that both people have chosen them together, with awareness.
+
 Most of us carry a mixture: inherited values we've never questioned, experiential values we've never articulated, and chosen values we hold deliberately. Developing shared values begins with making all of these visible — first to ourselves, then to each other.
 
 ### How shared values are co-created
@@ -121,7 +125,7 @@ Value conflicts are among the most painful and most important moments in a relat
 
 **Not all value conflicts are resolvable.** Some differences in what we hold as most important are genuine and deep. One person values adventure; the other values stability. One person values independence; the other values togetherness. These aren't misunderstandings to be resolved — they're real tensions to be navigated.
 
-**Value conflicts reveal what's at stake.** When values clash, we discover what we're actually willing to fight for. This information is precious — even when the fight is painful. A relationship that never encounters value conflict probably hasn't gone deep enough to find it.
+**Value conflicts reveal what's at stake.** When values clash, we discover what we're actually willing to fight for. This information is precious — even when the fight is painful. A relationship that never encounters value conflict probably hasn't gone deep enough to find it. And value conflicts often touch identity and history — not just preferences but the deep formations that made us who we are. It's normal for them to feel intense, even disproportionate to the specific issue. The intensity is a signal that something foundational is in play.
 
 **The goal isn't perfect alignment.** No two people will share every value. The goal is enough shared orientation to navigate together, combined with enough respect for each other's individual values that difference doesn't become a threat.
 
@@ -167,6 +171,7 @@ Identifying the natural overlaps and the genuine divergences between us.
 
 The active co-creation of a value system that belongs to the relationship — not imposed by either person, but built together.
 
+- **We approach with curiosity rather than urgency.** Values work unfolds over time, not in a single conversation. We're not trying to produce a finished compass today. We're beginning a conversation that the relationship will keep having — one that deepens as we do.
 - **We start with the easy ones.** Where our values naturally align, we claim them explicitly: "This is a shared value. We both hold this." Claiming shared values strengthens the foundation before we address the harder territory.
 - **We negotiate the tensions honestly.** Where our values diverge, we enter real negotiation: what can we build that honors both? This might mean finding a higher-order value that encompasses both of our individual ones. "You value freedom; I value security. Our shared value: we create a life that's stable enough to be safe and flexible enough to be alive."
 - **We distinguish between shared values and respected individual values.** Not every value needs to be shared. Some values belong to one person, and the other person respects them without adopting them. "Adventure is your value, not mine — but I respect it and I'll make space for it."
@@ -222,7 +227,7 @@ When our values genuinely clash — when there's no easy synthesis — we need s
 
 ### We practice living our values under pressure
 
-Values are tested in the difficult moments, not the easy ones. This practice develops the capacity to hold our shared compass when holding it costs something.
+Values are tested in the difficult moments, not the easy ones. This practice develops the capacity to hold our shared compass when holding it costs something. We will fall short of our values — both of us, repeatedly. That's not the measure. The measure is whether we notice, repair, and return. The practice is the returning, not the perfection.
 
 - **We name the cost.** "Following our value of honesty means having this conversation we've been avoiding." "Following our value of growth means supporting this change even though it scares me." We name what the value is asking of us.
 - **We support each other in the hard follow-through.** When one of us is struggling to act according to our shared values, the other offers support — not pressure, but companionship. "I know this is hard. I'm here."
