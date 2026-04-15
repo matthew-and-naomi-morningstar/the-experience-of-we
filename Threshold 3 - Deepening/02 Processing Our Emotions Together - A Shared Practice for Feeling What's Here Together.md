@@ -12,6 +12,8 @@ There's a reason for that. Somewhere along the way, many of us learned that emot
 
 This guide is about unlearning that. About discovering that emotions, when felt in the company of someone who can stay present with us, move differently. They complete. They teach. They transform. Not because the other person fixes them, but because being truly accompanied in what we feel changes the feeling itself.
 
+Processing together is powerful, and it isn't the only way. Sometimes we process alone, or with others, or with a therapist. This practice expands our options rather than replacing them. What it offers is something most of us have never been taught: how to feel in the presence of someone who can stay.
+
 ~Matthew and Naomi Danielle Morningstar
 
 ---
@@ -112,6 +114,8 @@ Emotions have a natural arc. When they're allowed to move without interference, 
 
 **Integration.** The emotion has been felt. Something settles. The information the emotion carried has been received. We may not understand it fully yet, but the feeling has completed its cycle. There's a sense of *enough* — not that the issue is resolved, but that the emotion has been honored.
 
+Not every emotion completes in a single pass. Some feelings are layered — grief beneath anger beneath numbness. Some are trauma-bound and require multiple cycles, professional support, or time the body hasn't yet had. The arc is real, and it is not always neat. An emotion that takes three attempts to fully process is still processing. The arc describes the direction, not the speed.
+
 When any stage of this arc is interrupted — when arising is suppressed, recognition is avoided, allowing is denied, expression is blocked, or integration is skipped — the emotion doesn't disappear. It persists. It goes underground. It returns later, often louder, often in disguise.
 
 ### What blocks emotional processing
@@ -146,6 +150,8 @@ We were never designed to feel alone. Our emotional systems evolved in the conte
 
 These are our best practices for processing emotions together. This is not an exhaustive list; we encourage you to adjust these and add your own.
 
+*A note before we begin.* We don't need to feel everything all the way through at once. Even partial contact with an emotion — touching it for a moment, naming it roughly, letting it register before stepping back — is part of the process. The practices below describe the full range of what's possible. On any given day, we do what we can with what we have. That's enough.
+
 ### We practice emotional check-ins
 
 A simple, regular practice for bringing our emotional lives into the shared space.
@@ -171,6 +177,7 @@ Developing shared precision in naming what we feel. The richer our vocabulary, t
 - **We learn each other's emotional signatures.** We each have characteristic ways of feeling. One of us might experience anxiety as restlessness; the other as stillness. One of us might express hurt through withdrawal; the other through tears. We become students of each other's emotional language.
 - **We build shared shorthand.** Over time, we develop our own vocabulary — phrases or images that capture what we mean more precisely than clinical terms. "I'm doing the thing where I go small." "This is that underwater feeling." These become our shared emotional dialect.
 - **We name emotions without requiring justification.** "I'm feeling tender right now" is a complete statement. It doesn't need a reason to be valid. We practice naming what's here without the pressure to explain why it's here.
+- **We don't need perfect words.** Even approximate naming helps us stay connected to what we feel. "Something like sadness" or "I don't know what this is but it's heavy" is real naming. The precision develops over time. What matters now is the willingness to try.
 
 Emotional vocabulary isn't about performing sophistication. It's about being able to communicate what's actually happening inside us with enough precision that the other person can truly meet us there.
 
@@ -200,7 +207,7 @@ The core practice: learning to remain present with an emotion rather than rushin
 
 - **When an emotion surfaces, we let it be here.** We don't immediately try to change it, understand it, or make it go away. We let it arrive.
 - **We stay in the body.** We keep attention on physical sensation — where do we feel this? What does it feel like? Is it moving or still? Heavy or sharp?
-- **The companion stays present.** The person accompanying doesn't need to do anything. Their job is to be here — regulated, warm, available. Not fixing. Not advising. Just present.
+- **The companion stays present.** The person accompanying doesn't need to do anything. Their job is to be here — regulated, warm, available. Not fixing. Not advising. Just present. And they don't need to do this perfectly. Presence that wobbles — that gets distracted and returns, that feels uncertain but stays anyway — is still presence. Imperfect accompaniment is almost always enough.
 - **We breathe.** Slow breath supports the nervous system's capacity to stay with intensity. We breathe together if that helps.
 - **We let the emotion have its time.** We don't rush. We don't check the clock. We stay until something shifts — a softening, a release, a settling — or until we've reached our capacity and need to pause.
 - **We name when we've reached our edge.** "I need to take a break." "That's as far as I can go right now." Honoring our limits is part of the practice, not a failure of it.
@@ -353,7 +360,7 @@ Integration is what transforms emotional processing from catharsis into wisdom. 
 
 - **We acknowledge the scale honestly.** "This is bigger than what we can hold right now." That isn't failure; it's discernment.
 - **We stay connected without forcing processing.** We can be present with each other without trying to fully process what's there. Sometimes holding is enough.
-- **We seek additional support.** A therapist, a counselor, a trusted elder. Some emotions need a wider container or professional skill. Recognizing this is wisdom, not weakness.
+- **We seek additional support.** A therapist, a counselor, a trusted elder. Some emotional material — especially trauma, grief that has been carried for years, or anything that consistently overwhelms the container between us — benefits from trained support. Knowing when to seek that support is itself part of the practice, not a departure from it.
 - **We return when we're ready.** What we can't process now may become processable later — when we've built more capacity, more safety, more ground between us.
 
 ---
