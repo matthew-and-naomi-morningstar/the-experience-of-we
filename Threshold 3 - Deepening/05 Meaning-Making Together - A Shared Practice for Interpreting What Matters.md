@@ -104,7 +104,7 @@ Meaning-making goes beyond observing what's happening. It involves:
 - **Narration** — placing events within story. What chapter is this? How does this fit the arc of our relationship, our lives?
 - **Purpose** — connecting to larger meaning. How does this relate to what we live for?
 
-Meaning is not something we find waiting to be discovered. It is something we *make* — actively constructing interpretation through the lens of our values, history, and relationship.
+Meaning is not something we find waiting to be discovered. It is something we *make* — actively constructing interpretation through the lens of our values, history, and relationship. But meaning-making is not unconstrained. Our interpretations are still shaped by reality, by experience, and by consequence. We can make meaning freely, but not arbitrarily — the world pushes back on interpretations that don't fit, and so do the people we share it with.
 
 ### The layers of meaning
 
@@ -125,7 +125,7 @@ Before we move into practices, here are the qualities that make shared meaning-m
 
 **Willingness to be vulnerable.** Meaning-making exposes what we care about — our values, our hopes, our fears. Sharing our interpretation of significance is inherently vulnerable. If it doesn't feel safe to share what things really mean to us, we'll stay at the surface.
 
-**Tolerance for multiplicity.** Shared meaning-making does not always produce a single interpretation. It may produce multiple meanings held together. This is not failure — it is often richness. We need to tolerate interpretive diversity without rushing to collapse it.
+**Tolerance for multiplicity.** Shared meaning-making does not always produce a single interpretation. It may produce multiple meanings held together. This is not failure — it is often richness. We need to tolerate interpretive diversity without rushing to collapse it. Sometimes the most honest outcome of meaning-making is not shared meaning but shared understanding of our different meanings — and that understanding is itself a form of relational ground.
 
 **Connection to what actually matters.** Deep meaning-making touches purpose — what we live for, what ultimately matters to us. When meaning-making stays only at the surface level of interpretation, it misses the depth where significance really lives.
 
@@ -136,6 +136,8 @@ Before we move into practices, here are the qualities that make shared meaning-m
 ## Meaning-making is a practice
 
 These are our best practices for developing shared meaning-making capacity. This is not an exhaustive list; we encourage you to adjust these and add your own.
+
+*A note before we begin.* Even asking "what does this mean to you?" is already the practice. We don't need to move through every phase below to be making meaning together. And what something means is shaped not just by what we understand but by what we feel — the emotional tone of an experience often carries its significance before the mind can articulate it. One more thing: not everything requires deep meaning-making. Part of the practice is discerning what truly warrants this kind of attention and what can simply be lived without interpretation. We bring this depth to what calls for it, not to everything.
 
 ### We practice grounding in shared understanding
 
@@ -213,7 +215,7 @@ Meaning gains reality when it shapes how we live. This practice connects interpr
 
 - **We test meaning by its implications.** If the implications of an interpretation seem wrong, the interpretation may need revision. What follows from meaning is a check on the meaning itself.
 
-- **We hold implications lightly.** Implications are provisional. As meaning evolves, so do its consequences.
+- **We hold implications lightly.** Implications are provisional. As meaning evolves, so do its consequences. Meaning can inform action, but it doesn't always require immediate change. Sometimes the right response to a new interpretation is to sit with it — to let it settle and see what it asks of us over time, rather than rushing to restructure our lives around every insight.
 
 *When to use: After arriving at shared meaning. When we want meaning to translate into how we live.*
 
@@ -248,6 +250,7 @@ Some of the most important meaning-making happens when we interpret the signific
 - **We connect to what we live for.** "How does our relationship connect to what ultimately matters to us?"
 
 - **We stay curious rather than fixed.** The meaning of our relationship is not static. It evolves as we evolve. We stay open to new interpretations.
+- **We don't need to answer these questions all at once.** The meaning of a relationship is not something we arrive at in a single conversation. Even beginning to explore — even naming that these questions matter to us — is the practice. We return to them across seasons, across years. The answers deepen as we do.
 
 *When to use: Periodically, as a way of staying connected to the significance of what we share. During transitions. When we want to deepen our understanding of why this relationship matters.*
 
