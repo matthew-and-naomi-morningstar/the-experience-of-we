@@ -14,6 +14,8 @@ This is awareness turning back on itself — the mind becoming aware of its own 
 
 In relationship, meta-awareness is what lets us notice our patterns of attention, catch ourselves when we've disconnected, and understand how we're showing up in each moment. It's the capacity that lets us ask: How am I being aware right now? And how is that affecting us?
 
+In practice, it can be as simple as catching yourself mid-conversation: *I've been listening, but I'm actually rehearsing my response. I'm not really here.* That moment of noticing — the flash of seeing what you were doing while you were doing it — is meta-awareness. It doesn't require anything exotic. It requires the willingness to look at the looking.
+
 ~Matthew and Naomi Danielle Morningstar
 
 ---
@@ -185,6 +187,8 @@ In relationship, meta-awareness enables:
 
 *These are our best practices for developing shared meta-awareness. This is not an exhaustive list; we encourage you to adjust these and add your own.*
 
+*A note before we begin.* Meta-awareness is not about constantly monitoring ourselves. It's a light noticing — a brief check-in that comes and goes, not a sustained surveillance of our own consciousness. A simple question — *where is my attention right now?* — is already the full practice. We don't need to chase deeper and deeper levels of observation. We don't need to maintain this capacity continuously. The goal is increasing the moments when we notice, not achieving an unbroken stream of self-observation. And when in doubt, we prioritize connection over observation. Meta-awareness supports presence with each other — it doesn't replace it.
+
 ### We notice where attention is
 
 Developing awareness of attention's location and movement.
@@ -239,6 +243,7 @@ Recognizing habitual ways of attending over time.
 - **We explore the patterns:** When did these form? What purpose do they serve?
 - **We share what we observe in ourselves:** "I notice I have a pattern of attending to what's wrong rather than what's working."
 - **We share what we observe in each other** — gently, with curiosity: "I notice you seem to attend more to my words than to my tone. Does that match your sense?"
+- **We remember: seeing a pattern is not a problem.** It's the beginning of freedom from it. The moment we can observe a habitual way of attending, it stops being invisible and starts being something we can work with. The noticing is not judgment — it's the opening.
 - **We consider:** Are these patterns serving us? What might we want to shift?
 
 *When to use: As reflective practice. When we want to understand our attentional habits. When patterns are affecting the relationship.*
@@ -281,7 +286,7 @@ Making awareness of awareness a shared practice.
 
 - **We establish meta-awareness as a shared value:** "We want to be aware of how we're being aware."
 - **We check in with each other about awareness:** "Where's your attention right now?" "How's your awareness quality?"
-- **We share observations without judgment:** "I notice you seem really focused — almost tunneled. What's happening?"
+- **We offer observations gently and with consent.** "I notice you seem really focused — almost tunneled. What's happening?" We share what we see as invitation, not correction — and we check whether the observation is welcome before offering it. Meta-awareness about each other's awareness is intimate territory. We enter it with care.
 - **We help each other catch lapses:** "It seems like you left for a moment. Where did you go?"
 - **We appreciate each other's meta-awareness:** "I noticed you caught yourself and came back. That was skillful."
 - **We recognize that building this capacity together** accelerates what either could do alone.
