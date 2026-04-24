@@ -44,7 +44,7 @@ The Experience of We has two arms that work together:
 
 These aren't abstract theories. They're descriptions of what's happening in your body and your relationships right now — whether or not you have language for it yet.
 
-**A collection of shared practices** — the We Practices — that translate understanding into lived experience. Over sixty practice guides, organized into a nine-threshold developmental arc, covering everything from basic presence to co-metabolization, from emotional processing to shadow work, from building trust to navigating the most challenging territory relationships can enter.
+**A collection of shared practices** — the We Practices — that translate understanding into lived experience. Over eighty practice guides, organized into a ten-threshold developmental arc, covering everything from basic presence to co-metabolization, from emotional processing to shadow work, from building trust to navigating the most challenging territory relationships can enter.
 
 The practices are designed to be read and done together — by partners, friends, family members, or anyone willing to develop their relational capacity. They follow a structure called the **Golden Triangle**: Experience (what it feels like), Process (how it works), and Practice (what we do). This structure ensures that nothing stays purely intellectual — everything connects to the body, to felt experience, to the living reality of being in relationship.
 
@@ -118,7 +118,7 @@ If you've read this far and something in you says *yes* — or even *maybe* — 
 
 **Find a partner.** The Experience of We is practiced together. Not alone with a book. With another person — a partner, a friend, a family member, anyone willing to enter this with you. The practices are designed for two or more people reading, discussing, and practicing together. If you don't have someone yet, hold the intention. The right person may be closer than you think.
 
-**Start with the Relational Arc.** This is the map of the journey — an overview of how the practices relate to each other and how they build across nine developmental thresholds. A threshold is a doorway, not a rank. The Arc will orient you to the full landscape before you begin walking it.
+**Start with the Relational Arc.** This is the map of the journey — an overview of how the practices relate to each other and how they build across ten developmental thresholds. A threshold is a doorway, not a rank. The Arc will orient you to the full landscape before you begin walking it.
 
 **Begin with Threshold 1: Foundation.** Before anything else can happen, we must arrive. *Coming into Presence Together* is the first practice guide and the foundation for everything that follows. Start here. Read it together. Practice it. Let it become part of how you are with each other before you move on.
 
