@@ -10,6 +10,12 @@ This is not about technique. It's about the quality of presence and vulnerabilit
 
 ---
 
+## Before beginning
+
+This practice belongs only where both of you freely consent to what is being explored, where either of you can pause or stop at any moment without explanation, and where naming a limit feels safe. If any of those is uncertain, practice *Negotiating and Renegotiating Consent Together* or *Creating Safety Together* first, and return here when the conditions are present.
+
+---
+
 ## One practice to try
 
 ### Stay visible

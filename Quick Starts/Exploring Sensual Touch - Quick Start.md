@@ -10,6 +10,12 @@ Sensual touch is the body's capacity for pleasure without destination. It's the 
 
 ---
 
+## Before beginning
+
+This practice belongs only where both of you freely consent to what is being explored, where either of you can pause or stop at any moment without explanation, and where naming a limit feels safe. If any of those is uncertain, practice *Negotiating and Renegotiating Consent Together* or *Creating Safety Together* first, and return here when the conditions are present.
+
+---
+
 ## One practice to try
 
 ### Five minutes of slow touch
