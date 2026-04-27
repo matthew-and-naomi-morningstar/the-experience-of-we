@@ -114,7 +114,7 @@ From a regulatory perspective, awe is one of the most distinctive states the ner
 
 When two people encounter vastness together, something happens that doesn't happen when they encounter it alone: their nervous systems synchronize in the presence of something larger than either of them.
 
-This is an ancient pattern. Humans have always gathered at the edges of what they can comprehend — around fires, under stars, at the ocean, in ceremony. Shared awe is a synchronization technology. It aligns our nervous systems not toward each other directly, but toward a common encounter that recalibrates us both.
+This is an ancient pattern. Humans across cultures and history have gathered at the edges of what they can comprehend — around fires, under stars, at the ocean, in ceremony. Shared awe is a synchronization technology. It aligns our nervous systems not toward each other directly, but toward a common encounter that recalibrates us both.
 
 After shared awe, we are different with each other. Not because we decided to be, but because the encounter loosened something in both of us simultaneously. Our models of each other become more open. Our defensiveness drops. Our sense of what's possible between us expands. This is why so many pivotal relational moments happen against the backdrop of vastness — why people fall in love on mountaintops, reconcile at the ocean, feel closest during thunderstorms.
 
