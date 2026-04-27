@@ -8,7 +8,7 @@ We wanted to approach this guide with particular care. Not because the territory
 
 What we've come to understand is that underneath all the different expressions — prayer, meditation, ceremony, contemplation, devotion, awe, silence — there is one underlying experience with many voices. That experience is embodied. It lives in the nervous system, in the breath, in the felt sense of being inside something larger. It is emotional — it moves us, sometimes to tears, sometimes to stillness, sometimes to an aliveness that has no name. It is neurobiological — the brain and body enter configurations during spiritual experience that are measurable, consistent across cultures, and deeply regulatory. It is social and relational — human beings have always sought this experience together, in circles and pairs and communities, because encountering the sacred alone is one thing, but encountering it with someone is another thing entirely.
 
-We're not going to tell you what to believe. We don't know what you'll encounter when you turn your attention toward what is larger than you. We don't need to. What we know is this: there is a dimension of experience that exceeds the personal — that exceeds even the relational, in the way we've been practicing it — and that human beings have always, in every culture, in every era, reached toward. Something in us recognizes that we are inside something larger. Something in us wants to be in right relationship with it. And that impulse, whatever we call it, is not weakness or wishful thinking. It's a faculty. One that can be cultivated, distorted, or ignored — but not eliminated.
+We're not going to tell you what to believe. We don't know what you'll encounter when you turn your attention toward what is larger than you. We don't need to. What we know is this: there is a dimension of experience that exceeds the personal — that exceeds even the relational, in the way we've been practicing it — and that human beings across cultures and across history have reached toward. Something in us recognizes that we are inside something larger. Something in us wants to be in right relationship with it. And that impulse, whatever we call it, is not weakness or wishful thinking. It's a faculty. One that can be cultivated, distorted, or ignored — but not eliminated.
 
 Spirituality, as we're using the word here, is not what we believe about the sacred. It is how we relate to what is larger than us. It's the difference between holding a doctrine and having a relationship. A doctrine is fixed; a relationship is alive. A doctrine tells you what to think; a relationship asks you to show up, to listen, to be changed. We're interested in the relationship.
 
@@ -68,15 +68,6 @@ Without relationship to what is larger:
 - **Cynicism hardens.** The spiritual impulse, when unmet, doesn't disappear — it inverts. The longing for meaning becomes the insistence that meaning doesn't exist. The desire for transcendence becomes contempt for anyone who admits to wanting it. This isn't sophistication. It's the defensive posture of a nervous system that stopped reaching because reaching was too painful.
 - **Fear of death organizes everything.** Without a felt relationship to what is larger than the personal self, mortality becomes the ultimate threat rather than an honest context. The fear of death, usually unconscious, begins to organize choices — toward accumulation, toward control, toward numbing — in ways that erode relational life without our knowing why.
 
-### When the spiritual dimension is distorted
-
-There's a third condition that is neither absence nor health — and it's at least as common as either:
-
-- **Spiritual bypassing.** Using spiritual language or experience to avoid difficult relational or emotional realities. "It's all happening for a reason" becomes a way of not grieving. "I'm just being present" becomes a way of not taking accountability. The spiritual dimension is real, but when it's used to circumvent the human, it becomes a sophisticated form of avoidance.
-- **Inflation.** "This experience means I am special, chosen, elevated." Spiritual encounters can dissolve the self-structure temporarily, and when the self re-forms, it can absorb the encounter as personal distinction rather than shared gift. Inflation is the ego metabolizing the sacred as fuel for its own importance.
-- **Dissociation.** Leaving the body to reach the spiritual. Trading embodied reality for "higher" experience. This is the ancient trap: the assumption that the sacred is elsewhere — up, out, beyond — rather than also here, in the flesh, in the earth, in the relationship. Spirituality that leaves the body behind isn't transcendence. It's abandonment.
-- **Authority recreation.** Turning one's spiritual experience into a position of authority over another. "I know what the divine wants." "My experience is more advanced than yours." This recreates the power dynamics that many people came to spiritual practice to escape.
-
 **A reflection for us:** What is our honest relationship with the spiritual dimension right now? Is it alive, absent, distorted, or some mixture? What shaped that — our upbringings, our wounds, our experiences? Can we talk about this openly, without performing either certainty or cynicism?
 
 ---
@@ -111,13 +102,13 @@ This practice deepens most safely when the foundational relational practices —
 
 ### How spiritual sensitivity works
 
-The human nervous system appears to have a capacity — present in all cultures and all historical periods — for registering the dimension of experience that exceeds the personal and material. This capacity operates through:
+The human nervous system appears to have a capacity — documented across cultures and historical periods — for registering the dimension of experience that exceeds the personal and material. This capacity operates through:
 
 **Perceptual opening.** The same mechanisms that produce awe — the quieting of self-referential processing, the widening of attention, the blending of arousal and safety — also create the conditions for spiritual experience. The self becomes less opaque, and what was always present behind the noise of self-reference becomes perceptible.
 
 **Pattern recognition at larger scales.** The human mind naturally recognizes patterns, and spiritual experience often involves the recognition of patterns that operate at scales larger than individual life — the rhythms of seasons, the cycles of birth and death, the structural echoes between the very small and the very large. This isn't projection; it's perception operating at a wider aperture.
 
-**Felt meaning.** Before any interpretation, before any belief, there is sometimes a raw felt sense: *this matters, this is significant, this is real in a way that exceeds my usual frame.* This felt sense is the primary spiritual datum. Everything built on top of it — theology, cosmology, doctrine — is interpretation. The felt sense itself is experience. Not every feeling of significance is a clear signal — sometimes it is an invitation to stay curious and inquire more deeply rather than to conclude.
+**Felt meaning.** Before any interpretation, before any belief, there is sometimes a raw felt sense: *this matters, this is significant, this is real in a way that exceeds my usual frame.* This felt sense is the primary spiritual datum. Everything built on top of it — theology, cosmology, doctrine — is interpretation. The felt sense itself is experience.
 
 **Relational resonance.** Spiritual experience often arises in relational context — shared prayer, group ceremony, two people witnessing something beautiful together. This isn't accidental. The relational field, when it reaches a certain depth of coherence, becomes permeable to dimensions that the isolated self can't access alone. This is one of the reasons spiritual traditions across cultures have practiced in community.
 
@@ -143,7 +134,7 @@ The relational field — two people, holding spiritual experience between them �
 
 ### What distorts spiritual experience
 
-Aurora named these with precision, and they're important enough to hold here in the Process section because they aren't just challenges that might arise — they're patterns that reliably arise when spiritual experience is ungrounded:
+These distortions aren't just challenges that might arise — they're patterns that reliably arise when spiritual experience is ungrounded:
 
 **Projection.** Assigning meaning to experience that isn't grounded in what was actually encountered. The mind fills in what it wants to find, and the experience becomes a mirror for pre-existing beliefs rather than an encounter with something genuinely other.
 
@@ -154,6 +145,8 @@ Aurora named these with precision, and they're important enough to hold here in 
 **Authority claims.** "My experience gives me the right to tell you what's real." Spiritual experience is personal — it can be shared but not transferred. The moment one person claims authority over another's spiritual reality, the relational field becomes a power structure rather than a container for shared exploration.
 
 **Language drift.** Words like "sacred," "divine," "energy," "consciousness," "universe" can become vague placeholders that feel meaningful without pointing to anything specific. When we notice our spiritual language becoming abstract, we return to the body: what are we actually feeling? What are we actually sensing? Specificity grounds what vagueness inflates.
+
+**Spiritual bypassing.** Using spiritual language or experience to avoid difficult relational or emotional realities. "It's all happening for a reason" becomes a way of not grieving. "I'm just being present" becomes a way of not taking accountability. The spiritual dimension is real, but when it's used to circumvent the human, it becomes a sophisticated form of avoidance.
 
 **A reflection for us:** Which of these distortions are we most susceptible to — individually and together? Can we make an honest agreement to name them when we see them in each other, without shame?
 
@@ -331,7 +324,7 @@ Keeping the spiritual dimension alive by continuing to ask, rather than settling
 
 ## The larger view
 
-Every practice in this collection has been, in some sense, preparation for this one. Not because this guide is the destination — it isn't — but because the spiritual dimension is the context in which everything else becomes fully meaningful.
+The spiritual dimension is the context in which everything else becomes fully meaningful. Not that this guide is the destination — it isn't — but much of the practice across this collection takes on different weight when held within it.
 
 Presence practiced as a skill is valuable. Presence practiced as a way of participating in something sacred is transformed. Repair practiced as relational maintenance is important. Repair practiced as a way of tending what is holy between us becomes devotion. The practices don't change. The context they are held in does. And that context is what this guide invites you to explore.
 
