@@ -331,7 +331,7 @@ Sustained physical holding, in relationships where this form of contact is appro
 
 ## The larger view
 
-We live in a touch-starved and often touch-confused culture. Screens mediate our contact. Personal space has expanded. Casual touch between adults has become suspect — collapsed into sexuality, hedged with suspicion, or avoided entirely out of boundary confusion. Many people go entire days without being meaningfully touched by another human being — and many relationships, of every kind, operate without the physical foundation that the body is deeply shaped by contact and often responds to it as a source of regulation.
+We live in a touch-starved and often touch-confused culture. Screens mediate our contact. Personal space has expanded. Casual touch between adults has become suspect — collapsed into sexuality, hedged with suspicion, or avoided entirely out of boundary confusion. Many people go entire days without being meaningfully touched by another human being. Many relationships, of every kind, operate without the physical foundation that touch provides.
 
 Affectionate touch is not a luxury. For many people, it is a fundamental biological need — one of the primary ways the nervous system regulates, builds trust, and experiences connection. Human bodies are deeply shaped by contact and often respond to it as a source of regulation. When touch is absent, the body doesn't just miss it — it dysregulates. Anxiety rises. Isolation deepens. The relational field, no matter how rich in words and shared experience, loses its physical ground.
 
