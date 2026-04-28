@@ -12,7 +12,7 @@ Compassion is what happens when empathy meets willingness — when feeling into 
 
 This is harder than it sounds. Empathy opens us to suffering. Compassion requires that we stay open. Most of us have learned, through a lifetime of encounters with pain we couldn't fix, to close back down. We empathize briefly, then we retreat into problem-solving, or cheerful reassurance, or emotional distance, because the alternative — staying present with suffering — asks something of us that we weren't trained to give.
 
-Compassion isn't natural in the sense of being automatic. But it is natural in the sense of being available. Every human nervous system has the capacity for it. Like empathy, like presence, like vulnerability — it's a faculty that can be developed through practice. And when it's developed between two people — when both partners can meet suffering without fleeing, fixing, or collapsing — the relational field gains a capacity that nothing else can provide: the ability to hold what is broken without breaking.
+Compassion isn't natural in the sense of being automatic. But it is natural in the sense of being available. Every human nervous system appears to have the capacity for it. Like empathy, like presence, like vulnerability — it's a faculty that can be developed through practice. And when it's developed between two people — when both partners can meet suffering without fleeing, fixing, or collapsing — the relational field gains a capacity that nothing else can provide: the ability to hold what is broken without breaking.
 
 ~Matthew and Naomi Danielle Morningstar
 
