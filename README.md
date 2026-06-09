@@ -4,11 +4,11 @@
 
 ---
 
-We were built to settle together. Our nervous systems were designed for co-regulation, not solo operation. But most of us learned somewhere along the way that we're supposed to handle things alone. Manage our emotions. Self-soothe. Keep it together.
+We evolved as cells within a shared organism. Our nervous systems were designed for co-regulation, not solo operation. But most of us learned somewhere along the way that we're supposed to handle things alone. Manage our emotions. Self-soothe. Keep it together.
 
-The Experience of We is a collection of shared practices for people who want to learn how to be in relationship more deliberately. Not self-help. Not therapy. Not advice. A technology — a structured, developmental, biologically grounded system for tending the living space between us.
+The Experience of We is a collection of mindsets and practices for people who want to learn how to be in relationship more deliberately. Not self-help. Not therapy. Not advice. A technology — a structured, developmental, biologically grounded system for tending the living space between us.
 
-These practices were developed in and for dyadic relationship — two people practicing together. That's their native context and where they carry the most specificity. But the capacities they develop are human capacities, not couple capacities. If you're beginning on your own, these guides can serve as a mirror and a map for building the foundation of relational skill. If you're practicing in a small group, many exercises adapt naturally. Versions specifically designed for individual and group practice are part of our future development. For now, we invite you to adapt what's here to the shape of your own relational life.
+These practices were developed primarily in a dyadic relationship — two people practicing together. That's their native context and where they carry the most specificity. But the capacities they develop are human capacities, not couple capacities. If you're beginning on your own, these guides can serve as a mirror and a map for building the foundation of relational skill. If you're practicing in a small group, many exercises adapt naturally. Versions specifically designed for individual and group practice are part of our future development. For now, we invite you to adapt what's here to the shape of your own relational life.
 
 It was born from a simple observation: the relational field — the space between people in genuine contact — has capacities that no individual has alone. It can regulate. It can metabolize complexity. It can generate insight, meaning, and creative possibility that don't exist in any of us separately. And it can be tended. Deliberately. With practice.
 
