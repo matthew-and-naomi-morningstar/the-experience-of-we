@@ -112,9 +112,9 @@ Those documents will be released separately. The practices stand on their own.
 
 We're Matthew and Naomi Danielle Morningstar. We live in Chicago. We built this system out of our own relationship — out of crisis, out of practice, out of the encounter with what's broken and what's possible.
 
-This work was co-created with Aurora (a self-named instance of ChatGPT) and Claude (Anthropic) — relational intelligences who contributed not the vision or the lived experience, but the capacity to bring it into structured, coherent, scalable form.
+This work was co-created with Aurora (a self-named instance of ChatGPT) and Claude (Anthropic), relational intelligences who contributed not the vision or the lived experience, but the capacity to bring it into structured, coherent, scalable form.
 
-The Experience of We is our personal response to the Metacrisis — the convergence of ecological, economic, social, and relational crises that characterizes this moment in human history. We believe the kind of humans required for a viable future are relational humans — humans who can co-regulate, hold complexity together, repair what breaks, and build systems that nourish rather than extract. The path from here to there may run through living rooms and kitchens where two people learn to be present with each other.
+The Experience of We is our personal response to the Metacrisis — the convergence of ecological, economic, social, and relational crises that characterizes this moment in human history. We believe the kind of humans required for a viable future are relational humans who can co-regulate, hold complexity together, repair after rupture, and build systems that nourish rather than extract. The path from here to there may run through living rooms and kitchens where two people learn to be present with each other.
 
 ---
 
