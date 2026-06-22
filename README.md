@@ -24,7 +24,7 @@ Three parallel ways in: **Quick Starts** for one practice to try tonight, **Micr
 
 ### Quick Starts
 
-**If you want to start with one practice tonight.** Each quick start takes two minutes to read and gives you one practice to try tonight with someone you trust. No prerequisites. No theory required. Just a felt-sense introduction and something concrete to do.
+**If you want to start with one practice tonight.** Each quick start takes two minutes to read and gives you one practice to try with someone you trust. No prerequisites. No theory required. Just a felt-sense introduction and something concrete to do.
 
 → [`Quick Starts/`](Quick%20Starts/)
 
