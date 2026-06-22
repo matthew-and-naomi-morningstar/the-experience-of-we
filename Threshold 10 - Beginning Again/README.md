@@ -2,6 +2,8 @@
 
 *Honoring the cycle and starting the next turn.*
 
+The earlier thresholds have asked everything — presence and ground, depth and challenge, repair and transformation, the multi-dimensional field, what has emerged, the larger patterns recognized. This threshold asks for two things: that we celebrate what was lived together, and that we reassess honestly what is here now.
+
 One practice.
 
 1. Celebrating and Reassessing Together
