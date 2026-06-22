@@ -20,11 +20,21 @@ This repository contains the full practice system, released as open-source relat
 
 ## What's here
 
+Three parallel ways in: **Quick Starts** for one practice to try tonight, **Micro-Practices** for small repeatable habits, **Practice Guides** for the full developmental arc. Each can be entered on its own. Alongside them sit **Foundational Concepts** (the ideas behind the practices) and **Orientation** (the reading entry door).
+
 ### Quick Starts
 
-**Start here.** Each quick start takes two minutes to read and gives you one practice to try tonight with someone you trust. No prerequisites. No theory required. Just a felt-sense introduction and something concrete to do.
+**If you want to start with one practice tonight.** Each quick start takes two minutes to read and gives you one practice to try tonight with someone you trust. No prerequisites. No theory required. Just a felt-sense introduction and something concrete to do.
 
 → [`Quick Starts/`](Quick%20Starts/)
+
+### Micro-Practices
+
+Small, repeatable practices for everyday moments. The series is in active development.
+
+→ [`Micro-Practices/`](Micro-Practices/)
+
+For an introduction, see [Understanding Relational Micro-Practices](Orientation/Understanding%20Relational%20Micro-Practices%20-%20A%20Shared%20Guide%20to%20What%20They%20Are%20and%20How%20They%20Stack.md) in the Orientation folder.
 
 ### Practice Guides
 
