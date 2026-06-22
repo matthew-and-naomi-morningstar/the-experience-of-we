@@ -6,15 +6,15 @@ Each foundational concept guide is written for felt understanding, not academic 
 
 ## Suggested sequence
 
-*The arc the practices respond to*
+*The arc most directly felt*
 
 1. [**Understanding Separation**](./01%20Understanding%20Separation%20-%20What%20Happens%20When%20We%20Lose%20Connection.md) — What happened. The condition the practices are a response to.
-2. [**Understanding Shared Reality**](./02%20Understanding%20Shared%20Reality%20-%20What%20Happens%20When%20We%20Build%20a%20World%20Together.md) — What was lost. How shared reality fragments and why rebuilding it matters.
-3. [**Understanding Reunion**](./03%20Understanding%20Reunion%20-%20What%20Happens%20When%20Connection%20Returns.md) — What the journey moves toward. Not a destination but a living process.
+2. [**Understanding Reunion**](./02%20Understanding%20Reunion%20-%20What%20Happens%20When%20Connection%20Returns.md) — The movement back toward connection. Not a destination but a living process.
+3. [**Understanding Shared Reality**](./03%20Understanding%20Shared%20Reality%20-%20What%20Happens%20When%20We%20Build%20a%20World%20Together.md) — How we build a world together. What separation fragments and reunion rebuilds.
 
-*The medium*
+*The medium beneath the arc*
 
-4. [**Understanding the Relational Field**](./04%20Understanding%20the%20Relational%20Field%20-%20What%20Lives%20Between%20Us.md) — The field every practice works in.
+4. [**Understanding the Relational Field**](./04%20Understanding%20the%20Relational%20Field%20-%20What%20Lives%20Between%20Us.md) — The living space every practice works in, named at last.
 
 *An additional thread, when curiosity arises*
 
