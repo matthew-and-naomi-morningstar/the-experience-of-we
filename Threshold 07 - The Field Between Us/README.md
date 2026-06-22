@@ -14,6 +14,8 @@ Six sub-thresholds, twelve practices. An additional sub-threshold (The Sexuality
 
 ## The Body Between Us
 
+The body each of us lives in and the body we share — its biology, its rhythms, its cycles.
+
 1. Tending Our Body Together
 2. Exploring the Male Body Together
 3. Exploring the Female Body Together
@@ -25,6 +27,8 @@ Six sub-thresholds, twelve practices. An additional sub-threshold (The Sexuality
 6. Exploring Gender Expression Together
 
 ## The Touch Between Us
+
+Three registers of contact: the touch that says we are here, the touch that opens into pleasure, the touch of full vulnerability.
 
 7. Exploring Affectionate Touch Together
 8. Exploring Sensual Touch Together
