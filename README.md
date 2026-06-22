@@ -63,7 +63,7 @@ Five guides that introduce the key ideas behind the practices — written for fe
 
 ### Orientation
 
-Eight documents that help you enter the practice — from understanding what the work asks, to making a shared commitment, to finding your way in whether you're starting alone or with a companion.
+Nine documents that help you enter the practice — from understanding what the work asks, to making a shared commitment, to finding your way in whether you're starting alone or with a companion.
 
 → [`Orientation/`](Orientation/)
 
@@ -75,6 +75,7 @@ Eight documents that help you enter the practice — from understanding what the
 - **Taking On Practices Together** — How to build relational skills as a pair
 - **Inviting a Companion** — How to share this with someone you trust
 - **Beginning on Your Own** — How to practice before you find your companion
+- **Understanding Relational Micro-Practices** — A parallel way in: small, repeatable practices that can begin in single moments
 
 ---
 
@@ -82,13 +83,13 @@ Eight documents that help you enter the practice — from understanding what the
 
 **If you want to try one thing tonight:** Open any [quick start](Quick%20Starts/). Read it in two minutes. Try the practice with someone you trust. Notice what shifts.
 
-**If you want to build a sustained practice with a companion:** Start with the [Welcome](Orientation/Welcome%20to%20The%20Experience%20of%20We%20-%20An%20Invitation%20to%20the%20Journey%20of%20Reunion.md) document. Read [Before You Begin](Orientation/Before%20You%20Begin%20-%20What%20This%20Work%20Asks%20and%20When%20to%20Wait.md) to understand what the work asks. Read the [Relational Arc](Orientation/The%20Relational%20Arc%20-%20A%20Guide%20to%20the%20Journey%20of%20We%20Practices.md) to understand the developmental path. Begin with Threshold 1.
+**If you want to build a sustained practice with a companion:** Start with the [Welcome](Orientation/01%20Welcome%20to%20The%20Experience%20of%20We%20-%20An%20Invitation%20to%20the%20Journey%20of%20Reunion.md) document. Read [Before You Begin](Orientation/02%20Before%20You%20Begin%20-%20What%20This%20Work%20Asks%20and%20When%20to%20Wait.md) to understand what the work asks. Read the [Relational Arc](Orientation/04%20The%20Relational%20Arc%20-%20A%20Guide%20to%20the%20Journey%20of%20We%20Practices.md) to understand the developmental path. Begin with Threshold 1.
 
-**If you're beginning on your own:** Read [Beginning on Your Own](Orientation/Beginning%20on%20Your%20Own%20-%20A%20Guide%20to%20Practicing%20Before%20You%20Find%20Your%20Companion.md) for honest guidance on what solo practice can build and how to use the guides individually. The work you do alone is real and builds the foundation for everything relational.
+**If you're beginning on your own:** Read [Beginning on Your Own](Orientation/08%20Beginning%20on%20Your%20Own%20-%20A%20Guide%20to%20Practicing%20Before%20You%20Find%20Your%20Companion.md) for honest guidance on what solo practice can build and how to use the guides individually. The work you do alone is real and builds the foundation for everything relational.
 
 **If you're practicing in a small group:** The guides are written in "we" voice and most exercises adapt naturally to three or more people. Read them together, do the reflections as a group, and let the relational field that forms between you guide the adaptation.
 
-**If you want to understand the ideas first:** Read the [foundational concepts](Foundational%20Concepts/), starting with [Understanding the Relational Field](Foundational%20Concepts/Understanding%20the%20Relational%20Field%20-%20What%20Lives%20Between%20Us.md).
+**If you want to understand the ideas first:** Read the [foundational concepts](Foundational%20Concepts/), starting with [Understanding Separation](Foundational%20Concepts/01%20Understanding%20Separation%20-%20What%20Happens%20When%20We%20Lose%20Connection.md).
 
 **If you want to adapt this for your community:** Everything here is licensed CC BY-SA. Take what's useful. Credit the source. Share your adaptations under the same terms. We'd love to hear what you build.
 
