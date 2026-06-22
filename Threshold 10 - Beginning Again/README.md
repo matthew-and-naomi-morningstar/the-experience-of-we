@@ -6,7 +6,7 @@ The earlier thresholds have asked everything — presence and ground, depth and 
 
 One practice.
 
-1. Celebrating and Reassessing Together
+1. [Celebrating and Reassessing Together](./01%20Celebrating%20and%20Reassessing%20Together%20-%20A%20Shared%20Practice%20for%20Honoring%20Growth%20and%20Charting%20Direction.md)
 
 *1 practice total*
 

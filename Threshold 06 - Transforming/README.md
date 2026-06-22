@@ -8,11 +8,11 @@ This threshold is for that slower process. Repatterning. Integrating new ways of
 
 Six practices.
 
-1. Integrating Together
-2. Repatterning Together
-3. Integrating Under Activation Together
-4. Recognizing Regression Together
-5. Completing Micro-Cycles Together
-6. Developing Toughness Together
+1. [Integrating Together](./01%20Integrating%20Together%20-%20A%20Shared%20Practice%20for%20Embodying%20New%20Patterns.md)
+2. [Repatterning Together](./02%20Repatterning%20Together%20-%20A%20Shared%20Practice%20for%20Changing%20How%20We%20Organize%20Our%20Relationship.md)
+3. [Integrating Under Activation Together](./03%20Integrating%20Under%20Activation%20Together%20-%20A%20Shared%20Practice%20for%20Holding%20New%20Patterns%20Under%20Stress.md)
+4. [Recognizing Regression Together](./04%20Recognizing%20Regression%20Together%20-%20A%20Shared%20Practice%20for%20Catching%20Old%20Patterns%20Early.md)
+5. [Completing Micro-Cycles Together](./05%20Completing%20Micro-Cycles%20Together%20-%20A%20Shared%20Practice%20for%20Sealing%20Small%20Transformations.md)
+6. [Developing Toughness Together](./06%20Developing%20Toughness%20Together%20-%20A%20Shared%20Practice%20for%20Enduring%20What%20Is%20Hard%20and%20Staying%20Whole.md)
 
 *6 practices total*

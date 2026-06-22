@@ -8,9 +8,9 @@ These practices protect the relationship from mistaking surface apology for actu
 
 Four practices.
 
-1. Calibrating Together
-2. Repairing Together
-3. Acknowledging and Affirming Together
-4. Releasing and Forgiving Together
+1. [Calibrating Together](./01%20Calibrating%20Together%20-%20A%20Shared%20Practice%20for%20Aligning%20Action%20with%20Understanding.md)
+2. [Repairing Together](./02%20Repairing%20Together%20-%20A%20Shared%20Practice%20for%20Healing%20Ruptures%20Between%20Us.md)
+3. [Acknowledging and Affirming Together](./03%20Acknowledging%20and%20Affirming%20Together%20-%20A%20Shared%20Practice%20for%20Repairing%20with%20Precision.md)
+4. [Releasing and Forgiving Together](./04%20Releasing%20and%20Forgiving%20Together%20-%20A%20Shared%20Practice%20for%20Letting%20Go%20of%20What%20Was%20Done.md)
 
 *4 practices total*
