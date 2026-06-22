@@ -40,9 +40,7 @@ For an introduction, see [Understanding Relational Micro-Practices](Orientation/
 
 The full system. Shared practices organized into a developmental arc — the Relational Arc — that maps the journey from foundation to emergence and beyond. Each guide holds the complete practice: what it feels like (Experience), how it works (Process), and what to do (Practice).
 
-Each threshold has its own folder:
-
-The practices are organized into ten thresholds:
+The practices are organized into ten thresholds, each with its own folder:
 
 | Threshold | Name | Practices | What it develops |
 |-----------|------|-----------|-----------------|
@@ -52,7 +50,7 @@ The practices are organized into ten thresholds:
 | 4 | **Navigating Challenge** | 8 | Working with friction, shadows, triggers, trauma, and different capacities |
 | 5 | **Repairing** | 4 | Healing ruptures, taking responsibility, releasing what was done |
 | 6 | **Transforming** | 6 | Embodying new patterns until they become natural |
-| 7 | **The Field Between Us** | 12+ | The relational field as a living system with multiple dimensions: body, expression, touch, emotions, mind, and the felt sense of the sacred |
+| 7 | **The Field Between Us** | 12 (+6 in development) | The relational field as a living system with multiple dimensions: body, expression, touch, emotions, mind, and the felt sense of the sacred |
 | 8 | **Emergence** | 12 | What becomes possible when the foundation is solid — creativity, play, grief, love, rest |
 | 9 | **The Larger Pattern** | 4 | Meta-practices that synthesize the whole journey |
 | 10 | **Beginning Again** | 1 | Honoring the cycle and starting the next turn |
