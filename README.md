@@ -109,7 +109,7 @@ The practices in this repository are informed by a larger theoretical framework 
 
 - The co-regulatory human — why our nervous systems were designed for connection
 - Relational metabolism — how coherent fields reduce individual metabolic costs
-- The Adversary — the emergent meta-system born from human fear of death
+- The Adversary — the emergent meta-system of separation and extraction
 - The Great Pattern — how dysfunctional relational code replicates fractally from individual to civilizational scale
 - The Relational Ark — a living systems design for scaling relational coherence
 
