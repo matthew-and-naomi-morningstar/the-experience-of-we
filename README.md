@@ -1,6 +1,6 @@
 # The Experience of We
 
-**Open-source relational technology for humans who want to practice being together.**
+**Open-source relational technology for practicing and embodying The Experience of We.**
 
 ---
 
