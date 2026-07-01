@@ -2,7 +2,7 @@
 
 *Documents that help you enter The Experience of We.*
 
-The suggested sequence below moves from invitation through honest assessment to shared commitment to map to practical how-to. A parallel way in opens at the end.
+The suggested sequence below moves from invitation through honest assessment to shared commitment to map to practical how-to.
 
 ## Suggested sequence
 
@@ -26,8 +26,4 @@ The suggested sequence below moves from invitation through honest assessment to 
 7. [**Inviting a Companion**](./07%20Inviting%20a%20Companion%20-%20A%20Guide%20to%20Sharing%20This%20Practice%20With%20Someone%20You%20Trust.md) — How to extend the invitation without pressure.
 8. [**Beginning on Your Own**](./08%20Beginning%20on%20Your%20Own%20-%20A%20Guide%20to%20Practicing%20Before%20You%20Find%20Your%20Companion.md) — How to practice alone until a partner is available.
 
-## A parallel way in
-
-[**Understanding Relational Micro-Practices**](./Understanding%20Relational%20Micro-Practices%20-%20A%20Shared%20Guide%20to%20What%20They%20Are%20and%20How%20They%20Stack.md) — Small, repeatable practices that can be picked up in single moments: a breath, a sentence, a pause. Parallel to *The Relational Arc*: a different way in, for relationships that want to begin with something small.
-
-*9 documents total*
+*8 documents total*
