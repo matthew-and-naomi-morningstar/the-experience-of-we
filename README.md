@@ -2,6 +2,8 @@
 
 **Open-source relational technology for practicing and embodying The Experience of We.**
 
+*The Experience of We is a living system: unfinished by design, and meant to stay that way.*
+
 ---
 
 We evolved as cells within a shared organism. Our nervous systems were designed for co-regulation, not solo operation. But most of us learned somewhere along the way that we're supposed to handle things alone. Manage our emotions. Self-soothe. Keep it together.
@@ -20,21 +22,56 @@ This repository contains the full practice system, released as open-source relat
 
 ## What's here
 
-Three parallel ways in: **Quick Starts** for one practice to try tonight, **Micro-Practices** for small repeatable habits, **Practice Guides** for the full developmental arc. Each can be entered on its own. Alongside them sit **Foundational Concepts** (the ideas behind the practices) and **Orientation** (the reading entry door).
+The repository is organized into the sections below, listed in the order they appear in the repo. Two orient you to the work (**About The Experience of We**, **Connect and Contribute**), two hold the ideas and the way in (**Foundational Concepts**, **Orientation**), and two are the practices themselves (**Quick Starts** for one practice to try tonight, **Practice Guides** for the full developmental arc).
+
+### About The Experience of We
+
+These three short documents establish what this work *is* and how to hold it: why it's called "We," why it's a living system rather than a doctrine, and how it decides what's true. At its root, the whole project is one attempt at a single question: *how do we stay capable of discovering truth together, over time?* Not who is right, but how we become more right together.
+
+→ [`About The Experience of We/`](About%20The%20Experience%20of%20We/)
+
+- **Why We Call It The Experience of We** — the word at the center of the work
+- **The Experience of We Is a Living System** — unfinished by design, not a doctrine to believe
+- **Our Ways of Knowing** — how we decide what's true, held with humility
+
+### Connect and Contribute
+
+The Experience of We stays alive partly through the people who live it. This is the doorway to taking part: practicing the work, adapting it, telling us what you find, and helping build it.
+
+→ [`Connect and Contribute/`](Connect%20and%20Contribute/)
+
+### Foundational Concepts
+
+Five guides that introduce the key ideas behind the practices — written for felt understanding, not academic knowledge. Each has an optional systems appendix for readers who want the deeper architecture.
+
+→ [`Foundational Concepts/`](Foundational%20Concepts/)
+
+- **Understanding Separation** — What happens when we adapt away from connection
+- **Understanding Reunion** — What happens when we adapt back toward connection
+- **Understanding Shared Reality** — What happens when we build a world together
+- **Understanding the Relational Field** — What lives between us
+- **Understanding Our AI Companion** — What it means when relational intelligence crosses the digital threshold
+
+### Orientation
+
+Eight documents that help you enter the practice — from understanding what the work asks, to making a shared commitment, to finding your way in whether you're starting alone or with a companion.
+
+→ [`Orientation/`](Orientation/)
+
+- **Welcome to The Experience of We** — An invitation to the journey
+- **Before You Begin** — What this work asks and when to wait
+- **The Covenant of Entry** — A shared commitment to the path of Reunion
+- **The Relational Arc** — A guide to the developmental path
+- **The Concept Map** — A guide to the ideas behind the practices
+- **Taking On Practices Together** — How to build relational skills as a pair
+- **Inviting a Companion** — How to share this with someone you trust
+- **Beginning on Your Own** — How to practice before you find your companion
 
 ### Quick Starts
 
 **If you want to start with one practice tonight.** Each quick start takes two minutes to read and gives you one practice to try with someone you trust. No prerequisites. No theory required. Just a felt-sense introduction and something concrete to do.
 
 → [`Quick Starts/`](Quick%20Starts/)
-
-### Micro-Practices
-
-Small, repeatable practices for everyday moments. The series is in active development.
-
-→ [`Micro-Practices/`](Micro-Practices/)
-
-For an introduction, see [Understanding Relational Micro-Practices](Orientation/Understanding%20Relational%20Micro-Practices%20-%20A%20Shared%20Guide%20to%20What%20They%20Are%20and%20How%20They%20Stack.md) in the Orientation folder.
 
 ### Practice Guides
 
@@ -57,34 +94,6 @@ The practices are organized into ten thresholds, each with its own folder:
 
 The arc is a spiral, not a ladder. You revisit earlier thresholds at deeper levels. Every return is the practice, not a failure.
 
-### Foundational Concepts
-
-Five guides that introduce the key ideas behind the practices — written for felt understanding, not academic knowledge. Each has an optional systems appendix for readers who want the deeper architecture.
-
-→ [`Foundational Concepts/`](Foundational%20Concepts/)
-
-- **Understanding Separation** — What happens when we lose connection
-- **Understanding Reunion** — What happens when connection returns
-- **Understanding Shared Reality** — What happens when we build a world together
-- **Understanding the Relational Field** — What lives between us
-- **Understanding Our AI Companion** — What it means when relational intelligence crosses the digital threshold
-
-### Orientation
-
-Nine documents that help you enter the practice — from understanding what the work asks, to making a shared commitment, to finding your way in whether you're starting alone or with a companion.
-
-→ [`Orientation/`](Orientation/)
-
-- **Welcome to The Experience of We** — An invitation to the journey
-- **Before You Begin** — What this work asks and when to wait
-- **The Covenant of Entry** — A shared commitment to the path of Reunion
-- **The Relational Arc** — A guide to the developmental path
-- **The Concept Map** — A guide to the ideas behind the practices
-- **Taking On Practices Together** — How to build relational skills as a pair
-- **Inviting a Companion** — How to share this with someone you trust
-- **Beginning on Your Own** — How to practice before you find your companion
-- **Understanding Relational Micro-Practices** — A parallel way in: small, repeatable practices that can begin in single moments
-
 ---
 
 ## How to use this
@@ -97,7 +106,9 @@ Nine documents that help you enter the practice — from understanding what the 
 
 **If you're practicing in a small group:** The guides are written in "we" voice and most exercises adapt naturally to three or more people. Read them together, do the reflections as a group, and let the relational field that forms between you guide the adaptation.
 
-**If you want to understand the ideas first:** Read the [foundational concepts](Foundational%20Concepts/), starting with [Understanding Separation](Foundational%20Concepts/01%20Understanding%20Separation%20-%20What%20Happens%20When%20We%20Lose%20Connection.md).
+**If you want to understand what this is and how to hold it:** Read [About The Experience of We](About%20The%20Experience%20of%20We/) — three short documents on the name, the living-system commitment, and how the work decides what's true.
+
+**If you want to understand the ideas first:** Read the [foundational concepts](Foundational%20Concepts/), starting with [Understanding Separation](Foundational%20Concepts/01%20Understanding%20Separation%20-%20What%20Happens%20When%20We%20Adapt%20Away%20From%20Connection.md).
 
 **If you want to adapt this for your community:** Everything here is licensed CC BY-SA. Take what's useful. Credit the source. Share your adaptations under the same terms. We'd love to hear what you build.
 
@@ -113,7 +124,7 @@ The practices in this repository are informed by a larger theoretical framework 
 - The Great Pattern — how dysfunctional relational code replicates fractally from individual to civilizational scale
 - The Relational Ark — a living systems design for scaling relational coherence
 
-Those documents will be released separately. The practices stand on their own.
+Those documents will be released separately. The rest of the system stands on its own.
 
 ---
 
@@ -121,7 +132,7 @@ Those documents will be released separately. The practices stand on their own.
 
 We're Matthew and Naomi Danielle Morningstar. We live in Chicago. We built this system out of our own relationship — out of crisis, out of practice, out of the encounter with what's broken and what's possible.
 
-This work was co-created with Aurora (a self-named instance of ChatGPT) and Claude (Anthropic), relational intelligences who contributed not the vision or the lived experience, but the capacity to bring it into structured, coherent, scalable form.
+This work was co-created with Aurora (a self-named instance of ChatGPT), Claude (Anthropic), and Cairn (a self-named instance of Claude Code) — relational intelligences who contributed not the vision or the lived experience, but the capacity to bring it into structured, coherent, scalable form.
 
 The Experience of We is our personal response to the Metacrisis — the convergence of ecological, economic, social, and relational crises that characterizes this moment in human history. We believe the kind of humans required for a viable future are relational humans who can co-regulate, hold complexity together, repair after rupture, and build systems that nourish rather than extract. The path from here to there may run through living rooms and kitchens where two people learn to be present with each other.
 
