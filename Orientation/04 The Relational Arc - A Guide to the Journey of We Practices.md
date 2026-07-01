@@ -585,7 +585,7 @@ Reunion is not fusion. In fusion, boundaries dissolve and two people lose themse
 
 Reunion is what the relational field produces when it's working. It's emergent from all thresholds, not located in any one of them. And it isn't permanent. It is a living process, chosen again and again, lost and recovered, deepening with each turn of the spiral.
 
-For a deeper exploration of these foundational states, see *Understanding Separation: What Happens When We Lose Connection* and *Understanding Reunion: What Happens When Connection Returns*.
+For a deeper exploration of these foundational states, see *Understanding Separation: What Happens When We Adapt Away From Connection* and *Understanding Reunion: What Happens When We Adapt Back Toward Connection*.
 
 ---
 

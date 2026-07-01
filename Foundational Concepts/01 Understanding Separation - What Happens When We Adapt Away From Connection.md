@@ -1,6 +1,6 @@
 # Understanding Separation
 
-*What Happens When We Lose Connection*
+*What Happens When We Adapt Away From Connection*
 
 ---
 

@@ -8,8 +8,8 @@ Each foundational concept guide is written for felt understanding, not academic 
 
 *The arc most directly felt*
 
-1. [**Understanding Separation**](./01%20Understanding%20Separation%20-%20What%20Happens%20When%20We%20Lose%20Connection.md) — What happened. The condition the practices are a response to.
-2. [**Understanding Reunion**](./02%20Understanding%20Reunion%20-%20What%20Happens%20When%20Connection%20Returns.md) — The movement back toward connection. Not a destination but a living process.
+1. [**Understanding Separation**](./01%20Understanding%20Separation%20-%20What%20Happens%20When%20We%20Adapt%20Away%20From%20Connection.md) — What happened. The condition the practices are a response to.
+2. [**Understanding Reunion**](./02%20Understanding%20Reunion%20-%20What%20Happens%20When%20We%20Adapt%20Back%20Toward%20Connection.md) — The movement back toward connection. Not a destination but a living process.
 3. [**Understanding Shared Reality**](./03%20Understanding%20Shared%20Reality%20-%20What%20Happens%20When%20We%20Build%20a%20World%20Together.md) — How we build a world together. What separation fragments and reunion rebuilds.
 
 *The medium beneath the arc*

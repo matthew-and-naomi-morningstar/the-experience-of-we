@@ -1,6 +1,6 @@
 # Understanding Reunion
 
-*What Happens When Connection Returns*
+*What Happens When We Adapt Back Toward Connection*
 
 ---
 
